@@ -1,0 +1,1001 @@
+Id,track_id,artists,album_name,track_name,track_genre,duration_ms,mode,tempo,popularity,key,loudness,explicit,time_signature,danceability,energy,valence,acousticness,instrumentalness,speechiness,liveness
+62000,3dPtXHP0oXQ4HCWHsOA9js,YOASOBI,夜に駆ける,夜に駆ける,j-pop,261013,1,130.041,74,8,-5.221,False,4,0.67,0.874,0.789,0.00231,1.72E-5,0.0305,0.3
+62001,7LHAKF7pBqHch8o6Yo0ad5,RADWIMPS;Toaka,Suzume,Suzume,j-pop,236390,0,78.025,68,2,-6.572,False,4,0.571,0.415,0.342,0.615,0,0.0305,0.187
+62002,0o9zmvc5f3EFApU52PPIyW,Fujii Kaze,HELP EVER HURT NEVER,Shinunoga E-Wa,j-pop,185573,0,158.078,85,6,-6.124,False,4,0.6,0.76,0.519,0.166,4.09E-5,0.0452,0.189
+62003,1di1C0QI6Y92yZPYn6XYAZ,KANA-BOON,TIME,シルエット,j-pop,240133,1,91.481,73,2,-2.685,False,4,0.436,0.934,0.384,1.03E-5,0.14,0.0507,0.321
+62004,1rN9QoVxw5U7TJkyaUR8C1,TK from Ling tosite sigure,Fantastic Magic,unravel,j-pop,238360,0,135.014,73,7,-2.755,False,4,0.508,0.889,0.332,0.0495,0,0.0862,0.0984
+62005,1AM8QdDFZMq6SrrqUnuQ9P,Michael Bublé,It's Time,Feeling Good,j-pop,237333,1,115.144,73,1,-6.51,False,3,0.535,0.548,0.477,0.533,1.48E-6,0.037,0.123
+62006,0olowJHoOuNQXDDERcchzM,Fujii Kaze,Autumn Vibes 2022,Shinunoga E-Wa,j-pop,185573,0,158.078,0,6,-6.124,False,4,0.6,0.76,0.519,0.166,4.09E-5,0.0452,0.189
+62007,2e1gUS6Wv8GS8ZT6FMeE1J,ロクデナシ,ただ声一つ,ただ声一つ,j-pop,161561,1,129.97,70,1,-5.78,False,4,0.707,0.5,0.583,0.895,4.0E-5,0.0296,0.234
+62008,3A4FRzgve9BjfKbvVXRIFO,RADWIMPS,Your Name.,Sparkle - movie ver.,j-pop,537653,1,123.993,66,11,-8.421,False,4,0.372,0.426,0.287,0.687,0.00784,0.0339,0.109
+62009,2XpV9sHBexcNrz0Gyf3l18,Ikimonogakari,Chou Ikimonobakari Tennen Kinen Members Best Selection,ブルーバード,j-pop,215706,0,152.076,70,6,-2.929,False,4,0.536,0.966,0.849,0.121,0,0.0558,0.0477
+62010,2ajUl8lBLAXOXNpG4NEPMz,Michael Bublé,Michael Bublé,Sway,j-pop,188066,0,125.959,74,2,-5.529,False,4,0.713,0.639,0.737,0.753,0,0.0313,0.0878
+62011,4ca6LN5b17Qjo2GinxmA5v,Ado,TOKYO - HALLOWEEN -,Tot Musica,j-pop,195226,0,129.974,0,5,-3.948,False,4,0.669,0.934,0.175,0.073,0,0.0653,0.123
+62012,7v8wKvNQQIxkugCFFjrkaO,Aimer,残響散歌,残響散歌,j-pop,184893,1,170.863,77,11,-4.002,False,4,0.367,0.896,0.38,6.27E-4,0,0.091,0.207
+62013,6Ojs2aTZv7yeHkZKJQx8UV,Ado,J-Pop 輕旅行,世界のつづき,j-pop,287986,1,75.209,9,9,-7.331,False,4,0.368,0.327,0.21,0.406,0,0.029,0.103
+62014,4CreOwx4doKJUyxRR0GjIE,AVIWKILA,"I Like You so Much, You’ll Know It","I Like You so Much, You’ll Know It",j-pop,193980,1,107.99,59,3,-5.318,False,4,0.717,0.508,0.762,0.889,0,0.0295,0.185
+62015,074NgeLzrXD9hQ5O3iNIcY,ONE OK ROCK,Rock Brandneu,Save Yourself,j-pop,197995,1,165.096,1,5,-2.709,False,4,0.503,0.849,0.762,0.00428,0,0.0615,0.0667
+62016,1G21erc1ygVSJDvadnWfRX,Michael Bublé;Nelly Furtado,Just Best Covers,"Quando, Quando, Quando",j-pop,284373,1,116.042,2,9,-9.196,False,4,0.644,0.427,0.577,0.778,9.51E-5,0.0391,0.136
+62017,5P7RUK1ibNNyuaGoXgs4W6,Michael Bublé,Holly Jolly Christmas,Holly Jolly Christmas,j-pop,119786,1,151.251,2,7,-8.308,False,4,0.649,0.466,0.699,0.865,0,0.0428,0.0882
+62018,1rj9l40X83Ju0I0hdCjOL1,Michael Bublé,Christmas Time,Holly Jolly Christmas,j-pop,119786,1,151.251,2,7,-8.308,False,4,0.649,0.466,0.699,0.865,0,0.0428,0.0882
+62019,4DwWLKys3e3SRuJovxX7hz,Michael Bublé,Perfect Christmas Hits,It's Beginning to Look a Lot Like Christmas,j-pop,206346,1,93.391,1,4,-11.042,False,3,0.335,0.232,0.381,0.908,8.89E-6,0.0334,0.292
+62020,57rnZ6f2YgQW0iw2kT12Kt,Michael Bublé,Feeling Good - Adult Pop Favorites,Feeling Good,j-pop,237333,1,115.146,1,1,-6.51,False,3,0.535,0.547,0.477,0.533,1.49E-6,0.037,0.123
+62021,0Gjsi7CQFsZJUIUKQIxYQP,Michael Bublé,Cuddle Up Christmas,It's Beginning to Look a Lot Like Christmas,j-pop,206346,1,93.391,0,4,-11.042,False,3,0.335,0.232,0.381,0.908,8.89E-6,0.0334,0.292
+62022,2A5eNt3Iso3DUkXuLvS6iB,Michael Bublé,Christmas Music - Holiday Hits,It's Beginning to Look a Lot Like Christmas,j-pop,206346,1,93.391,0,4,-11.042,False,3,0.335,0.232,0.381,0.908,8.89E-6,0.0334,0.292
+62023,2VSdj9iXoaPojkSMKp2gXI,Michael Bublé,Mellow Adult Pop,Me and Mrs. Jones,j-pop,271786,1,198.154,2,1,-8.666,False,3,0.36,0.381,0.346,0.59,5.1E-5,0.0488,0.0846
+62024,1rw6CYYHLFBISRtZxYP8sh,Michael Bublé,Merry Christmas,It's Beginning to Look a Lot Like Christmas,j-pop,206346,1,93.391,0,4,-11.042,False,3,0.335,0.232,0.381,0.908,8.89E-6,0.0334,0.292
+62025,5mXkwFSEKXMDikxK6x6lDv,Michael Bublé,Coffee Moment,Love You Anymore,j-pop,182666,1,90.014,0,6,-7.785,False,4,0.693,0.257,0.603,0.869,0,0.0356,0.11
+62026,1uWxXVpl4ZXFT7d6CH7LBS,Michael Bublé,Pop Hits Now,I'll Never Not Love You,j-pop,218390,1,144.363,0,11,-5.045,False,4,0.492,0.791,0.585,0.00816,1.87E-5,0.0703,0.11
+62027,5uNnGViAuZIkoUhVwmFWlr,Norah Jones,Coffee Break,Shoot The Moon,j-pop,237173,1,74.031,1,0,-12.436,False,4,0.573,0.265,0.425,0.903,0.00152,0.027,0.094
+62028,2lN6zxaP5KYQHKSAh7nWBs,Michael Bublé,Human - Best Adult Pop Tunes,I'll Never Not Love You,j-pop,218390,1,144.363,1,11,-5.045,False,4,0.492,0.791,0.585,0.00816,1.87E-5,0.0703,0.11
+62029,3AQWkYhZm0okGpW5yTGxiA,Norah Jones,Rockin' Around The Christmas Tree 2022,Christmas Calling (Jolly Jones),j-pop,200461,1,143.912,0,8,-6.296,False,4,0.43,0.543,0.354,0.463,5.23E-4,0.0367,0.0928
+62030,3LzaKDsdKNFvDTiLjGV1Hj,Norah Jones,Jingle Bell Rock 2022,Christmas Don't Be Late,j-pop,160293,1,66.377,2,5,-6.953,False,4,0.464,0.356,0.265,0.708,7.76E-5,0.03,0.108
+62031,7i4ClHpiIbAf5Qfmj6jYJG,Norah Jones,All I Want For Christmas Is You,Christmas Calling (Jolly Jones),j-pop,200461,1,143.912,0,8,-6.296,False,4,0.43,0.543,0.354,0.463,5.23E-4,0.0367,0.0928
+62032,5XXVagaaaeWjbjdwggIYu9,Norah Jones,Holidays Are Coming,Blue Christmas,j-pop,204826,1,66.72,0,0,-10.566,False,4,0.536,0.163,0.233,0.695,2.39E-4,0.0349,0.126
+62033,5JG7sDluJPAh8zcW2JuxvS,Norah Jones,REGNIG DAG,I Think It's Going To Rain Today - Live,j-pop,184066,1,104.138,5,3,-12.457,False,3,0.461,0.0825,0.194,0.984,3.06E-5,0.0474,0.704
+62034,3v6nuqte5aF8NyNAMr9Z8A,Norah Jones,Rockin' Around The Christmas Tree 2022,Christmas Don't Be Late,j-pop,160293,1,66.377,0,5,-6.953,False,4,0.464,0.356,0.265,0.708,7.76E-5,0.03,0.108
+62035,0hyklxPQEAkEE7TmW6fneb,Norah Jones,Christmas Best Hits 2022,Christmas Calling (Jolly Jones),j-pop,200461,1,143.912,0,8,-6.296,False,4,0.43,0.543,0.354,0.463,5.23E-4,0.0367,0.0928
+62036,4tAFgTwOs5mVJthAx3eMck,Norah Jones,Holidays Are Coming,Christmas Don't Be Late,j-pop,160293,1,66.785,0,10,-6.941,False,4,0.497,0.374,0.235,0.751,5.82E-5,0.028,0.118
+62037,0PImsyxnQ3H1P3yZRSRfv9,Norah Jones,Santa Claus Is Coming To Town,Christmas Calling (Jolly Jones),j-pop,200461,1,143.912,0,8,-6.296,False,4,0.43,0.543,0.354,0.463,5.23E-4,0.0367,0.0928
+62038,4b2jsFgwiua3iomixuDbJk,Norah Jones,A Merry Modern Christmas,The Christmas Waltz,j-pop,197866,1,175.2,0,5,-6.538,False,3,0.475,0.347,0.285,0.776,1.2E-4,0.213,0.113
+62039,6DBvBUP5xAytSocaBr05vD,Norah Jones,All I Want For Christmas Is You,Wintertime,j-pop,228234,1,183.468,0,0,-12.519,False,4,0.525,0.205,0.207,0.84,0.0213,0.0457,0.114
+62040,2YujY0AUbWO6f6gyyf6pXI,Norah Jones,Christmas Best Hits 2022,Wintertime,j-pop,228234,1,183.468,0,0,-12.519,False,4,0.525,0.205,0.207,0.84,0.0213,0.0457,0.114
+62041,5eiNZ6Bta9NSU5AJ2Gfsd4,Norah Jones,Santa Claus Is Coming To Town,Wintertime,j-pop,228234,1,183.468,0,0,-12.519,False,4,0.525,0.205,0.207,0.84,0.0213,0.0457,0.114
+62042,2KKsgm1YQKWC1fpPqz3dU4,Norah Jones,World's Best Christmas Playlist,Christmas Don't Be Late,j-pop,160293,1,66.785,0,10,-6.941,False,4,0.497,0.374,0.235,0.751,5.82E-5,0.028,0.118
+62043,7bdROC1GostP0gWqEP8P2h,Norah Jones,Christmas Dinner,It's Not Christmas 'Til You Come Home - Recorded At Spotify Studios NYC,j-pop,192420,1,93.777,0,0,-20.033,False,3,0.473,0.068,0.262,0.892,0.00216,0.0315,0.105
+62044,7Krx6Hsh1pC1gpfkKaV51q,Norah Jones,All I Want For Christmas Is You,Christmas Don't Be Late,j-pop,160293,1,66.785,0,10,-6.941,False,4,0.497,0.374,0.235,0.751,5.82E-5,0.028,0.118
+62045,0bCs8cnCjM38ZB01jCGOFG,Norah Jones,Christmas Best Hits 2022,It's Not Christmas 'Til You Come Home - Recorded At Spotify Studios NYC,j-pop,192420,1,93.777,0,0,-20.033,False,3,0.473,0.068,0.262,0.892,0.00216,0.0315,0.105
+62046,6ZMx2iR4mBPKDXThxyUWFI,Norah Jones,Christmas Best Hits 2022,Christmas Don't Be Late,j-pop,160293,1,66.785,0,10,-6.941,False,4,0.497,0.374,0.235,0.751,5.82E-5,0.028,0.118
+62047,0dDiL61IhX9p8e5hjsuiK7,Norah Jones,All I Want For Christmas Is You,It's Not Christmas 'Til You Come Home - Recorded At Spotify Studios NYC,j-pop,192420,1,93.777,0,0,-20.033,False,3,0.473,0.068,0.262,0.892,0.00216,0.0315,0.105
+62048,1xUuWDvTOwwhaj8CCLunhs,Norah Jones,Lonely Christmas 2022,It's Not Christmas 'Til You Come Home - Recorded At Spotify Studios NYC,j-pop,192420,1,93.777,0,0,-20.033,False,3,0.473,0.068,0.262,0.892,0.00216,0.0315,0.105
+62049,2YJ7Y1oJO1O9w4qnxoJWmK,Norah Jones,Santa Claus Is Coming To Town,Christmas Don't Be Late,j-pop,160293,1,66.785,0,10,-6.941,False,4,0.497,0.374,0.235,0.751,5.82E-5,0.028,0.118
+62050,3khEEPRyBeOUabbmOPJzAG,Kenshi Yonezu,KICK BACK,KICK BACK,j-pop,193495,1,101.921,83,1,-5.17,False,4,0.577,0.941,0.292,0.00207,3.36E-6,0.105,0.0891
+62051,6MCjmGYlw6mQVWRFVgBRvB,YOASOBI,THE BOOK,夜に駆ける,j-pop,258838,1,130.025,75,8,-5.287,False,4,0.663,0.871,0.826,0.00299,1.8E-6,0.03,0.337
+62052,5j5a0uWJly5tOvBZiFJbxA,Norah Jones,ZEN 2022,And Then There Was You,j-pop,185586,1,84.608,0,10,-20.204,False,3,0.471,0.0845,0.149,0.956,0.147,0.0305,0.0825
+62053,429MLoev9mkgxvv3CJe0co,Norah Jones,Christmas 2022,I Dream Of Christmas,j-pop,203906,1,107.566,0,6,-6.215,False,4,0.409,0.71,0.376,0.15,0.285,0.0398,0.171
+62054,5uNnGViAuZIkoUhVwmFWlr,Norah Jones,Coffee Break,Shoot The Moon,j-pop,237173,1,74.031,1,0,-12.436,False,4,0.573,0.265,0.425,0.903,0.00152,0.027,0.094
+62055,4j4Gj9DGGf3z5XeoG7otgM,Norah Jones,Rock Christmas 2022 - The Very Best Of,I Dream Of Christmas,j-pop,203906,1,107.566,0,6,-6.215,False,4,0.409,0.71,0.376,0.15,0.285,0.0398,0.171
+62056,0Rs16msoj79XTObU9iEIqd,Norah Jones,JULMYS,December,j-pop,185680,1,143.778,0,4,-12.817,False,4,0.414,0.131,0.112,0.934,7.88E-5,0.0347,0.11
+62057,4hCepaOhXXxm3XTqHvPDJr,Norah Jones,Christmas Dinner 2022,I Dream Of Christmas,j-pop,203906,1,107.566,0,6,-6.215,False,4,0.409,0.71,0.376,0.15,0.285,0.0398,0.171
+62058,5lCZRY69UnWKdApn7kmpfG,Norah Jones,Christmas 2022,Wintertime,j-pop,228234,1,183.468,0,0,-12.519,False,4,0.525,0.205,0.207,0.84,0.0213,0.0457,0.114
+62059,0D3VbWMK9GhdajZbbqRdqp,Norah Jones,Jingle Bell Rock 2022,Wintertime,j-pop,228234,1,183.468,1,0,-12.519,False,4,0.525,0.205,0.207,0.84,0.0213,0.0457,0.114
+62060,77iEIVtfiVS10SfWevtuIY,Norah Jones,Christmas Songs 2022,Wintertime,j-pop,228234,1,183.468,0,0,-12.519,False,4,0.525,0.205,0.207,0.84,0.0213,0.0457,0.114
+62061,3QQjfFpoCa8qIDXfg8DaBQ,Norah Jones,Desayuno en calma,Come Away With Me,j-pop,197453,1,80.567,0,0,-13.818,False,4,0.354,0.126,0.17,0.87,0,0.0323,0.151
+62062,3siiSoWFWuwTOERUPAAvCY,Norah Jones,JULPYNTA,December,j-pop,185680,1,143.778,0,4,-12.817,False,4,0.414,0.131,0.112,0.934,7.88E-5,0.0347,0.11
+62063,1yXt5zzy2Gcf9IhlepvfGh,Norah Jones,Best Christmas Songs 2022 | For under the Mistletoe,Christmas Calling (Jolly Jones),j-pop,200461,1,143.912,0,8,-6.296,False,4,0.43,0.543,0.354,0.463,5.23E-4,0.0367,0.0928
+62064,53oBTbL9t13HAyxN12PDng,Norah Jones,Rock Christmas 2022 - The Very Best Of,Christmas Calling (Jolly Jones),j-pop,200461,1,143.912,0,8,-6.296,False,4,0.43,0.543,0.354,0.463,5.23E-4,0.0367,0.0928
+62065,13Cl3XIn5yPJwbVilbRPNb,Norah Jones,Holiday Favorites 2022,Christmas Calling (Jolly Jones),j-pop,200461,1,143.912,0,8,-6.296,False,4,0.43,0.543,0.354,0.463,5.23E-4,0.0367,0.0928
+62066,4i4yd6kbdea6vJdTa516dk,Norah Jones,Holiday Tunes 2022,Christmas Calling (Jolly Jones),j-pop,200461,1,143.912,0,8,-6.296,False,4,0.43,0.543,0.354,0.463,5.23E-4,0.0367,0.0928
+62067,6lmmKOEjpbMr7RfC78PJvR,Norah Jones,Christmas 2022,Christmas Calling (Jolly Jones),j-pop,200461,1,143.912,0,8,-6.296,False,4,0.43,0.543,0.354,0.463,5.23E-4,0.0367,0.0928
+62068,356quoF2TOeYPEd31QYaSb,Norah Jones,Christmas Dinner 2022,Christmas Calling (Jolly Jones),j-pop,200461,1,143.912,0,8,-6.296,False,4,0.43,0.543,0.354,0.463,5.23E-4,0.0367,0.0928
+62069,6Nn4pKqCL0m9bWQL2zdXf8,Norah Jones,Rock Christmas 2022 - The Very Best Of,Christmas Don't Be Late,j-pop,160293,1,66.377,0,5,-6.953,False,4,0.464,0.356,0.265,0.708,7.76E-5,0.03,0.108
+62070,1R8nyQttVCp1hGDQbaBpwY,Norah Jones,Christmas Best Hits 2022,I Dream Of Christmas,j-pop,203906,1,107.552,0,6,-6.238,False,4,0.614,0.699,0.431,0.14,0.252,0.0315,0.115
+62071,0pfvIu8AKvwEtd88Qvse8p,Norah Jones,All I Want For Christmas Is You,I Dream Of Christmas,j-pop,203906,1,107.552,0,6,-6.238,False,4,0.614,0.699,0.431,0.14,0.252,0.0315,0.115
+62072,60cgjLoKezdGBRJN7gRMzw,Norah Jones,All I want For Christmas Is Music,Christmas Calling (Jolly Jones),j-pop,200461,1,143.912,0,8,-6.296,False,4,0.43,0.543,0.354,0.463,5.23E-4,0.0367,0.0928
+62073,24Ccvo6GDMJZKqHtFs954n,Norah Jones,Christmas Dinner,Christmas Calling (Jolly Jones),j-pop,200461,1,143.912,0,8,-6.296,False,4,0.43,0.543,0.354,0.463,5.23E-4,0.0367,0.0928
+62074,1NAvb7rxR26xGIC9jthaEu,Norah Jones,Un tecito y a mimir,The Nearness Of You,j-pop,189906,1,166.882,0,0,-16.173,False,3,0.388,0.0378,0.205,0.979,2.1E-4,0.045,0.0947
+62075,4EkUrEYfuH6rycfOg9zeYS,Norah Jones,Jingle Bell Rock 2022,I Dream Of Christmas,j-pop,203906,1,107.566,0,6,-6.215,False,4,0.409,0.71,0.376,0.15,0.285,0.0398,0.171
+62076,6NKNayk2utB9a7Lv1x7Y1A,Norah Jones,Jingle Bell Rock 2022,Christmas Calling (Jolly Jones),j-pop,200461,1,143.912,0,8,-6.296,False,4,0.43,0.543,0.354,0.463,5.23E-4,0.0367,0.0928
+62077,2iYOGj0lCH9yWOlVNmh4Xu,Norah Jones,Christmas 2022,Christmas Don't Be Late,j-pop,160293,1,66.377,0,5,-6.953,False,4,0.464,0.356,0.265,0.708,7.76E-5,0.03,0.108
+62078,4yzE8wAu3EvPEVCnRoJAb1,Norah Jones,Holiday Anthems 2022,Christmas Don't Be Late,j-pop,160293,1,66.377,0,5,-6.953,False,4,0.464,0.356,0.265,0.708,7.76E-5,0.03,0.108
+62079,6JcWanfC5bkTQy4iXbeFKL,Norah Jones,Alternative Christmas 2022,I Dream Of Christmas,j-pop,203906,1,107.552,0,6,-6.238,False,4,0.614,0.699,0.431,0.14,0.252,0.0315,0.115
+62080,6MjQxUVloSCCLmnJgVQ0A2,Norah Jones,Santa Claus Is Coming To Town,I Dream Of Christmas,j-pop,203906,1,107.552,0,6,-6.238,False,4,0.614,0.699,0.431,0.14,0.252,0.0315,0.115
+62081,5QIxA1EalEnhkKHxg9qAg8,Norah Jones,Calm Christmas,December,j-pop,185680,1,143.778,0,4,-12.817,False,4,0.414,0.131,0.112,0.934,7.88E-5,0.0347,0.11
+62082,127PerKvmbU6uTddgKjLJg,Norah Jones,Chill Christmas Dinner,It's Not Christmas 'Til You Come Home - Recorded At Spotify Studios NYC,j-pop,192420,1,93.777,0,0,-20.033,False,3,0.473,0.068,0.262,0.892,0.00216,0.0315,0.105
+62083,6pbhLLm1pujzVKaVVaPSIQ,Norah Jones,Weihnachten Musik,Blue Christmas,j-pop,204826,1,66.72,0,0,-10.566,False,4,0.536,0.163,0.233,0.695,2.39E-4,0.0349,0.126
+62084,7GAuCTio7iNylO0JZY4nda,Norah Jones,Weihnachtssongs,Blue Christmas,j-pop,204826,1,66.72,0,0,-10.566,False,4,0.536,0.163,0.233,0.695,2.39E-4,0.0349,0.126
+62085,68oZTWrQDccWDf4y9UpBXk,Norah Jones,Slow Christmas Songs 2022,It's Not Christmas 'Til You Come Home - Recorded At Spotify Studios NYC,j-pop,192420,1,93.777,0,0,-20.033,False,3,0.473,0.068,0.262,0.892,0.00216,0.0315,0.105
+62086,1Jw2m5Qdqk0EG94UjSrmmG,Norah Jones,Weihnachtslieder 2022,Christmas Calling (Jolly Jones),j-pop,200461,1,143.912,0,8,-6.296,False,4,0.43,0.543,0.354,0.463,5.23E-4,0.0367,0.0928
+62087,1zT20Rgscp6BAqMhMMFFtV,Norah Jones,Christmas Day Chill,December,j-pop,185680,1,143.778,0,4,-12.817,False,4,0.414,0.131,0.112,0.934,7.88E-5,0.0347,0.11
+62088,7ad7ylxNmPqxmS8SJYEUeJ,Norah Jones,Calm Christmas,Peace - First Sessions Demo,j-pop,233173,1,80.349,0,10,-17.252,False,3,0.46,0.0414,0.056,0.978,3.5E-4,0.0414,0.108
+62089,7FWvBjQqt9DEDilkq18Mv9,Norah Jones,All I want For Christmas Is Music,It's Not Christmas 'Til You Come Home - Recorded At Spotify Studios NYC,j-pop,192420,1,93.777,0,0,-20.033,False,3,0.473,0.068,0.262,0.892,0.00216,0.0315,0.105
+62090,68GZkt7raDog1o6f0ytxe0,Norah Jones,pov: you bake cookies,It's Not Christmas 'Til You Come Home - Recorded At Spotify Studios NYC,j-pop,192420,1,93.777,0,0,-20.033,False,3,0.473,0.068,0.262,0.892,0.00216,0.0315,0.105
+62091,1QSituq8TP7S5aJvdzwYcP,Norah Jones,Christmas Vibes But Not Christmas Songs,Wintertime,j-pop,228234,1,183.468,0,0,-12.519,False,4,0.525,0.205,0.207,0.84,0.0213,0.0457,0.114
+62092,5UImaIPLsLI79H2jfPk8IF,Norah Jones,Alternative Christmas 2022,Wintertime,j-pop,228234,1,183.468,0,0,-12.519,False,4,0.525,0.205,0.207,0.84,0.0213,0.0457,0.114
+62093,1CNUT80xAt39lPKgSJEjxU,Norah Jones,Christmas Vibes But Not Christmas Songs,Peace - Live In NYC,j-pop,244200,0,135.113,0,5,-13.793,False,4,0.49,0.295,0.141,0.905,0.155,0.0335,0.697
+62094,7bdROC1GostP0gWqEP8P2h,Norah Jones,Christmas Dinner,It's Not Christmas 'Til You Come Home - Recorded At Spotify Studios NYC,j-pop,192420,1,93.777,0,0,-20.033,False,3,0.473,0.068,0.262,0.892,0.00216,0.0315,0.105
+62095,01yZpKoKFXSzX2vQNYgvgy,Norah Jones,Alternative Christmas 2022,It's Not Christmas 'Til You Come Home - Recorded At Spotify Studios NYC,j-pop,192420,1,93.777,0,0,-20.033,False,3,0.473,0.068,0.262,0.892,0.00216,0.0315,0.105
+62096,1QV4Q9NNlC09PaZrtzpSlr,Norah Jones,Weihnachten Playlist,Christmas Don't Be Late,j-pop,160293,1,66.785,0,10,-6.941,False,4,0.497,0.374,0.235,0.751,5.82E-5,0.028,0.118
+62097,3qLOC0YV0fWgZ9VTlSKbmU,Norah Jones,Weihnachten Musik,Christmas Don't Be Late,j-pop,160293,1,66.785,0,10,-6.941,False,4,0.497,0.374,0.235,0.751,5.82E-5,0.028,0.118
+62098,1WmrZqiaAztoRBpE2WfmYL,Norah Jones,pov: you have a holly jolly christmas,Christmas Don't Be Late,j-pop,160293,1,66.785,0,10,-6.941,False,4,0.497,0.374,0.235,0.751,5.82E-5,0.028,0.118
+62099,7uki3SHvd09GpX4Fbq95Ui,Norah Jones,De ese gran pop de los 00's,Don't Know Why,j-pop,186160,1,88.467,0,5,-11.763,False,4,0.739,0.199,0.628,0.88,1.27E-5,0.028,0.0591
+62100,64yajM6CxtLghmgB53VeXT,Mrs. GREEN APPLE,インフェルノ,インフェルノ,j-pop,212546,1,92.466,69,4,-1.538,False,4,0.529,0.931,0.695,0.00955,0,0.0581,0.465
+62101,7p30D2KjK2XW7YUvI6nH3o,7!!,Anipps,オレンジ,j-pop,350200,1,171.637,63,7,-4.844,False,4,0.348,0.492,0.3,0.171,0,0.0324,0.116
+62102,5SuOikwiRyPMVoIQDJUgSV,Gen Hoshino,Comedy,Comedy,j-pop,230666,0,87.917,73,1,-6.746,False,4,0.676,0.461,0.715,0.0322,1.01E-6,0.143,0.358
+62103,5NQbUaeTEOGdD6hHcre0dZ,Fetty Wap;Remy Boyz,679 (feat. Remy Boyz),679 (feat. Remy Boyz),j-pop,196693,1,190.05,74,7,-5.738,True,4,0.618,0.717,0.603,0.00256,0,0.318,0.625
+62104,364JzOajs76bJymjHm3sVY,Kenshi Yonezu,BOOTLEG,ピースサイン,j-pop,238533,0,100.003,71,10,-3.853,False,4,0.593,0.935,0.618,0.00221,0,0.0684,0.315
+62105,1uveEvgKX4irLcp1BUTIFD,yama,色彩,色彩,j-pop,192175,0,117.04,71,7,-3.268,False,4,0.581,0.926,0.874,0.176,0,0.0662,0.251
+62106,3YOZLPRiTuYgItSGO41gPT,BURNOUT SYNDROMES,檸檬,FLY HIGH!!,j-pop,244493,1,94.466,66,11,-1.434,False,4,0.475,0.961,0.355,0.0132,0,0.0705,0.331
+62107,3OdkC5pG8vc26S26qHyBo8,Fujii Kaze,LOVE ALL SERVE ALL,まつり,j-pop,225920,1,97.025,68,1,-7.335,False,4,0.663,0.731,0.356,0.00892,0.0502,0.0338,0.293
+62108,2d8JP84HNLKhmd6IYOoupQ,Fetty Wap,Fetty Wap (Deluxe),Trap Queen,j-pop,222093,1,148.075,74,7,-3.803,True,4,0.746,0.873,0.817,0.0244,0,0.128,0.354
+62109,62Lv9WcrfzJqhvYDbilJy3,YOASOBI,たぶん,たぶん,j-pop,258666,1,90.008,66,5,-6.395,False,4,0.747,0.666,0.731,0.146,9.12E-4,0.0324,0.0981
+62110,5RXmLhscstsdvWPN0XtUa0,Vickeblanka,Black Catcher,Black Catcher,j-pop,195000,0,100.04,68,11,-5.259,False,4,0.586,0.892,0.665,7.9E-4,4.05E-6,0.0349,0.16
+62111,0zvN9oq95bIEQjvfcdeZlX,Yoshiki;HYDE,Red Swan,Red Swan,j-pop,263720,1,131.744,63,10,-4.689,False,4,0.275,0.782,0.154,0.0521,2.25E-6,0.0467,0.331
+62112,7tnYsRepXLaNhqj4xtcWP2,Fujii Kaze,grace,grace,j-pop,289541,1,108.971,70,7,-8.765,False,4,0.668,0.685,0.637,0.0822,0.0257,0.0472,0.319
+62113,06XQvnJb53SUYmlWIhUXUi,YOASOBI,怪物,怪物,j-pop,206000,1,169.935,71,1,-3.419,False,4,0.627,0.824,0.774,0.0699,6.57E-5,0.118,0.31
+62114,5mEqD00bdFcsiVd0MfvEeF,RADWIMPS,Your Name.,Dream lantern,j-pop,131666,1,175.6,63,8,-5.751,False,3,0.206,0.871,0.125,0.0316,6.55E-5,0.419,0.0596
+62115,5cRKj1kynNFqiliT2ndZ3y,Higuchi Ai,Akuma no Ko,Akuma no Ko,j-pop,227679,0,89.97,65,6,-6.273,False,4,0.561,0.686,0.22,0.267,0,0.0473,0.137
+62116,398dL22bDbKbAmiOnPaq7o,YOASOBI,THE BOOK,たぶん,j-pop,256773,1,90.003,68,5,-6.702,False,4,0.748,0.661,0.743,0.157,0.00102,0.0334,0.101
+62117,3lUOzabhWYyRImRszpJGOU,Vaundy,CHAINSAW BLOOD,CHAINSAW BLOOD,j-pop,200997,1,146.987,74,0,-5.229,False,4,0.528,0.855,0.549,7.38E-5,1.81E-6,0.0953,0.281
+62118,02xwA3Ej9NPetftp9V7VZ3,『ユイカ』,好きだから。,好きだから。,j-pop,298663,1,164.993,65,0,-6.363,False,4,0.607,0.498,0.714,0.239,4.04E-6,0.0311,0.313
+62119,3IDF7N86lrcWaJEt9C1gbS,Official HIGE DANdism,Cry Baby,Cry Baby,j-pop,240284,1,199.844,66,1,-4.605,False,4,0.318,0.902,0.437,0.0116,0,0.131,0.393
+62120,2l2yRJWgMiJkfPbRNiuC25,Ado,新時代 (ウタ from ONE PIECE FILM RED),新時代 - ウタ from ONE PIECE FILM RED,j-pop,228214,1,175.003,77,7,-2.262,False,4,0.494,0.986,0.421,0.0505,4.41E-6,0.243,0.334
+62121,4eChbtoFoOmWQt03aRDzaJ,Ado,UTA'S SONGS ONE PIECE FILM RED,Tot Musica,j-pop,195226,0,129.974,67,5,-3.948,False,4,0.669,0.934,0.175,0.073,0,0.0653,0.123
+62122,7dEfa89dZfo6CQPdsgGCF6,RADWIMPS,Your Name.,Nandemonaiya - movie ver.,j-pop,344053,1,167.936,63,6,-6.189,False,4,0.496,0.462,0.514,0.245,0,0.0307,0.282
+62123,51oc6MEsXTpnPn6GOw5VuP,Fujii Kaze,Kirari Remixes (Asia Edition),きらり,j-pop,231882,1,116.982,73,2,-6.833,False,4,0.746,0.764,0.701,0.00803,0,0.0462,0.357
+62124,7qOsSOpiL3R8RKyiBtIYNQ,BUMP OF CHICKEN,SOUVENIR,SOUVENIR,j-pop,264126,1,158.056,74,2,-4.997,False,4,0.622,0.94,0.96,0.0094,6.48E-6,0.0413,0.0957
+62125,4pw7EuK2WTWGHI51jCKuGJ,Higuchi Ai,Saiaku Saiai,Akuma no Ko,j-pop,229960,0,89.961,62,6,-6.402,False,4,0.567,0.663,0.187,0.223,0,0.0503,0.129
+62126,38kcwx5znepLWCIBID0Bwm,THE ORAL CIGARETTES,FIXION,Kyouran Hey Kids!!,j-pop,250973,1,142.016,69,8,-1.82,False,4,0.526,0.981,0.781,0.00318,0.00161,0.111,0.187
+62127,0xmWQKzc5m9rLv2ucDWxwD,FLOW,MICROCOSM,Sign,j-pop,236426,0,177.968,67,11,-2.899,False,4,0.363,0.914,0.678,0.00183,0,0.0983,0.335
+62128,0OGw7V8wAI6OsZIQ12JkTP,Vickeblanka,wizard,Black Rover,j-pop,209573,1,102.073,66,11,-4.905,False,4,0.592,0.937,0.529,0.00139,1.74E-5,0.0442,0.189
+62129,2DLrgv7HhJanCuD8L9uJLR,RADWIMPS,Your Name.,Zenzenzense - movie ver.,j-pop,285880,1,189.776,64,11,-3.967,False,4,0.321,0.906,0.641,4.39E-4,0,0.141,0.0862
+62130,7weHG0yOwtAcZ0qBhyODLF,nobodyknows+,vulgarhythm,Hero's Come Back!!,j-pop,273493,0,104.024,62,11,-1.932,False,4,0.716,0.951,0.703,0.0212,0,0.0604,0.0394
+62131,5xwwmM6GAnIBjwZ1okqzFv,Fetty Wap;Remy Boyz,Rap Party,679,j-pop,196693,1,190.046,0,7,-5.737,True,4,0.618,0.717,0.603,0.00256,0,0.318,0.625
+62132,2IugoBCcRqIfBdqxwLlNrX,Fetty Wap;Remy Boyz,Gaming Songs 2022: Hard Mode,679,j-pop,196693,1,190.046,0,7,-5.737,True,4,0.618,0.717,0.603,0.00256,0,0.318,0.625
+62133,3P4Lsg2MNqG8XLXZJUo4GT,Michael Bublé,Sway (Sped Up Version),Sway - Sped Up Version,j-pop,147135,1,161.768,66,2,-5.643,False,4,0.608,0.671,0.872,0.73,1.88E-6,0.0422,0.0849
+62134,7nF9c1EmRF3BNAtKDCwUAK,Official HIGE DANdism,Editorial,Cry Baby,j-pop,241680,1,199.934,63,1,-4.617,False,4,0.346,0.901,0.434,0.0103,0,0.12,0.358
+62135,1NwpVyPEvmmszfbEDbPo4Z,ZUTOMAYO,TOKYO - HALLOWEEN -,消えてしまいそうです,j-pop,257799,1,105.965,0,5,-2.833,False,4,0.68,0.923,0.863,0.361,1.35E-5,0.0495,0.133
+62136,2y7f8qkrgIqY5KsfPNcuix,Vickeblanka,Devil,Black Catcher,j-pop,196946,0,100.026,66,11,-4.71,False,4,0.592,0.894,0.642,0.00358,5.32E-6,0.042,0.0721
+62137,0uxHbPAoAGTKvFWjEC5Xf0,ZUTOMAYO,J-Pop 輕旅行,ミラーチューン,j-pop,249273,0,127.965,1,0,-2.383,False,4,0.704,0.933,0.895,0.357,0,0.0863,0.353
+62138,5IO52ff5epAbottJ7hiGi2,ZUTOMAYO,J-Pop 輕旅行,袖のキルト,j-pop,255173,1,116.964,1,9,-3.045,False,4,0.749,0.813,0.658,0.265,0,0.0559,0.0729
+62139,0FORkRhzAhBRlSO2Cd0coQ,ヨルシカ,J-Pop 輕旅行,左右盲,j-pop,267103,1,151.778,4,2,-7.701,False,4,0.675,0.391,0.564,0.446,0,0.0524,0.37
+62140,6kkahm8WbvmDCknSprJAAt,ZUTOMAYO,J-Pop 輕旅行,あいつら全員同窓会,j-pop,255506,0,130.957,2,2,-1.991,False,4,0.723,0.926,0.912,0.436,0,0.114,0.0423
+62141,42WMe5zPEsdXs5N0mpSoWk,ヨルシカ,J-Pop 輕旅行,花に亡霊,j-pop,241226,1,90.01,1,4,-6.628,False,4,0.645,0.45,0.413,0.573,0,0.0482,0.0768
+62142,46GaR0tOOBLDKR0czWntJW,ヨルシカ,J-Pop 輕旅行,春泥棒,j-pop,290266,1,125.046,3,5,-6.782,False,4,0.762,0.595,0.832,0.101,4.99E-5,0.0442,0.118
+62143,4Av96uADG9Xi7iJFHrbqFJ,Mrs. GREEN APPLE,J-Pop 輕旅行,lovin',j-pop,155906,0,123.572,1,11,-2.057,False,4,0.44,0.94,0.858,0.0362,0,0.0706,0.31
+62144,1s7ED8hhCPClqcnHCJakAs,Mrs. GREEN APPLE,J-Pop 輕旅行,ダンスホール,j-pop,203149,1,109.976,2,7,-3.87,False,4,0.736,0.695,0.784,0.0209,0,0.0468,0.0517
+62145,2r6CFJkVCM9IlclxES9tI2,Mrs. GREEN APPLE,TOKYO - HALLOWEEN -,WanteD! WanteD!,j-pop,217386,1,160.021,0,0,-2.461,False,4,0.559,0.806,0.633,0.0251,0,0.05,0.0433
+62146,4G843iAtULePTse2z1epAV,Diana Krall;Clayton-Hamilton Jazz Orchestra,Christmas Songs 2022,Jingle Bells,j-pop,205586,0,101.443,3,7,-6.046,False,4,0.712,0.547,0.579,0.369,0,0.147,0.101
+62147,18b3M1rEHsIHAqyrUxttnq,SEKAI NO OWARI,Alternative Christmas 2022,silent,j-pop,311146,1,87.794,0,0,-5.299,False,4,0.435,0.623,0.397,0.456,0,0.036,0.113
+62148,1QVLiaLp7baR8sMIoB7RRb,Diana Krall;Bryan Adams,Coffee Break,Feels Like Home,j-pop,261506,1,93.08,0,8,-12.522,False,4,0.533,0.138,0.336,0.946,2.83E-6,0.0292,0.145
+62149,5kF56H03uu8j24OFv4tsX6,Diana Krall;Clayton-Hamilton Jazz Orchestra,Best Christmas Playlist Ever 2022,Let It Snow,j-pop,241240,1,148.372,0,5,-6.8,False,4,0.513,0.486,0.562,0.345,0,0.0784,0.0855
+62150,7FpABRyv5TaZz0llkhjPgc,Yoh kamiyama,色香水,色香水,j-pop,250792,1,147.974,59,7,-5.272,False,4,0.613,0.857,0.698,0.0686,7.93E-5,0.0271,0.256
+62151,7AffKWcNn5Zv7QFgScW2ox,Ikimonogakari,ハジマリノウタ,ホタルノヒカリ,j-pop,244066,0,147.007,63,2,-1.896,False,4,0.566,0.92,0.562,0.0674,0,0.0638,0.314
+62152,3k64vNcgYPkETG7TNgpW4o,Vaundy,裸の勇者,裸の勇者,j-pop,201973,0,163.032,68,9,-5.747,False,4,0.442,0.888,0.435,0.0127,7.27E-4,0.121,0.2
+62153,7ncPjJBktLEOpstY5JOUMK,King Gnu,一途,一途,j-pop,190606,1,159.971,71,2,-4.19,False,4,0.5,0.964,0.662,0.00723,6.2E-5,0.124,0.0557
+62154,3f3FDZajRpcLQGln7OZqdi,Cö Shu Nie,PURE,asphyxia,j-pop,174893,1,82.176,63,5,-3.318,False,4,0.181,0.913,0.392,0.0501,0,0.152,0.282
+62155,5RhWszHMSKzb7KiXk4Ae0M,Hikaru Utada,One Last Kiss,One Last Kiss,j-pop,252026,0,111.955,65,8,-11.249,False,4,0.592,0.54,0.354,0.692,0.00187,0.0587,0.0965
+62156,543jStmHR1VrSfpxmjUIn6,sumika,Chime,フィクション,j-pop,230760,1,122.992,64,2,-2.427,False,4,0.658,0.94,0.694,0.144,0,0.0339,0.101
+62157,4MTgIH5OZQHAbdBWgbKSAb,Survive Said The Prophet,MUKANJYO,MUKANJYO,j-pop,192400,1,94.926,64,7,-4.082,False,4,0.468,0.961,0.31,0.00364,0,0.114,0.226
+62158,28DlaPydCnrs8NxYOnUPZ8,BLUE ENCOUNT,Q.E.D,ポラリス,j-pop,224213,1,95.008,65,8,-2.561,False,4,0.534,0.941,0.573,0.00204,0.00615,0.077,0.102
+62159,6ilTR3RpLCAHDt3Z6YuQGx,Cidergirl,シンデレラ,シンデレラ,j-pop,212310,1,129.981,62,7,-2.617,False,4,0.572,0.955,0.717,0.0141,0,0.0626,0.315
+62160,1ndUYRPchJVNQCM7XwN7Hq,Creepy Nuts,堕天,堕天,j-pop,172948,1,199.892,70,1,-4.8,False,4,0.543,0.901,0.75,0.0118,0,0.219,0.325
+62161,7ajpbW6tBpqUI9foCtwlLw,YOASOBI,祝福,祝福,j-pop,196235,0,170.045,76,4,-3.159,False,4,0.553,0.958,0.541,0.0186,3.08E-5,0.073,0.297
+62162,0LQs5gRhqJKLOl8fFukRsQ,Creepy Nuts,よふかしのうた,よふかしのうた,j-pop,237913,0,115.048,66,5,-3.123,False,4,0.746,0.976,0.912,0.188,0,0.187,0.353
+62163,4xeWELPxBZKhhCrUr84jmp,Masayuki Suzuki;鈴木愛理,ALL TIME ROCK 'N' ROLL,DADDY ! DADDY ! DO !,j-pop,254640,0,138.104,65,8,-3.826,False,4,0.684,0.815,0.819,0.322,0,0.0496,0.12
+62164,7dNxxkapvf5eRkw24PHSpy,Fujii Kaze,LOVE ALL SERVE ALL,damn,j-pop,259026,1,129.982,67,7,-7.955,False,4,0.707,0.759,0.646,0.00346,3.82E-5,0.0329,0.116
+62165,7CZKnz9mEt8Z638tyY5cKL,Monkey Majik,Eden,Eden,j-pop,271520,1,84.033,54,11,-5.212,False,4,0.54,0.752,0.462,0.159,0,0.0267,0.363
+62166,2cE5PbW9PhPmnyETXqH3VE,RADWIMPS;Toko Miura,Weathering With You,Grand Escape (Movie Edit) [feat. Toko Miura],j-pop,188066,1,146.061,56,4,-9.161,False,4,0.461,0.423,0.546,0.486,0.00118,0.0369,0.137
+62167,6A8NfypDHuwiLWbo4a1yca,Ado,UTA'S SONGS ONE PIECE FILM RED,New Genesis,j-pop,226813,1,175.064,66,7,-2.279,False,4,0.49,0.987,0.451,0.049,3.24E-6,0.253,0.406
+62168,2HovXsvcdJur52BOcYGydz,Aimer,daydream,カタオモイ,j-pop,207360,1,96.981,67,1,-5.974,False,4,0.621,0.533,0.791,0.78,0,0.0342,0.333
+62169,4OQq1bcP12GQQXJNupxqfR,YUI,HOLIDAYS IN THE SUN,again,j-pop,254346,0,139.922,66,4,-3.836,False,4,0.595,0.83,0.494,0.046,0,0.0379,0.361
+62170,1p0WZg4NXoNVGj2AuoLJe7,Ikimonogakari,Chou Ikimonobakari Tennen Kinen Members Best Selection,熱情のスペクトラム,j-pop,223613,0,159.975,64,11,-2.665,False,4,0.479,0.902,0.748,0.0593,0,0.0439,0.394
+62171,5GXYKnnzBlHvrzBQ5WoxME,Ado,逆光 (ウタ from ONE PIECE FILM RED),逆光 - ウタ from ONE PIECE FILM RED,j-pop,237862,0,145.004,72,10,-3.926,False,4,0.563,0.901,0.684,3.82E-4,4.81E-6,0.11,0.388
+62172,2vjY3jGKElvqXoaGNEuYef,YOASOBI,THE BOOK 2,怪物,j-pop,205480,1,169.959,65,1,-2.54,False,4,0.598,0.847,0.728,0.0655,9.92E-5,0.205,0.307
+62173,2vDPSojrX4aL7aiCPD7kja,KANKAKU PIERO,Iroirotoiro,Harukamirai,j-pop,177106,1,91.006,63,9,-1.083,False,4,0.459,0.99,0.458,0.0102,4.98E-6,0.128,0.307
+62174,5QseXDzPvtjdeaWNhYbm0m,yama,Haru wo Tsugeru,Haru wo Tsugeru,j-pop,196497,1,120.009,63,11,-5.377,False,4,0.548,0.871,0.487,0.0397,0,0.123,0.357
+62175,1HNvADmPBGAExeyIHkcJtd,RADWIMPS,Human Bloom,Sparkle - Original Version,j-pop,410213,1,124.003,55,11,-5.882,False,4,0.634,0.506,0.244,0.729,1.11E-6,0.0316,0.12
+62176,6oLejuhWNQf76ydBbtLrT9,Yoh kamiyama,SHIAWASE NA OTONA,YELLOW,j-pop,178712,0,117.981,62,7,-4.77,False,4,0.786,0.719,0.686,0.0144,6.38E-4,0.0353,0.0887
+62177,1pnXMEGyw85jtg9fFZf4GP,Ado,UTA'S SONGS ONE PIECE FILM RED,Fleeting Lullaby,j-pop,173373,1,89.015,64,6,-2.104,False,4,0.524,0.914,0.63,0.179,0,0.12,0.17
+62178,6CRX3ENpLq42r0iBSjOqr1,RADWIMPS;Toko Miura,Weathering With You -Complete Version-,Grand Escape (feat. Toko Miura),j-pop,339160,1,146.033,58,4,-7.414,False,4,0.566,0.534,0.4,0.243,8.28E-5,0.0356,0.116
+62179,0N4FgQoqMlmMPikactFwtE,WEDNESDAY CAMPANELLA,Neon,Edison,j-pop,193510,0,129.999,51,1,-5.733,False,4,0.838,0.729,0.619,0.0195,0.0089,0.0802,0.101
+62180,7CSTVNXkW2AbmNktlP1hi2,UVERworld,UNSER,Touch off,j-pop,258706,0,99.607,63,4,-3.815,False,4,0.411,0.894,0.195,2.36E-5,4.47E-4,0.0465,0.447
+62181,1zd35Y44Blc1CwwVbW3Qnk,YOASOBI,THE BOOK,群青,j-pop,248026,1,134.991,74,10,-3.193,False,4,0.725,0.853,0.707,0.305,0,0.0516,0.115
+62182,04TshWXkhV1qkqHzf31Hn6,Kenshi Yonezu,STRAY SHEEP,Lemon,j-pop,255826,1,86.957,70,11,-4.963,False,4,0.525,0.646,0.373,0.304,0,0.0268,0.297
+62183,3RFL9hE5cBocBsjD5XLJLQ,Official HIGE DANdism,Mixed Nuts,Mixed Nuts,j-pop,213438,1,150.094,68,6,-5.074,False,4,0.542,0.918,0.784,0.0101,0,0.0937,0.259
+62184,1tjOClAkdMxDfYPO0xvGbG,PornoGraffitti,Butterfly Effect,THE DAY,j-pop,241626,0,92.998,64,1,-4.759,False,4,0.512,0.933,0.465,7.61E-4,0,0.0738,0.342
+62185,0kI4AfCbkK5MP2B7Xgh6kB,SEAMO,Live Goes On (14 Tracks),マタアイマショウ,j-pop,243800,0,100.04,48,10,-6.098,False,4,0.698,0.689,0.608,0.598,0,0.0414,0.145
+62186,7bmAgiUc4W4bfyZRCc6lOh,Ado,私は最強 (ウタ from ONE PIECE FILM RED),私は最強 - ウタ from ONE PIECE FILM RED,j-pop,257915,1,95.954,72,4,-2.911,False,4,0.574,0.858,0.658,0.205,0,0.0469,0.344
+62187,21nOSbeaQQbKDmqQWL9pZN,Novelbright,J-Pop 輕旅行,愛とか恋とか,j-pop,232453,1,89.987,8,6,-5.089,False,4,0.697,0.556,0.404,0.698,0,0.0364,0.0991
+62188,0yx5NqfsUHUqkcPSyRiGa5,Novelbright,J-Pop 輕旅行,Sunny drop,j-pop,243506,1,100.06,1,6,-1.411,False,4,0.483,0.917,0.568,0.00146,0,0.0397,0.152
+62189,5vFNjfuWtxZ4H5qO0azSUL,Gregory Porter,Mega Hits Autumn/Fall 2022,I Will,j-pop,267054,0,139.947,0,5,-8.582,False,4,0.453,0.576,0.341,0.632,8.18E-4,0.0445,0.0906
+62190,04B5IZrty8x9dPrP3eEL05,Gregory Porter,Un tecito y a mimir,If Love Is Overrated,j-pop,353723,1,77.497,0,2,-9.8,False,4,0.364,0.338,0.314,0.699,1.71E-5,0.0294,0.101
+62191,4WEv49e0YopSlq65WLmWCx,Creep Hyp,TOKYO - HALLOWEEN -,そういえば今日から化け物になった,j-pop,211933,1,203.997,0,2,-2.496,False,4,0.331,0.968,0.694,0.00835,0,0.109,0.357
+62192,31B167urAhDwzI4IVmeUcL,Diana Krall;Clayton-Hamilton Jazz Orchestra,Pop Fun and Christmas Music 2022,Let It Snow,j-pop,241240,1,148.372,0,5,-6.8,False,4,0.513,0.486,0.562,0.345,0,0.0784,0.0855
+62193,2ehMCF9GMSJdzXkJE8j94E,Gregory Porter,JULMYS,The Christmas Song,j-pop,224906,0,65.825,0,0,-21.296,False,4,0.321,0.09,0.157,0.838,0.00266,0.0321,0.0998
+62194,3kGKXegU0KyTveyCNuep5y,Gregory Porter,Christmas Songs 2022,The Christmas Song,j-pop,224906,0,65.825,0,0,-21.296,False,4,0.321,0.09,0.157,0.838,0.00266,0.0321,0.0998
+62195,7InCJS4uYocZm0SHh0Doro,Gregory Porter;Anita Wilson,Soulful Christmas,Go Tell It On The Mountain / Ain't No Mountain High Enough - Medley,j-pop,256040,1,101.946,0,2,-5.057,False,4,0.559,0.79,0.589,0.0507,0,0.0535,0.269
+62196,2touKO7fkbp6oPfchA2Nft,Gregory Porter,JULPYNTA,The Christmas Song,j-pop,224906,0,65.825,0,0,-21.296,False,4,0.321,0.09,0.157,0.838,0.00266,0.0321,0.0998
+62197,4hC2YJ7vTBMwr2qIIaEvMF,Gregory Porter,Christmas Day Chill,The Christmas Song,j-pop,224906,0,65.825,0,0,-21.296,False,4,0.321,0.09,0.157,0.838,0.00266,0.0321,0.0998
+62198,5JhfwQbFvnlST21evT6Qle,Gregory Porter,Calm Christmas,The Christmas Song,j-pop,224906,0,65.825,0,0,-21.296,False,4,0.321,0.09,0.157,0.838,0.00266,0.0321,0.0998
+62199,5ikqOXTK8YGVJqq8NrxuM2,Madeleine Peyroux;Michel Legrand,Desayuno en calma,Have Yourself A Merry Little Christmas,j-pop,227240,1,67.231,0,4,-7.676,False,4,0.319,0.332,0.224,0.797,1.44E-5,0.0303,0.101
+62200,3xVCQGla5LLhrwqNS2FcHo,QUEEN BEE,Fire (Full Edition),火炎,j-pop,215973,0,169.842,59,11,-4.874,False,4,0.521,0.933,0.607,0.034,2.07E-5,0.179,0.33
+62201,0zoGVO4bQXG8U6ChKwNgeg,Taeko Onuki,MIGNONNE (Mastered by Bernie Grundman),4:00A.M.,j-pop,336960,0,103.376,70,10,-10.81,False,4,0.631,0.644,0.861,0.341,4.11E-4,0.0348,0.0877
+62202,2Dzzhb1oV5ckgOjWZLraIB,なとり,Overdose,Overdose,j-pop,197093,0,118.012,78,4,-9.453,False,4,0.733,0.598,0.831,0.0307,1.7E-5,0.0377,0.218
+62203,3ILmwMefYZoQh5Cf5jeuUQ,Motohiro Hata,Documentary,透明だった世界,j-pop,232360,1,168.21,61,0,-4.185,False,4,0.373,0.914,0.56,0.076,0,0.0565,0.669
+62204,5ORPYXJKlpHWIdceavSGrL,ASIAN KUNG-FU GENERATION,BEST HIT AKG,遥か彼方,j-pop,243346,1,174.991,64,4,-3.763,False,4,0.308,0.955,0.237,2.39E-5,0.113,0.111,0.166
+62205,5KAI6nfg3wQRmtwJ0PPaEW,Mika Nakashima,雪の華15周年記念ベスト盤 BIBLE,KISS OF DEATH(Produced by HYDE),j-pop,250200,1,122.037,60,5,-3.174,False,4,0.544,0.908,0.192,7.76E-4,0,0.0743,0.366
+62206,7rU6Iebxzlvqy5t857bKFq,Mariya Takeuchi,Expressions,Plastic Love,j-pop,294493,0,102.517,65,2,-5.141,False,4,0.648,0.875,0.857,0.0747,9.64E-5,0.034,0.196
+62207,0v2BhUgqdbkyxMHOyrq3qJ,OHAYO;Shake Pepper;Yvngboi P,GAL,GAL,j-pop,173447,1,154.982,57,8,-6.822,True,4,0.859,0.496,0.654,0.00627,0,0.221,0.157
+62208,0JyJVPi4IBCgj2wTRKb0yN,YOASOBI,Into the Night,Into The Night,j-pop,262153,0,130.024,60,0,-5.558,False,4,0.647,0.859,0.78,0.00496,0,0.0295,0.312
+62209,56pvqFKGXPjubh5eY6sOlv,RADWIMPS,Weathering With You,Is There Still Anything That Love Can Do?,j-pop,414466,1,141.551,56,9,-6.38,False,4,0.536,0.403,0.246,0.362,0,0.0335,0.292
+62210,7MtpXnAhLKdkXjoFaK95TB,TK from Ling tosite sigure,katharsis,katharsis,j-pop,266106,1,144.276,59,8,-3.193,False,4,0.555,0.828,0.391,0.0397,0,0.15,0.163
+62211,0kEXWokTVYKFxRnNH1xvlg,ロクデナシ,知らないままで,知らないままで,j-pop,134221,1,184.069,57,6,-4.991,False,4,0.602,0.819,0.872,0.476,3.4E-6,0.0317,0.098
+62212,51iiBOpcbxJQWf1cI8kSf6,Ado,UTA'S SONGS ONE PIECE FILM RED,Where the Wind Blows,j-pop,272466,0,139.987,62,1,-3.979,False,4,0.441,0.717,0.233,0.159,0,0.0359,0.125
+62213,5sqkarfxe7UejHTlCtHCLS,"Fear, and Loathing in Las Vegas",Feeling of Unity,Let Me Hear,j-pop,225546,0,184.066,62,6,1.023,False,4,0.175,0.995,0.303,1.45E-4,2.5E-6,0.211,0.214
+62214,1rxh0iojvTB24C6BpOdfC1,Da-iCE,SiX,DREAMIN' ON,j-pop,235373,0,170.027,60,0,-3.072,False,4,0.397,0.931,0.422,0.00918,0,0.113,0.146
+62215,3lyLqIn8mybyEFTs8JJaLf,Michael Bublé,It's Time,Home,j-pop,225906,1,127.631,71,7,-9.207,False,4,0.608,0.37,0.349,0.844,1.87E-5,0.0306,0.112
+62216,4toGhOrpjQfweDT9flB5iq,RADWIMPS,Weathering With You,We'll Be Alright (Movie Edit),j-pop,258373,1,95.328,50,0,-6.847,False,3,0.226,0.599,0.0653,0.326,8.81E-6,0.0365,0.114
+62217,46YSff2Rq1ZtN1YVk5cwbZ,Aimer,DAWN,Brave Shine,j-pop,233493,1,171.083,63,8,-5.911,False,4,0.38,0.889,0.514,0.00272,2.07E-6,0.0801,0.152
+62218,7k9Y8EXEvzKOH3zdMVXXo4,Ado,UTA'S SONGS ONE PIECE FILM RED,The World's Continuation,j-pop,287986,1,75.209,61,9,-7.331,False,4,0.368,0.327,0.21,0.406,0,0.029,0.103
+62219,2VvTMIXG760UiG9OSiFt9j,Adam Melchor,Real Estate,Real Estate,j-pop,216000,1,79.959,60,2,-12.815,False,4,0.493,0.284,0.199,0.953,0.00739,0.0309,0.151
+62220,2exeLldmRfwD9P0gSBYB9T,RADWIMPS,Your Name. (Deluxe Edition / Original Motion Picture Soundtrack),Sparkle - English Version,j-pop,411493,1,123.958,46,11,-5.913,False,4,0.539,0.508,0.277,0.56,0,0.0348,0.113
+62221,2vOAHp8PBBFYqvQUWSoITY,Mrs. GREEN APPLE,Attitude,インフェルノ,j-pop,211600,1,92.504,68,4,-2.095,False,4,0.533,0.918,0.662,0.00894,0,0.0616,0.643
+62222,0oH94EuqPENzurxBFyiggQ,ORANGE RANGE,ORANGE,ロコローション,j-pop,195533,0,140.046,45,11,-2.816,False,4,0.646,0.894,0.811,0.0983,0,0.101,0.0703
+62223,6M2J8MffpkAQRjnF7xZ8BR,[Alexandros],TOKYO - HALLOWEEN -,ムーンソング,j-pop,260693,1,134.014,0,8,-3.395,False,4,0.538,0.919,0.658,0.00262,1.75E-4,0.0389,0.178
+62224,0oE3Txaoz81bIsuiF1IPC9,Miki Imai,IMAI MIKI from 1986,PRIDE,j-pop,363000,1,110.964,46,3,-6.707,False,4,0.662,0.524,0.338,0.444,2.88E-6,0.0253,0.198
+62225,6jGnykaS6TkWp15utXSAeI,Norah Jones,Come Away With Me (Super Deluxe Edition),Come Away With Me,j-pop,198226,1,76.64,74,0,-13.271,False,3,0.436,0.141,0.146,0.902,2.81E-6,0.0308,0.126
+62226,6S3JlDAGk3uu3NtZbPnuhS,Badfinger,Straight Up (Remastered 2010 / Deluxe Edition),Baby Blue - Remastered 2010,j-pop,217346,1,124.431,67,11,-7.788,False,4,0.623,0.876,0.515,0.0189,0.0134,0.066,0.0728
+62227,1alTFChaR599v3YgjecITE,[Alexandros],TOKYO - HALLOWEEN -,閃光,j-pop,262333,0,104.083,0,5,-3.451,False,4,0.546,0.971,0.473,1.32E-4,0,0.0636,0.0731
+62228,4zXRMjTaeflesB3Ih4eHnJ,ONE OK ROCK,Eye of the Storm,Stand Out Fit In,j-pop,214573,1,126.026,63,11,-5.352,False,4,0.615,0.841,0.316,0.0178,0,0.0416,0.133
+62229,5SEcSx7GCPT6G5AYZykRil,Jamie Cullum,JULMYS,It's Christmas,j-pop,194706,1,123.855,0,8,-7.932,False,4,0.598,0.447,0.365,0.224,0,0.0404,0.0704
+62230,7cT99a1NDf5NZE7apkm1mu,Jamie Cullum,JULPYNTA,It's Christmas,j-pop,194706,1,123.855,0,8,-7.932,False,4,0.598,0.447,0.365,0.224,0,0.0404,0.0704
+62231,016InjKRa0RBF9FyEAbzhO,Jamie Cullum,pov: you hear the bells jingle,It's Christmas,j-pop,194706,1,123.855,0,8,-7.932,False,4,0.598,0.447,0.365,0.224,0,0.0404,0.0704
+62232,0F5GuukYSgfX6ALuyrCgMH,Jamie Cullum,Holidays Are Coming,It's Christmas,j-pop,194706,1,123.855,0,8,-7.932,False,4,0.598,0.447,0.365,0.224,0,0.0404,0.0704
+62233,6qRNOBXVif5DFjX4ah7pma,Jamie Cullum;Michel Legrand,Christmas Songs 2022,Let It Snow,j-pop,198320,1,124.82,1,4,-5.024,False,4,0.494,0.644,0.733,0.364,0,0.0428,0.127
+62234,1nAqLID4ZQTgDx4mkL4Ikt,Jamie Cullum,A Merry Modern Christmas,All I Want For Christmas Is You,j-pop,253388,0,127.862,1,7,-11.686,False,4,0.659,0.274,0.479,0.694,0,0.186,0.148
+62235,5N7TL8pWAyblwk9B4rLFyQ,Jamie Cullum,Best Christmas Songs 2022,It's Christmas,j-pop,194706,1,123.855,0,8,-7.932,False,4,0.598,0.447,0.365,0.224,0,0.0404,0.0704
+62236,0u8vLdKjqe63Lrs8bTw6ka,Reginaldo Rossi,"20 Super Sucessos, Vol. 3",A Raposa e as Uvas,j-pop,226561,1,130.063,48,5,-7.313,False,4,0.788,0.619,0.874,0.419,0,0.0431,0.651
+62237,5F1NSosEmbphChdfis5umk,Jamie Cullum,Christmas Songs 2022,It's Christmas,j-pop,180626,0,136.854,0,5,-6.161,False,4,0.534,0.533,0.478,0.5,0,0.047,0.0875
+62238,2aoQCeaJupisBnB6ik8pnH,Jamie Cullum,Christmas 2022,It's Christmas,j-pop,180626,0,136.854,0,5,-6.161,False,4,0.534,0.533,0.478,0.5,0,0.047,0.0875
+62239,3e8V29PYhoHxZY9lQ84Boe,Jamie Cullum,All I Want For Christmas Is You,It's Christmas,j-pop,180626,0,136.854,0,5,-6.161,False,4,0.534,0.533,0.478,0.5,0,0.047,0.0875
+62240,5HCTDz7xlEpPN0hTW4mMGh,Jamie Cullum,Christmas Dinner 2022,It's Christmas,j-pop,180626,0,136.854,0,5,-6.161,False,4,0.534,0.533,0.478,0.5,0,0.047,0.0875
+62241,39GDAALzQGHczuR31oDjxy,Jamie Cullum,Christmas Best Hits 2022,It's Christmas,j-pop,180626,0,136.854,0,5,-6.161,False,4,0.534,0.533,0.478,0.5,0,0.047,0.0875
+62242,0HUQDPIFCHff0OQI2ZB9Bc,Jamie Cullum,Weihnachten Musik,It's Christmas,j-pop,194706,1,123.855,0,8,-7.932,False,4,0.598,0.447,0.365,0.224,0,0.0404,0.0704
+62243,3rRKLdCj1kavcwg9Z6BxAk,Jamie Cullum,CHRISTMAS TOP HITS 2022,It's Christmas,j-pop,194706,1,123.855,0,8,-7.932,False,4,0.598,0.447,0.365,0.224,0,0.0404,0.0704
+62244,4Aa6aRfP8Jpiud3TUloyLL,Jamie Cullum,Jingle Bell Rock 2022,It's Christmas,j-pop,180626,0,136.854,0,5,-6.161,False,4,0.534,0.533,0.478,0.5,0,0.047,0.0875
+62245,3f0E5V6vuiJ0R3c0p6auBQ,Jamie Cullum,Weihnachten Playlist,It's Christmas,j-pop,180626,0,136.854,0,5,-6.161,False,4,0.534,0.533,0.478,0.5,0,0.047,0.0875
+62246,73fRMyckZKtemX14eku8uu,Sertab Erener,İyiliğe Ninniler,Dandini Dandini Dastana,j-pop,149168,0,88.08,48,3,-12.077,False,4,0.506,0.233,0.275,0.957,2.8E-5,0.0276,0.116
+62247,32YibHelVr8zJgie61Xh0T,Jamie Cullum,World's Best Christmas Playlist,It's Christmas,j-pop,180626,0,136.854,0,5,-6.161,False,4,0.534,0.533,0.478,0.5,0,0.047,0.0875
+62248,4FwfiZYw2hm4CkoZctZIDq,Reginaldo Rossi,Cheio De Amor,Em Plena Lua De Mel (Dina),j-pop,202613,0,79.471,47,9,-6.544,False,4,0.365,0.87,0.483,0.0981,0,0.266,0.304
+62249,4tA1UpSB34EiIZZPQBeIdD,Jamie Cullum,Weihnachtslieder 2022,It's Christmas,j-pop,180626,0,136.854,0,5,-6.161,False,4,0.534,0.533,0.478,0.5,0,0.047,0.0875
+62250,1dGF5ymTyBB2ZmOypkeU1F,須田景凪,porte,veil,j-pop,209636,0,150.055,63,0,-4.401,False,4,0.559,0.873,0.797,0.0281,0,0.0543,0.185
+62251,6MKOd8KDFzwpu8Vz6ccZU5,ORANGE RANGE,*〜アスタリスク〜,*〜アスタリスク〜,j-pop,255906,1,127.988,61,5,-3.983,False,4,0.57,0.931,0.677,0.026,2.11E-4,0.0408,0.312
+62252,1O4JEMG1V06Lmkw8JQMY52,Creepy Nuts,アンサンブル・プレイ,ロスタイム,j-pop,219506,1,91.98,60,9,-7.044,False,4,0.783,0.786,0.678,0.12,1.28E-5,0.0528,0.13
+62253,75SKlkZrcOX32dseIE8l4O,7!!,Anipps,ラヴァーズ,j-pop,221973,1,163.761,55,11,-2.709,False,4,0.498,0.957,0.672,0.0041,0,0.147,0.0638
+62254,3IOpaj1JAUK254P4TyJEVQ,Yoh kamiyama,色香水,色香水,j-pop,253053,1,147.988,50,7,-5.185,False,4,0.615,0.856,0.726,0.0591,1.72E-4,0.0276,0.289
+62255,0U32q8CZRRo7xCzyiaZw5f,Motohiro Hata,言ノ葉,Rain,j-pop,293040,1,92.003,58,9,-6.69,False,4,0.626,0.655,0.542,0.503,0,0.0263,0.13
+62256,7LVsLHXVLscS5xY7q50TLT,eill,Koko de Iki wo Shite,Koko de Iki wo Shite,j-pop,216672,1,107.007,54,8,-2.852,False,4,0.671,0.76,0.796,0.0639,0,0.057,0.124
+62257,1WoOzgvz6CgH4pX6a1RKGp,Fetty Wap;Monty,Fetty Wap (Deluxe),My Way (feat. Monty),j-pop,213053,1,128.077,66,6,-3.103,True,4,0.748,0.741,0.537,0.00419,0,0.0531,0.147
+62258,6bPPyigCphBBQ9781j6eKM,FLOW,FLOW THE BEST 〜Single Collection〜,COLORS,j-pop,218493,1,136.03,62,1,-4.229,False,4,0.457,0.877,0.387,0.0353,0,0.0504,0.106
+62259,3QjIdDDKoZRyfWDKZC4Ayb,DEAN FUJIOKA,History Maker,History Maker,j-pop,190044,1,67.012,60,9,-4.292,False,4,0.397,0.668,0.456,0.102,0,0.0855,0.0744
+62260,6MdqqkQ8sSC0WB4i8PyRuQ,Blackstreet;Dr. Dre;Queen Pen,Another Level,No Diggity,j-pop,304600,0,88.634,77,1,-4.674,False,4,0.867,0.646,0.67,0.303,0,0.288,0.279
+62261,6EzZn96uOc9JsVGNRpx06n,Ado,うっせぇわ,うっせぇわ,j-pop,204920,0,178.069,68,11,-1.072,False,4,0.525,0.978,0.577,0.00485,0,0.0815,0.06
+62262,3Qcj8m6FFHhInWjjOrZRom,Namie Amuro,Finally,Hope,j-pop,252586,1,139.926,59,7,-3.682,False,4,0.625,0.855,0.214,0.0311,0,0.0507,0.337
+62263,0n099xB2P5c2ZLDazd3dgr,I Don't Like Mondays.,PAINT,PAINT,j-pop,208405,1,147.025,58,2,-3.299,False,4,0.53,0.822,0.513,0.00823,0,0.0371,0.242
+62264,0Ji4kkRLmjlf93QttZXDO3,Riria.,"He cheated on me, but I still like you.","He cheated on me, but I still like you.",j-pop,213333,1,80.924,50,1,-9.286,False,4,0.621,0.373,0.492,0.801,1.45E-5,0.0437,0.0983
+62265,4iRat7YqKIWOwkXwDwoEZc,RADWIMPS,Weathering With You,Is There Still Anything That Love Can Do? (Movie Edit),j-pop,150653,1,141.929,50,9,-7.144,False,4,0.638,0.291,0.378,0.822,0,0.0442,0.318
+62266,7JPAO45DZOmN2bciVaBia5,CHiCO with HoneyWorks,世界はiに満ちている,世界は恋に落ちている,j-pop,312826,1,130.061,58,7,-4.619,False,4,0.627,0.884,0.456,0.0116,0,0.0484,0.103
+62267,172fMG26G2OoEzzg0wn26r,King Gnu,CEREMONY,白日,j-pop,276373,1,93.029,67,1,-3.242,False,4,0.599,0.891,0.694,0.562,0,0.116,0.322
+62268,6RM5WJcShIHsxrja11M1iK,RADWIMPS,Your Name.,Nandemonaiya - movie edit.,j-pop,196906,1,112.114,51,11,-8.439,False,5,0.395,0.331,0.296,0.404,4.6E-4,0.0307,0.0964
+62269,5RtsmtLsEnwa96TEf56tJQ,Masayuki Suzuki;すぅ,GIRI GIRI,GIRI GIRI,j-pop,258765,1,127.993,61,11,-4.053,False,4,0.78,0.889,0.961,0.223,0,0.0351,0.0484
+62270,26e8ujjSpBAHhIY2ymLUT1,Fujii Kaze,HELP EVER HURT NEVER,Kaerou,j-pop,284480,1,91.87,57,9,-5.926,False,4,0.589,0.623,0.341,0.3,0,0.0326,0.127
+62271,4rPmTBTX1wobDkGYXKvcGR,本間芽衣子（CV.茅野愛衣）;安城鳴子（CV.戸松 遥）;鶴見知利子（CV.早見沙織）,secret base ~君がくれたもの~,secret base ~君がくれたもの~ (10 years after Ver.),j-pop,352493,1,133.883,56,6,-4.615,False,4,0.606,0.605,0.447,0.118,0,0.0271,0.194
+62272,532a4qwtCf56E6qjiAn2EE,CHiCO with HoneyWorks,ヒミツ恋ゴコロ,ヒミツ恋ゴコロ,j-pop,218146,0,165.06,58,5,-2.513,False,4,0.573,0.915,0.894,0.0754,0,0.0852,0.336
+62273,3cBghvTcQNDNkW98Y4eGaP,Tani Yuuki,Memories,W / X / Y,j-pop,278118,1,106.382,58,2,-4.479,False,3,0.628,0.775,0.674,0.159,0,0.0535,0.33
+62274,6MNY72T605kPIOH3hnioxu,Aimer,Penny Rain,Ref:rain,j-pop,289986,1,77.982,60,7,-4.297,False,4,0.472,0.672,0.313,0.0343,0,0.0287,0.0936
+62275,708feUe50Ed8N6zilSiSQM,Kiro Akiyama,From DROPOUT,Caffeine,j-pop,243253,1,133.996,59,6,-5.467,False,4,0.73,0.455,0.763,0.00372,0.0118,0.0396,0.0649
+62276,0jX6dTvc8U8Nevz7XBYjzR,Anthony Lazaro,Rock Paper Scissors,Coffee Cup,j-pop,176035,1,119.962,48,7,-12.079,False,4,0.75,0.284,0.593,0.899,1.09E-4,0.0766,0.273
+62277,029mlmG2bISTk861m8r2XV,サザンオールスターズ,NUDE MAN,夏をあきらめて,j-pop,222397,0,111.983,44,9,-7.673,False,4,0.652,0.695,0.859,0.42,0.00311,0.0271,0.202
+62278,5s0AxcVJJD2YYPstMb61ro,Hello Sleepwalkers,Masked Monkey Awakening,Goya No Machiawase,j-pop,170640,1,94.277,60,0,-3.014,False,4,0.406,0.959,0.571,8.91E-4,0,0.0952,0.327
+62279,0YAMQSmHk6BSUGTYpaoqTJ,ONE OK ROCK,Niche Syndrome,Wherever you are,j-pop,295600,1,173.716,62,4,-4.79,False,4,0.379,0.69,0.288,0.0286,0,0.0549,0.335
+62280,1zNXF2svmdlNxfS5XeNUgr,Norah Jones,Come Away With Me (Super Deluxe Edition),Don't Know Why,j-pop,186251,1,88.609,76,5,-11.216,False,4,0.745,0.219,0.635,0.851,1.8E-5,0.0276,0.0678
+62281,7FptOE24ql8QzjoF2BHDB5,GLAY,WHITE ROAD,HOWEVER,j-pop,335040,1,171.994,44,0,-4.956,False,4,0.287,0.791,0.401,0.163,0,0.05,0.0832
+62282,1w0hboEMff54kez5XXyRNP,ONE OK ROCK,Ambitions,One Way Ticket,j-pop,216933,1,97.963,54,8,-4.781,False,4,0.724,0.745,0.528,0.467,0.00122,0.0319,0.0692
+62283,1KP5iLWQNT88sU13HWSfGa,imase,J-Pop 輕旅行,Have a nice day,j-pop,175693,1,94.018,1,5,-4.73,False,4,0.85,0.591,0.564,0.371,3.99E-6,0.0386,0.117
+62284,633Dfo6cWXJy1hYZynxNnO,SEAMO,Live Goes On (14 Tracks),ルパン・ザ・ファイヤー,j-pop,266280,0,125.017,44,11,-3.87,False,4,0.729,0.951,0.836,0.165,0,0.143,0.0763
+62285,6QXtgcy5l3ixU0BaNZvnRP,Perfume,TOKYO - HALLOWEEN -,再生,j-pop,283880,1,150.01,0,6,-2.407,False,4,0.525,0.916,0.754,0.0191,6.96E-4,0.0321,0.0862
+62286,3sGXoCI6hZ14nJcFd5sxiy,サザンオールスターズ,Young Love,太陽は罪な奴,j-pop,261506,1,201.51,44,7,-4.597,False,4,0.325,0.966,0.619,0.0272,3.01E-5,0.221,0.356
+62287,4fUbXzEGsCdLMM94rAsell,Jamie Cullum,Christmas Songs 2022,Turn On The Lights,j-pop,254960,1,107.973,2,0,-6.767,False,4,0.64,0.67,0.46,0.00706,0,0.026,0.19
+62288,4mhjR2kHA3XyD6nLAwwYbS,Jamie Cullum,Holiday Favorites 2022,It's Christmas,j-pop,180626,0,136.854,0,5,-6.161,False,4,0.534,0.533,0.478,0.5,0,0.047,0.0875
+62289,2gmcMzk52PzGn6Of8SBQEU,Jamie Cullum,Weihnachtssongs,It's Christmas,j-pop,194706,1,123.855,0,8,-7.932,False,4,0.598,0.447,0.365,0.224,0,0.0404,0.0704
+62290,2dRASJxcSCsaT9WiOC4tnu,Jamie Cullum,World's Best Christmas Playlist,Show Me The Magic,j-pop,150412,0,123.573,0,5,-5.594,False,4,0.569,0.489,0.543,0.238,0,0.04,0.29
+62291,6ajujXL9Ak5kowvMBDaTc5,Jamie Cullum,Rockin' Around The Christmas Tree 2022,Hang Your Lights,j-pop,296680,0,202.175,0,3,-7.059,False,4,0.346,0.605,0.747,0.188,0,0.0794,0.241
+62292,3rGol3Ivk8X9fvzKL0U8ih,Jamie Cullum,Rockin' Around The Christmas Tree 2022,Show Me The Magic,j-pop,150412,0,123.573,0,5,-5.594,False,4,0.569,0.489,0.543,0.238,0,0.04,0.29
+62293,4SAjPkyGsN5NNWOtxYQ9zR,Jamie Cullum,Weihnachten Playlist,So Many Santas,j-pop,208413,1,114.842,0,1,-6.294,False,4,0.508,0.706,0.479,0.15,0,0.0475,0.376
+62294,4tewc9qvcbRaqD2Q4cU1wb,Jamie Cullum,World's Best Christmas Playlist,So Many Santas,j-pop,208413,1,114.842,0,1,-6.294,False,4,0.508,0.706,0.479,0.15,0,0.0475,0.376
+62295,1UiC5wLlvxBWhQBfGeUlxG,Jamie Cullum,Santa Claus Is Coming To Town,Hang Your Lights,j-pop,296680,0,202.175,0,3,-7.059,False,4,0.346,0.605,0.747,0.188,0,0.0794,0.241
+62296,6WR1FDn5HIuKtV2k5rFKMw,Jamie Cullum,pov: you saw mommy kissing santa claus,So Many Santas,j-pop,208413,1,114.842,0,1,-6.294,False,4,0.508,0.706,0.479,0.15,0,0.0475,0.376
+62297,2FAdK0AbXRRwlNFb2l9nUi,Jamie Cullum,Weihnachten Musik,Hang Your Lights,j-pop,296680,0,202.175,0,3,-7.059,False,4,0.346,0.605,0.747,0.188,0,0.0794,0.241
+62298,6n6efRiF8G8IO51hUlSxWN,Jamie Cullum,pov: you have a holly jolly christmas,So Many Santas,j-pop,208413,1,114.842,0,1,-6.294,False,4,0.508,0.706,0.479,0.15,0,0.0475,0.376
+62299,2bGfiXJK08TgjT3wMasCfV,Jamie Cullum,Santa Claus Is Coming To Town,Show Me The Magic,j-pop,150412,0,123.573,0,5,-5.594,False,4,0.569,0.489,0.543,0.238,0,0.04,0.29
+62300,3vXdK7DCzJyp1MIh10TJFS,Vaundy,strobo,東京フラッシュ,j-pop,258858,1,97.99,66,2,-5.508,False,4,0.628,0.634,0.606,0.00255,7.24E-6,0.0322,0.0456
+62301,7HneEBTvTra2CRYsxgMOAi,YOASOBI,ハルジオン,ハルジオン,j-pop,198000,0,130.02,62,0,-2.657,False,4,0.686,0.902,0.901,0.0591,0,0.034,0.333
+62302,5WLaJoYalaASb9JB7Yk5U6,BURNOUT SYNDROMES,檸檬,ヒカリアレ,j-pop,244786,1,178.061,60,7,-1.741,False,4,0.313,0.941,0.35,0.0112,0,0.133,0.363
+62303,0T4AitQuq8IJhWBWuZwkFA,YOASOBI,群青,群青,j-pop,248444,1,134.979,66,10,-3.073,False,4,0.719,0.87,0.732,0.321,0,0.0472,0.187
+62304,4bY2oZGA5Br3pTE1Jd1IfY,Nogizaka46,バレッタ TypeD,月の大きさ,j-pop,236293,0,92.487,57,9,-3.294,False,4,0.555,0.941,0.813,0.484,0,0.0481,0.266
+62305,4BE1OloRc9xwjyqA4wFFuN,YOASOBI,あの夢をなぞって,あの夢をなぞって,j-pop,242666,1,180.029,65,8,-3.446,False,4,0.537,0.793,0.73,0.217,3.61E-4,0.04,0.143
+62306,44ljoaRrogXke0S4U8iekW,BURNOUT SYNDROMES,FLY HIGH!!,FLY HIGH!!,j-pop,246000,1,94.573,51,11,-1.48,False,4,0.473,0.964,0.345,0.0139,0,0.0739,0.326
+62307,6pxElwU80zhjbCC77Vn8EI,Tom Misch,Geography,Movie,j-pop,357357,1,122.043,66,7,-11.446,False,3,0.785,0.379,0.182,0.391,0.0161,0.0732,0.267
+62308,1mHuDqFVDEi5DLFJ0Pyz3d,cadode,Kaika,kaika,j-pop,214117,1,88.008,50,9,-8.384,False,4,0.542,0.654,0.487,0.391,3.75E-5,0.0376,0.186
+62309,30WNOfFRiqgebO4eRkCii8,FLOW,GAME,GO!!!,j-pop,236160,1,133.747,63,11,-4.451,False,4,0.61,0.963,0.839,0.075,0,0.0576,0.256
+62310,0WaaPFt4Qy8sVfxKz43bCD,ASIAN KUNG-FU GENERATION,ソルファ,Re:Re:,j-pop,228760,1,153.035,59,4,-5.049,False,4,0.537,0.864,0.727,3.18E-4,0.123,0.0369,0.108
+62311,3uXKEQTzOngrZ1WWyMzuqO,Anly,anly one,カラノココロ,j-pop,264226,1,109.934,59,2,-6.313,False,4,0.622,0.866,0.633,0.147,0.00497,0.0507,0.148
+62312,0w3Q3VFdrYzo24QUIGnBNy,Fetty Wap;Monty,Fetty Wap (Deluxe),679 (feat. Monty),j-pop,186986,0,126.59,64,11,-5.528,True,5,0.545,0.763,0.752,0.00715,0,0.407,0.668
+62313,465JzFiajJO59sUrDFsxdC,YOASOBI,THE BOOK,アンコール,j-pop,271440,1,81.999,66,2,-4.741,False,4,0.682,0.669,0.831,0.283,1.0E-6,0.0275,0.145
+62314,0F6nGXMCUbtk8FiXvKi6HK,『ユイカ』;れん,好きだから。,好きだから。,j-pop,298663,1,164.999,56,0,-6.689,False,4,0.603,0.481,0.698,0.173,0,0.0345,0.329
+62315,5COfkrLpT6t2fHliXbc3tl,Ado,missing,missing,j-pop,189565,1,137.79,55,2,-1.025,False,4,0.498,0.878,0.563,0.0129,6.89E-6,0.0738,0.544
+62316,2Kld61w2NR7zPPXtaHeIii,Joe Inoue,CLOSER,CLOSER,j-pop,208013,1,165.952,57,11,-4.821,False,4,0.374,0.875,0.741,0.00122,0.0414,0.0521,0.0869
+62317,3WY0iazRPHOlIq6CdbKLZ6,Ado,UTA'S SONGS ONE PIECE FILM RED,Backlight,j-pop,237666,0,145.023,61,10,-3.875,False,4,0.564,0.896,0.713,3.87E-4,8.17E-6,0.108,0.374
+62318,7coGhA3MmrmiOuboH32qSY,RADWIMPS,Your Name. (Deluxe Edition / Original Motion Picture Soundtrack),Nandemonaiya - English Version,j-pop,342453,1,167.882,42,6,-5.747,False,4,0.494,0.464,0.471,0.153,0,0.0315,0.354
+62319,5ptl2PXkiSth54HCuGO7vN,YOASOBI,THE BOOK,あの夢をなぞって,j-pop,240746,1,179.976,65,8,-3.738,False,4,0.534,0.794,0.711,0.334,9.3E-4,0.0402,0.159
+62320,4oVlD8uK2QioN4iZ1lBL6X,Ado,UTA'S SONGS ONE PIECE FILM RED,BINKUSUNO SAKE,j-pop,206053,1,111.941,58,3,-6.158,False,4,0.696,0.376,0.774,0.875,0,0.0305,0.137
+62321,1ZGmDs16vtSI0nlxDFljFK,BURNOUT SYNDROMES,BURNOUT SYNDROMEZ,PHOENIX,j-pop,246813,1,137.124,58,0,-0.717,False,4,0.493,0.947,0.656,0.111,0,0.0701,0.345
+62322,5QS01sq07pThdktoNUxXRZ,Ado,狂言,うっせぇわ,j-pop,206893,0,178.129,67,11,-1.084,False,4,0.526,0.976,0.554,0.00459,0,0.0799,0.102
+62323,2CbGuO0LtVvbh3umN3mDwM,Fujii Kaze,HELP EVER HURT NEVER,Nan-Nan,j-pop,320640,1,180.065,56,7,-7.113,False,4,0.577,0.729,0.692,0.394,1.56E-4,0.221,0.144
+62324,7M9lc2hHXKQobbHQ31Yg2v,YOASOBI,Monster,Monster,j-pop,205000,1,170.054,56,1,-3.571,False,4,0.615,0.868,0.69,0.0681,0,0.105,0.234
+62325,5f9RyYycXAdDHNJvmCnPgh,milet,eyes,Drown,j-pop,214373,0,179.921,56,9,-4.212,False,4,0.436,0.61,0.353,0.01,1.29E-4,0.033,0.349
+62326,5WYTSyhKonzQZ3hu14LNr6,YOASOBI,THE BOOK 2,もしも命が描けたら,j-pop,201626,0,99.987,57,10,-4.516,False,4,0.698,0.795,0.356,0.175,7.52E-4,0.0337,0.158
+62327,2sFBiCSUNc3ptKrCR8JABx,ASIAN KUNG-FU GENERATION,BEST HIT AKG 2 (2012-2018),ブラッドサーキュレーター,j-pop,222826,1,181.017,57,0,-2.856,False,4,0.372,0.975,0.3,0.0493,0,0.126,0.331
+62328,7K2oNX8UnvtebYRQtvHuUZ,Shonan No Kaze,睡蓮花,睡蓮花,j-pop,435186,1,156.147,43,1,-2.446,False,4,0.483,0.986,0.359,0.126,0,0.363,0.0825
+62329,5tHp131qFB3T7e01x1xsO2,UVERworld,UNSER,ODD FUTURE,j-pop,226493,0,128.021,59,5,-4.717,False,4,0.699,0.8,0.561,0.016,1.19E-6,0.0901,0.0906
+62330,2vwzbB62VEfzCARNu9Nrrm,YOASOBI,E-SIDE,Into The Night,j-pop,259661,0,130.046,57,0,-5.701,False,4,0.638,0.868,0.824,0.0112,0,0.0292,0.342
+62331,0THcY95QscSs9NlATIgoMI,Mr.Children,シフクノオト,Any,j-pop,306133,1,114.883,43,3,-5.528,False,4,0.631,0.643,0.502,0.12,0,0.0299,0.0892
+62332,4fIWvT19w9PR0VVBuPYpWA,Michael Bublé,Crazy Love,Haven't Met You Yet,j-pop,244586,1,122.58,72,8,-4.808,False,4,0.615,0.733,0.796,0.152,0,0.0335,0.109
+62333,3COSRKvFPnpnnorNF4oaMf,Konomi Suzuki,LIFE of DASH,This game,j-pop,284080,0,146.964,56,11,-2.997,False,4,0.477,0.924,0.269,0.0477,0,0.0758,0.0571
+62334,4T6HLdP6OcAtqC6tGnQelG,Michael Bublé,Call Me Irresponsible,Everything,j-pop,212373,0,123.125,71,6,-4.981,False,4,0.686,0.688,0.493,0.39,1.03E-6,0.0254,0.0924
+62335,0azDpmHy0nK3R6jJabkx0U,サザンオールスターズ,SOUTHERN ALL STARS,YOU,j-pop,271666,0,137.784,43,9,-5.408,False,4,0.545,0.873,0.677,0.0582,0.00268,0.0395,0.173
+62336,58kMtTP8vxuQufw7XyWwXN,My Hair is Bad,life,白春夢,j-pop,260920,1,93.01,43,8,-5.576,False,4,0.665,0.741,0.498,0.0565,0,0.0446,0.0495
+62337,0fAnYkjbAnYz1qzOWimdjT,EXILE,EXTREME BEST,Ki・mi・ni・mu・chu,j-pop,261013,1,75.983,43,10,-4.762,False,4,0.641,0.828,0.977,0.0794,0,0.0413,0.697
+62338,5FgFzeZyn7Y7fXCkVMcARZ,Yamazaru,あいことば5,ラブソング,j-pop,284200,1,168.152,43,8,-3.771,False,4,0.437,0.858,0.695,0.0659,0,0.0785,0.285
+62339,2sTOL1uzMEkB5iFNXe6ehJ,Mr.Children,Q,NOT FOUND,j-pop,294000,1,121.876,42,2,-6.352,False,3,0.323,0.695,0.274,0.00724,0,0.0392,0.115
+62340,57sk9X1fPLXRfkw74XNrmK,ONE OK ROCK,Ambitions,We Are,j-pop,255400,1,147.982,60,5,-5.375,False,4,0.41,0.834,0.333,0.0651,0,0.054,0.115
+62341,3N6QVzApdGF3xInV7HpxZm,My Hair is Bad,歓声をさがして,歓声をさがして,j-pop,233173,1,77.494,42,3,-3.841,False,4,0.498,0.952,0.592,0.00723,0,0.0901,0.286
+62342,5wrK2HD3bBdTdkCj4lgnRb,Adam Melchor,Indie Chill Out,I'm Ready,j-pop,194160,1,97.827,0,4,-8.925,False,4,0.417,0.426,0.203,0.798,0.0611,0.0259,0.109
+62343,341Tb27KBs8zzlRqaC9GvR,Adam Melchor,Refresh - Pop To Cool Down,Last Time,j-pop,193972,1,146.057,0,7,-11.351,False,4,0.493,0.556,0.409,0.714,0.0439,0.102,0.287
+62344,7lHu3fWx7itEyaLIegpcQp,Senri Oe,Senri Oe Singles ~First Decade~ (2022 Remastered),格好悪いふられ方,j-pop,237773,1,132.148,43,8,-5.039,False,4,0.732,0.939,0.96,0.487,1.81E-4,0.0285,0.184
+62345,27LtwN20Rvhi6LVmUaaucZ,Ezginin Günlügü,İlk Aşk,Zerdaliler,j-pop,260480,0,86.411,45,2,-10.662,False,1,0.407,0.292,0.293,0.94,0.00121,0.0497,0.11
+62346,006tmNZLXEXPqdb23wwSN1,İlhan İrem,Bezginin Gizli Mektupları,Yemyeşil Bir Deniz,j-pop,358173,0,127.184,44,9,-9.199,False,4,0.486,0.568,0.65,0.652,0,0.0417,0.834
+62347,0gMj9uQ1ybOY0FBucNnsiY,Doris Day,Christmas Only: The Timeless Classic Collection,Silver Bells,j-pop,162066,1,87.461,0,5,-8.392,False,5,0.546,0.15,0.44,0.815,1.51E-6,0.0344,0.118
+62348,5d7HXbygC36qy2zegmGxAT,Reginaldo Rossi,"Super Duelo, Vol. 3",A Raposa e as Uvas,j-pop,225756,1,130.045,45,5,-7.299,False,4,0.788,0.625,0.891,0.424,0,0.04,0.69
+62349,2LxGrlboLTVvmegFyRtdP5,Sertab Erener;Can Bonomo,İyiliğe Ninniler,Fış Fış Kayıkçı,j-pop,424029,1,117.838,45,0,-13.431,False,4,0.657,0.134,0.119,0.986,0,0.0357,0.114
+62350,6flEDs8jmQ47ZSFZru59Fz,NICO Touches the Walls,ニコ タッチズ ザ ウォールズ ノ ベスト,ニワカ雨ニモ負ケズ,j-pop,261653,1,186.127,58,1,-2.92,False,4,0.38,0.951,0.664,0.00282,0,0.147,0.0536
+62351,5XmWr9rlKvjMLmnq2A5HF5,SID,SID ALL SINGLES BEST,乱舞のメロディ,j-pop,232666,1,192.067,60,4,-3.072,False,4,0.417,0.966,0.623,0.00224,1.97E-6,0.194,0.145
+62352,4Q8Xekfd9ihkVPCBxGK0ec,SPYAIR,MILLION,サクラミツツキ,j-pop,217226,1,179.004,56,8,-4.073,False,4,0.292,0.906,0.348,2.56E-4,7.43E-4,0.0605,0.231
+62353,1yt4wO7dKCwsfjch8SN9aU,Sayuri,花の塔,花の塔,j-pop,275614,1,170.015,67,9,-1.59,False,4,0.486,0.948,0.507,0.0242,0.0286,0.122,0.137
+62354,3XKMO7tvyyUmxRvlJGhYQm,amazarashi,地方都市のメメント・モリ,空に歌えば,j-pop,217626,0,102.04,61,6,-1.335,False,4,0.593,0.951,0.64,0.0142,1.13E-6,0.0697,0.0961
+62355,2Gpl7Fr4Mx0gmBfjmMjSNi,ラックライフ,Life is beautiful,名前を呼ぶよ,j-pop,272693,1,81.996,53,1,-4.29,False,4,0.528,0.718,0.477,0.0641,0,0.0303,0.124
+62356,4cbGPWSbuKCNo9wNGiLevd,Yoh kamiyama,CLOSET,色香水,j-pop,251186,1,147.984,52,7,-5.811,False,4,0.615,0.84,0.738,0.0576,1.35E-4,0.0274,0.229
+62357,2YbNZLoiREBYZo4HeKB8Np,YOASOBI,ミスター,ミスター,j-pop,187000,0,119.971,65,1,-3.51,False,4,0.732,0.933,0.611,0.0674,3.67E-5,0.0548,0.202
+62358,19fhOFi6pNGeZe5uiFlm7c,YOASOBI,優しい彗星,優しい彗星,j-pop,215333,1,89.995,64,5,-4.62,False,4,0.715,0.722,0.522,0.197,0,0.0348,0.114
+62359,6X9m9JRk2ypGusClUBraII,Fujifabric,楽園,楽園,j-pop,225333,1,97.954,55,2,-5.078,False,4,0.561,0.822,0.431,0.00469,2.71E-6,0.0848,0.092
+62360,3PcKYVcZNSsLqI1xzXV5Aq,NICO Touches the Walls,PASSENGER,Diver,j-pop,248933,0,148.995,56,11,-2.124,False,4,0.334,0.915,0.478,1.82E-4,0,0.0848,0.137
+62361,1mzn53qwArYj52lIGpXXlD,Vaundy,mabataki,mabataki,j-pop,243925,1,120.023,69,7,-5.612,False,4,0.722,0.645,0.607,0.175,0,0.0365,0.0957
+62362,3L7ISJTvKx56uhsF28aJ4p,Fujii Kaze,LOVE ALL SERVE ALL,きらり,j-pop,227893,1,116.975,61,2,-6.842,False,4,0.752,0.773,0.686,0.00704,0,0.0441,0.374
+62363,5tXOuIoDO0ZtGLijEOD6HZ,UVERworld,ODD FUTURE short ver.,ODD FUTURE short ver.,j-pop,89983,0,127.924,56,0,-4.3,False,4,0.691,0.895,0.581,0.0274,0,0.0756,0.503
+62364,2blM0SIqgptXPpCan2lGXh,Nulbarich,2ND GALAXY,Lost Game,j-pop,243573,1,129.943,50,1,-8.63,False,4,0.61,0.509,0.224,0.0536,0,0.027,0.0754
+62365,2aWtTHMBKdd6NfKT2GMfiK,Ikimonogakari,超いきものばかり〜てんねん記念メンバーズBESTセレクション〜,ブルーバード,j-pop,217013,0,152.076,50,6,-2.929,False,4,0.536,0.966,0.849,0.121,0,0.0558,0.0477
+62366,53maoOKr6j04iqk6qjdvQN,ヨルシカ,花に亡霊,花に亡霊,j-pop,240120,1,89.961,58,4,-6.808,False,4,0.661,0.446,0.46,0.696,0,0.046,0.0761
+62367,7cPYSzsrl6imQkzeO1HZ9b,eill,Palette,Koko de Iki wo Shite,j-pop,215984,0,107.029,53,5,-2.812,False,4,0.668,0.747,0.811,0.0772,0,0.0574,0.145
+62368,4JK1kDUdH9RTBQrrSO1QfR,Yuuri,壱,ベテルギウス,j-pop,230600,1,179.833,73,5,-4.604,False,4,0.367,0.671,0.691,0.222,0,0.0478,0.494
+62369,0wVjZVd9dwTdaHmtypsNr6,Aimer,Walpurgis,Torches,j-pop,294760,1,82.044,51,0,-6.579,False,4,0.525,0.665,0.36,0.577,0,0.0274,0.142
+62370,7pxRBbUWBcVoTWi3MiFl6V,Tokyo Machine;Weird Genius;Lights,Last Summer,Last Summer,j-pop,172551,1,144.953,54,0,-3.543,True,4,0.641,0.915,0.898,0.261,0,0.0328,0.219
+62371,5K1m4aaPCxwnm9SKlWW1vh,Ryokuoushoku Shakai,Shout Baby,Shout Baby,j-pop,265986,1,180,62,7,-1.846,False,4,0.474,0.881,0.587,0.033,0,0.0398,0.0513
+62372,2gApWgkuisXedOcS9Tligs,INTERSECTION,New Page,New Page,j-pop,270904,1,124.885,49,2,-5.788,False,4,0.604,0.733,0.399,0.105,0,0.0348,0.25
+62373,7537JfhvVpEqkrY2CIY7zu,YOASOBI,好きだ,好きだ,j-pop,217512,0,120.032,67,4,-3.366,False,4,0.771,0.935,0.86,0.174,1.06E-6,0.0327,0.404
+62374,1mV4Ti0I8kZF3Dd72qPEW5,D-51,Mitsuyoko Ichimura (Standard Edition),Brand New World,j-pop,258440,1,160.1,57,1,-4.368,False,4,0.568,0.98,0.65,0.00131,1.4E-6,0.151,0.436
+62375,0871AdnvzzSGr5XdTJaDHC,Ado,狂言,踊,j-pop,210346,1,128.013,66,1,-0.753,False,4,0.709,0.962,0.767,0.153,1.77E-6,0.106,0.621
+62376,6BhO28xuLVeaWKVnd1lbCJ,Fujii Kaze,HELP EVER HURT NEVER,SAYONARA Baby,j-pop,260532,1,132.044,55,9,-5.579,False,4,0.61,0.884,0.808,0.00185,0,0.0425,0.342
+62377,2rYiDn8FjwBnBPtZDP8to3,FUNKIST,"Tv Anime ""Fairy Tail"" Op & Ed Theme Songs Vol. 1",Snow Fairy,j-pop,216626,0,105.983,58,1,-4.211,False,4,0.418,0.846,0.561,2.32E-4,0,0.0473,0.161
+62378,1aW9qzUsXGbyhT3NPCWwdT,Static & Ben El;Pitbull,"Further Up (Na, Na, Na, Na, Na)","Further Up (Na, Na, Na, Na, Na)",j-pop,151873,1,100.025,57,6,-0.882,False,4,0.8,0.876,0.912,0.0148,0,0.113,0.218
+62379,7A5Ec0XhJB8vZDyBc0Wvml,ロクデナシ,J-Pop 輕旅行,ただ声一つ,j-pop,161561,1,129.97,5,1,-5.78,False,4,0.707,0.5,0.583,0.895,4.0E-5,0.0296,0.234
+62380,5YQVUZqMEPJdb2bTsXlwfC,Mr.Children,I LOVE U,CANDY,j-pop,283960,1,138.089,41,9,-7.813,False,4,0.52,0.451,0.239,0.296,8.46E-6,0.0252,0.221
+62381,0Iod4IHv2ZJy4tzxTDIM34,サザンオールスターズ,Young Love,Moon Light Lover,j-pop,294493,1,133.73,41,7,-6.989,False,4,0.608,0.676,0.678,0.263,4.49E-6,0.0281,0.0994
+62382,2auS62fIl7yMkBkfQy0N2F,ロクデナシ,J-Pop 輕旅行,三時のキス,j-pop,280906,1,183.782,3,5,-3.941,False,4,0.452,0.52,0.45,0.00593,1.63E-6,0.0353,0.183
+62383,11ZLv1ZO8hTOkCZqkQ1qCR,Macaroni Empitsu,LiKE,トリコになれ,j-pop,180186,1,128.138,41,9,-3.14,False,4,0.68,0.865,0.848,0.107,0,0.0394,0.279
+62384,4ZzjI0LyQzGCjyKyc4aXZV,TUBE,BEST of TUBEst ~All Time Best~,あー夏休み,j-pop,283853,0,132.044,41,6,-3.717,False,4,0.602,0.902,0.826,0.46,0,0.0626,0.221
+62385,1xGPg02EubO3Zq5ImfJlye,サザンオールスターズ,太陽は罪な奴,太陽は罪な奴,j-pop,254133,1,100.824,42,7,-5.601,False,4,0.568,0.947,0.822,0.0109,8.43E-5,0.0415,0.118
+62386,1IhURnZpLfkVO7fKxBGL0a,Andien,Gemintang,Gemintang,j-pop,259853,1,145.015,42,4,-10.232,False,4,0.715,0.446,0.59,0.333,0.0772,0.0346,0.113
+62387,1Gqpa08T7eBAvPQj9O9L2Q,"Fear, and Loathing in Las Vegas",All That We Have Now,Just Awake,j-pop,218573,0,191.147,58,5,-1.286,False,4,0.357,0.98,0.567,0.00143,0,0.153,0.196
+62388,7jjDw6alw2XkyTKvdWZtYE,Creep Hyp,世界観,僕は君の答えになりたいな,j-pop,210053,1,169.958,41,1,-4.248,False,4,0.37,0.657,0.662,0.306,0,0.0296,0.156
+62389,0oTb9Mja359cFo49iAi3S8,wacci,空に笑えば,空に笑えば,j-pop,319333,0,82.039,41,4,-3.802,False,4,0.542,0.746,0.504,0.0565,0,0.0263,0.126
+62390,5aiuyXYHSXz1YyBlKGVZth,Rin音,J-Pop 輕旅行,Ironic signal,j-pop,213582,1,98.005,0,10,-7.904,False,4,0.573,0.726,0.766,0.571,1.18E-5,0.0293,0.333
+62391,0iujTWTgmqgrc6bXxVu9aC,BOØWY,BOφWY,BAD FEELING,j-pop,268933,1,132.899,41,2,-7.638,False,4,0.606,0.966,0.571,2.26E-4,0.0529,0.0617,0.0819
+62392,1ta2CYyylz3zmYAB4gfLBO,Skypeace,脳SIGNAL,脳SIGNAL,j-pop,233333,1,95.018,42,0,-9.287,False,4,0.843,0.364,0.795,0.353,0,0.119,0.17
+62393,1cZgSdUl7ffgRGLzRXVzNI,Rin音,J-Pop 輕旅行,snow jam - From THE FIRST TAKE,j-pop,204962,1,80.993,0,1,-8.257,False,4,0.639,0.479,0.791,0.323,0,0.0511,0.123
+62394,7ufTy8pvHYGo2BDRKKQc0E,PornoGraffitti,PORNOGRAFFITTI 15th Anniversary “ALL TIME SINGLES”,サウダージ,j-pop,261920,0,120.028,41,4,-4.17,False,4,0.598,0.956,0.638,0.0438,0,0.0881,0.323
+62395,4PdRmauZ4AF8HJiwpMVaXT,Ayten Alpman,Ben Böyleyim (45'lik),Ben Böyleyim,j-pop,206725,0,113.625,42,5,-7.763,False,3,0.399,0.496,0.62,0.905,0.00786,0.0509,0.26
+62396,3HqYXUR82n2uenMkhkmIYF,Mrs. GREEN APPLE,Mrs. GREEN APPLE,サママ・フェスティバル!,j-pop,263373,1,169.989,42,9,-0.9,False,4,0.433,0.971,0.626,0.00339,4.14E-5,0.0634,0.0598
+62397,35kEnfVW2j1OERw8W3Fxtl,The Go-Go's,Fiesta temática 80s,This Old Feeling,j-pop,186400,1,140.251,0,9,-8.881,False,4,0.43,0.883,0.69,0.00346,0.00502,0.0616,0.137
+62398,0Ai1Gi2DBSaTKpKB9HDVKi,Reginaldo Rossi,Reginaldo Rossi,Em Plena Lua De Mel,j-pop,216320,0,161.353,44,9,-15.2,False,4,0.586,0.563,0.709,0.44,7.79E-6,0.0556,0.77
+62399,5Wj3Kbo5Kf1gfHzYuS4LNJ,Reginaldo Rossi,Cabaret Do Rossi,"Leviana - Live From São Paulo,Brazil/2010",j-pop,240000,0,140.071,43,6,-7.223,False,4,0.63,0.653,0.59,0.606,1.59E-5,0.0275,0.368
+62400,5h8jp1tzNDBhETtY4l1pjI,RADWIMPS,セツナレンサ,バイ・マイ・サイ,j-pop,282613,0,95.995,49,1,-8.365,False,4,0.611,0.493,0.425,0.603,1.92E-5,0.0289,0.159
+62401,14QNjDBXGCwEzJZUKkiTem,Fujii Kaze,まつり,まつり,j-pop,225924,1,97.021,55,1,-7.307,False,4,0.661,0.737,0.325,0.00758,0.0408,0.0349,0.293
+62402,0ODOmKxO0CKv4DzoP3HHIC,SID,hikari,嘘,j-pop,205973,0,179.853,60,11,-3.545,False,4,0.438,0.939,0.842,0.0118,0,0.0586,0.212
+62403,7ph7HRUsxYcKLRFTaYCQYQ,Ayano Kaneko,祝祭,ロマンス宣言,j-pop,149226,0,156.375,54,0,-8.359,False,4,0.661,0.864,0.945,0.231,6.19E-4,0.0341,0.0793
+62404,3Qy7j6GkdY3ycf3E7dxfpJ,sasanomaly,空と虚,空と虚,j-pop,221293,0,103.987,56,5,-5.046,False,4,0.671,0.756,0.848,0.00502,0.00361,0.0302,0.322
+62405,6z1TvLTR0oOsWSJfDrERmj,ヨルシカ,夏草が邪魔をする,言って。,j-pop,242182,1,180.014,62,0,-4.605,False,4,0.608,0.749,0.821,0.00745,2.97E-4,0.0536,0.0366
+62406,7AhMVnj6N89jmuCKNyr0AZ,Masayuki Suzuki;伊原六花,ラブ・ドラマティック,ラブ・ドラマティック,j-pop,263613,1,129.039,57,9,-5.309,False,4,0.71,0.798,0.789,0.364,0,0.0343,0.354
+62407,1xc9r9pgQ3CG7iViKPf0cQ,SPYAIR,BEST,イマジネーション,j-pop,179133,1,101.922,57,1,-2.967,False,4,0.481,0.938,0.589,0.00239,2.53E-5,0.0593,0.118
+62408,1JRNrJKTQhfvxII8kkIcAQ,Fujii Kaze,HELP EVER HURT NEVER,Mo-Eh-Wa,j-pop,301933,1,81.973,55,9,-7.969,False,4,0.629,0.585,0.296,0.43,0,0.0572,0.357
+62409,1j6Agt1Sn2DjQ0NA33J3r2,Creepy Nuts,よふかしのうた,よふかしのうた,j-pop,240000,0,115.057,57,5,-2.671,False,4,0.736,0.975,0.927,0.154,0,0.182,0.359
+62410,0yy8QwH9OOgeF3CBeUDguR,UVERworld,ODD FUTURE,ODD FUTURE,j-pop,225906,0,128.036,56,0,-4.649,False,4,0.694,0.795,0.556,0.015,0,0.0924,0.114
+62411,02CygBCQOIyEuhNZqHHcNx,Tom Misch;De La Soul,Geography,It Runs Through Me,j-pop,261881,0,96.916,68,11,-11.028,False,4,0.802,0.607,0.274,0.205,7.48E-4,0.289,0.246
+62412,7EUSByOz1UUx78lLDxfxRQ,YUI,again,again,j-pop,257506,0,140.083,52,4,-2.937,False,4,0.587,0.833,0.53,0.128,0,0.0389,0.376
+62413,6Mq4q5OIMO25vBsKpFdlnH,Aimer,朝が来る,朝が来る,j-pop,294933,1,83.117,57,1,-4.086,False,4,0.335,0.92,0.246,0.00118,0,0.0986,0.354
+62414,1lTfD2M6UpJRWi3YLb8qb5,Ikimonogakari,Chou Ikimonobakari Tennen Kinen Members Best Selection,SAKURA,j-pop,353800,0,149.951,52,5,-5.031,False,4,0.463,0.514,0.41,0.141,0,0.0301,0.37
+62415,05zDB03E1WxCLyraJJ2I2r,Masayuki Suzuki;伊原六花,Funky Flag,ラブ・ドラマティック (Funky Flag Version),j-pop,262946,1,129.031,55,9,-4.949,False,4,0.714,0.796,0.802,0.257,0,0.0327,0.237
+62416,3eyxh8xkW0X7k1FSHlAatt,UVERworld,Timeless,D-tecnoLife,j-pop,233893,0,168.005,60,1,-3.566,False,4,0.463,0.934,0.649,0.0223,0,0.141,0.301
+62417,7Cd17G3oNQ34OWUwS8ZxfR,Kenshi Yonezu,Lemon,Lemon,j-pop,256105,1,86.983,53,11,-4.924,False,4,0.532,0.661,0.446,0.366,0,0.0268,0.354
+62418,6bfDSsy4wnpn6B0de8Qrbx,BURNOUT SYNDROMES,BURNOUT SYNDROMEZ,Good Morning World!,j-pop,249480,1,95.574,58,0,-2.244,False,4,0.486,0.953,0.595,0.0505,0,0.0766,0.115
+62419,7vSF7u4vWtZGrWCxTbAVaw,RADWIMPS,Weathering With You -Complete Version-,We'll Be Alright,j-pop,335146,1,191.988,48,0,-4.741,False,3,0.174,0.717,0.424,0.115,0,0.0458,0.352
+62420,7yQnZkAxSiAavC0zFRB1NI,Ado,UTA'S SONGS ONE PIECE FILM RED,I’m invincible,j-pop,257079,1,96.04,58,4,-2.92,False,4,0.577,0.864,0.698,0.208,0,0.0447,0.355
+62421,08YwAPnX8sygJUXG9rvhDv,YOASOBI,THE BOOK,ハルジオン,j-pop,198600,1,130.024,62,8,-3.852,False,4,0.687,0.873,0.884,0.0545,0,0.0335,0.318
+62422,5MoDQWMDMaAGDEiWsJfeCi,The Bangles,The Essential Bangles,Eternal Flame,j-pop,238026,0,78.989,68,4,-7.239,False,3,0.526,0.358,0.399,0.525,0,0.0243,0.0942
+62423,2uMNMcjjUz8oNIxjIu20qE,SEKAI NO OWARI,Habit,Habit,j-pop,253153,0,117.968,75,10,-5.39,False,4,0.749,0.85,0.912,0.203,0,0.126,0.18
+62424,5cpOWNmI84MuUCeciETO64,Fujii Kaze,HELP EVER HURT NEVER,Kazeyo,j-pop,284520,0,114.966,52,9,-8.285,False,3,0.512,0.462,0.228,0.679,2.16E-4,0.0304,0.101
+62425,5j7ixaLeGTGSv4DzKs0pCM,ヨルシカ,だから僕は音楽を辞めた,だから僕は音楽を辞めた,j-pop,242912,1,124.985,63,4,-5.326,False,4,0.65,0.88,0.921,0.36,0.00369,0.0283,0.23
+62426,3sF38BVMmzxDoW0NHnRGYE,Che'Nelle;Crystal Kay;Thelma Aoyama,TOKYO - HALLOWEEN -,All My Ladies,j-pop,262200,1,149.98,0,7,-3.458,False,4,0.802,0.804,0.885,0.0527,0,0.223,0.11
+62427,0qjstg4kewevPiMlXQo32R,MFÖ,Agu,Vurgun Yedim,j-pop,193200,1,86.074,42,4,-12.516,False,4,0.399,0.485,0.376,0.155,9.41E-5,0.0336,0.112
+62428,1RGFGQB3S6wnwjwUlCM9Zb,『ユイカ』,J-Pop 輕旅行,好きだから。,j-pop,298663,1,164.993,1,0,-6.363,False,4,0.607,0.498,0.714,0.239,4.04E-6,0.0311,0.313
+62429,0rVH35mmwtelHycrJxFexC,YUI,CAN'T BUY MY LOVE,Rolling star,j-pop,188506,1,80.586,59,2,-2.386,False,4,0.49,0.889,0.673,0.00121,0,0.0445,0.373
+62430,4LBeEalws5w5e20pGU0r1V,サザンオールスターズ,愛と欲望の日々/LONELY WOMAN,愛と欲望の日々,j-pop,266600,0,123.93,40,7,-3.473,False,4,0.604,0.907,0.764,0.00895,0,0.0319,0.153
+62431,0acGt1Ozv8kZtecgsU4Wlo,Creep Hyp,夜にしがみついて、朝で溶かして,幽霊失格,j-pop,255640,1,91.972,41,3,-5.149,False,4,0.54,0.699,0.662,0.0679,0,0.0275,0.0882
+62432,5hVAQTNarrb3lmWqg9Ens4,Lilas Ikuta,Answer,Answer,j-pop,246000,1,79.954,66,0,-6.199,False,4,0.622,0.475,0.388,0.512,0,0.036,0.127
+62433,6ge78YSB7wKmJy5zds5oeE,Seiko Matsuda,SEIKO STORY〜80's HITS COLLECTION〜,天使のウィンク(SEIKO STORY〜80's HITS COLLECTION〜),j-pop,241613,1,141.09,41,11,-7.928,False,4,0.674,0.675,0.399,0.408,0.0011,0.0352,0.136
+62434,5S5ZTjnFetvswBSsz1IyCn,Mr.Children,DISCOVERY,光の射す方へ,j-pop,409226,0,117.917,40,4,-9.054,False,4,0.661,0.754,0.871,0.0168,7.03E-5,0.033,0.362
+62435,1l6fmXCPtTpJrKpYBe9bBw,ONE OK ROCK,Luxury Disease,Let Me Let You Go,j-pop,180211,1,96.091,60,5,-3.696,False,4,0.533,0.831,0.741,0.00804,0,0.0609,0.0975
+62436,4kUiK1qK8GW49u5wmmjhuC,Mr.Children,Versus,Replay,j-pop,269600,1,118.205,40,2,-8.476,False,4,0.633,0.717,0.608,0.109,0,0.0288,0.17
+62437,7t3q4ghl6rphMXn0oOJhUr,Michael Bublé;Meghan Trainor,Nobody but Me (Deluxe),Someday (feat. Meghan Trainor),j-pop,203453,1,94.98,58,7,-6.08,False,4,0.671,0.539,0.934,0.18,0,0.0392,0.0748
+62438,4f3nDjgqXurMryYBSp0TZD,ONE OK ROCK,JINSEI KAKETE BOKU WA,The Beginning,j-pop,292733,1,182.058,62,0,-2.352,False,4,0.36,0.983,0.279,8.83E-5,0,0.101,0.111
+62439,6f0nSkIgrc01mEk4G5kWau,SEAMO,SCRAP & BUILD,Continue,j-pop,256466,1,94.969,40,0,-4.027,False,4,0.625,0.841,0.478,0.365,8.22E-6,0.0638,0.127
+62440,7pQQVtcgnpi4HT284JOZqh,Creep Hyp,吹き零れる程のI、哀、愛,かえるの唄,j-pop,137390,1,136.041,41,10,-2.896,False,4,0.429,0.82,0.697,0.0141,0,0.0518,0.324
+62441,6tS9ZRbFnZXVztw11VCRZo,Yumi Matsutoya,KATHMANDU,輪舞曲 (ロンド),j-pop,279226,0,101.171,40,9,-9.427,False,4,0.698,0.683,0.881,0.0652,0,0.0616,0.367
+62442,1J8RuOjLTsM0leTQTqFwmO,サザンオールスターズ,NUDE MAN,匂艶 THE NIGHT CLUB,j-pop,249768,0,131.095,40,11,-5.726,False,4,0.487,0.868,0.796,0.0873,0,0.13,0.166
+62443,5IS7RD9LIEracUSlTZvHQy,Macaroni Empitsu,たましいの居場所 - EP,たましいの居場所,j-pop,201535,1,103.434,40,0,-4.531,False,4,0.643,0.827,0.731,0.223,0,0.0357,0.0848
+62444,7zkLpY72g6lKQbiHDqri1S,Norah Jones,Feels Like Home,Sunrise,j-pop,200626,1,156.848,73,8,-13.797,False,4,0.526,0.299,0.679,0.941,0.097,0.031,0.106
+62445,1Sy41HCCozDBL73orZpW5Y,Mrs. GREEN APPLE,サママ・フェスティバル!,サママ・フェスティバル!,j-pop,264160,1,169.963,41,4,-1.707,False,4,0.404,0.963,0.607,0.00151,1.06E-5,0.0663,0.0521
+62446,1wBT9CCMt0pLE9087GC7sa,Didi Kempot,Superhits Campursari,Layang Kangen,j-pop,272733,1,139.966,42,0,-6.634,False,4,0.659,0.654,0.869,0.0807,7.4E-5,0.0283,0.214
+62447,2pmoaWBreO8B6JQmTbED7T,Demetrius,Vitrola digital,O ritmo da chuva,j-pop,150026,1,111.064,41,3,-7.918,False,4,0.491,0.61,0.84,0.765,0.00628,0.0296,0.331
+62448,3IeXqCUNquwfnUQrEXSDnu,Leman Sam,İlla,Ayrılığa Dayanamam,j-pop,195626,1,126.029,43,7,-8.955,False,4,0.645,0.37,0.53,0.82,0,0.0367,0.177
+62449,3wbLj9Rd3YBZzKRDxC266o,The Smithereens,Especially For You,Blood And Roses,j-pop,216826,1,120.837,41,6,-14.141,False,4,0.477,0.686,0.81,0.0101,0.0118,0.0406,0.0633
+62450,3ESSGgWzRf1xvP7G5hHMhB,Fetty Wap,Fetty Wap (Deluxe),Again,j-pop,312240,0,93.019,68,11,-4.421,True,4,0.748,0.733,0.291,0.0062,0,0.072,0.329
+62451,7y06U9dmbU1d73cX0gjMCj,sumika,Chime,秘密,j-pop,267546,1,82.08,43,2,-7.491,False,4,0.29,0.54,0.394,0.293,0,0.0322,0.102
+62452,4wYCZ6QS5EClBXqjakTieR,ZUTOMAYO,消えてしまいそうです,消えてしまいそうです,j-pop,257799,1,105.965,67,5,-2.833,False,4,0.68,0.923,0.863,0.361,1.35E-5,0.0495,0.133
+62453,4rF72sAKXnQ2t2Q5aZlreW,ØMI,ANSWER... SHINE,You (Prod. SUGA of BTS),j-pop,187364,1,135.893,49,8,-7.382,False,4,0.677,0.517,0.482,0.0374,0,0.0519,0.075
+62454,7BkQoM9YxE7RvfRsWXhcGP,OKAMOTO'S,KNO WHERE,Welcome My Friend,j-pop,232413,0,109.052,49,4,-5.67,False,4,0.712,0.613,0.613,0.0297,0,0.0305,0.0513
+62455,17zGkwutNrdgAAfC61QLWF,Long Shot Party,LONG SHOT PARTY,distance,j-pop,187346,1,99.031,57,2,-3.264,False,4,0.462,0.955,0.535,0.04,0,0.0897,0.361
+62456,6ts1KCOudfDYXYfyWtq0k1,milet;Aimer;Lilas Ikuta,おもかげ (produced by Vaundy),おもかげ (produced by Vaundy),j-pop,188060,1,207.906,66,8,-4.502,False,4,0.488,0.638,0.713,0.0258,2.24E-5,0.058,0.12
+62457,3wJHCry960drNlAUGrJLmz,ヨルシカ,負け犬にアンコールはいらない,ただ君に晴れ,j-pop,198971,1,139.996,65,5,-3.223,False,4,0.679,0.834,0.962,0.343,5.74E-6,0.032,0.119
+62458,59COuEJRBxGGGCo6BIQ2lL,Aqua Timez,10th Anniversary Best BLUE,ALONES,j-pop,259933,0,186.04,58,9,-3.914,False,4,0.393,0.957,0.523,7.48E-4,0,0.101,0.302
+62459,2Gaynwa8ZoYKdc9w3utD1h,RADWIMPS,Your Name. (Deluxe Edition / Original Motion Picture Soundtrack),Dream Lantern - English Version,j-pop,131666,1,178.044,42,8,-5.451,False,4,0.207,0.835,0.193,0.0258,9.22E-6,0.403,0.0588
+62460,32CwLhZJBa6C5Q0bJe0Q47,Brian the Sun,パトスとエートス,HEROES,j-pop,181360,1,99.058,55,2,-3.864,False,4,0.526,0.94,0.574,0.00742,0,0.066,0.268
+62461,2pXmohBUnD5Li93sgpbPSg,YOASOBI,もう少しだけ,もう少しだけ,j-pop,220200,1,99.99,63,8,-5.531,False,4,0.675,0.746,0.533,0.12,0,0.0288,0.121
+62462,6NAtVhZ5LrvoKy2Gijr5gj,KANA-BOON,Honey & Darling,スターマーカー (Album Mix),j-pop,213640,1,134.047,57,4,-3.449,False,4,0.502,0.872,0.808,0.0107,0,0.0421,0.313
+62463,3NEuSQZbVmfQwRuDKol40Y,Aimer,SPARK-AGAIN,SPARK-AGAIN,j-pop,244160,0,90.068,58,11,-3.397,False,4,0.399,0.946,0.502,9.13E-4,0.00462,0.15,0.356
+62464,5aJg39ukLHsiCtCwoIHcF3,MAN WITH A MISSION,Dark Crow,Dark Crow,j-pop,278186,1,148.019,56,7,-4.406,False,4,0.537,0.944,0.36,0.00634,0,0.0988,0.0233
+62465,6VBQ4DF4fwPJNA96RbMQWT,BRADIO,POWER OF LIFE,Flyers,j-pop,210083,1,139.064,59,6,-2.35,False,4,0.45,0.857,0.755,0.0167,0,0.0398,0.202
+62466,21ACvBsQXpDd3bZCpOwnL8,RADWIMPS,NINGEN GOKKO,NINGEN GOKKO,j-pop,257371,0,136.023,50,11,-7.082,False,4,0.651,0.705,0.485,0.156,0,0.0521,0.0642
+62467,2F9iSs6DypVQu26t5uaeFM,YOASOBI,THE BOOK 2,三原色,j-pop,220253,0,128.014,57,5,-2.362,False,4,0.666,0.923,0.861,0.0836,0,0.0712,0.315
+62468,1oFbI9r8532T5rhDPTYe52,19,無限大,『果てのない道』,j-pop,247935,1,120.089,39,0,-5.91,False,4,0.639,0.796,0.857,0.038,0.107,0.0284,0.287
+62469,4sWgyKsbRnd6HprFmLQEVP,GReeeeN,雪の音,雪の音,j-pop,305386,1,109,39,5,-5.814,False,4,0.712,0.681,0.574,0.0647,5.15E-6,0.0267,0.0606
+62470,4BA7H9xuWihNvaZmdH99gd,EGOIST,Extra terrestrial Biological Entities,Departures 〜あなたにおくるアイの歌〜,j-pop,255013,1,143.95,41,2,-8.187,False,4,0.47,0.426,0.264,0.5,0,0.0304,0.0747
+62471,38DbjBzICQsrm693uQ4giW,B'z,B'z The Best “Treasure”,BLOWIN',j-pop,233133,1,117.991,40,2,-3.453,False,4,0.577,0.967,0.555,0.297,0,0.0902,0.634
+62472,0tbV4auaMSgdLhSL3LBxaP,サザンオールスターズ,SOUTHERN ALL STARS,フリフリ '65,j-pop,216506,0,134.683,39,9,-4.69,False,4,0.591,0.904,0.683,0.046,4.48E-5,0.047,0.0943
+62473,37h3M4ZYJgSRy0cXArsH59,櫻坂46,流れ弾 (Special Edition),ジャマイカビール,j-pop,202800,1,117.983,40,8,-3.793,False,4,0.7,0.876,0.787,0.148,0,0.0703,0.0792
+62474,5e2c0iKOJju9ESAjpFDiwG,Mr.Children,Q,ロードムービー,j-pop,254733,1,115.008,39,7,-8.114,False,4,0.676,0.69,0.741,0.0559,3.59E-5,0.0271,0.128
+62475,0lH6ZqVr2a695QXr8jaAwz,サザンオールスターズ,綺麗,そんなヒロシに騙されて,j-pop,192198,0,137.007,40,4,-6.074,False,4,0.668,0.872,0.828,0.092,0.145,0.029,0.343
+62476,4izwRKHJMnsuqS9Su9NkHH,KOBUKURO,Roadmade,YELL〜エール〜,j-pop,323053,1,109.007,39,2,-5.892,False,4,0.659,0.572,0.563,0.28,0,0.0271,0.1
+62477,0UsdtLayy7SqJ4rUsDMRk8,Doris Day,With A Smile And A Song,"Perhaps, Perhaps, Perhaps",j-pop,151706,0,104.519,59,9,-12.215,False,4,0.616,0.271,0.649,0.759,8.47E-6,0.0414,0.0781
+62478,0kI9yiyBUK4eiDz6Q38XXu,Mr.Children,深海,Mirror,j-pop,178733,1,110.618,39,0,-8.454,False,4,0.647,0.527,0.659,0.232,0,0.0273,0.098
+62479,6zOuo4SQK5i50W7IqM3xFW,サザンオールスターズ,ピースとハイライト,ピースとハイライト,j-pop,273303,1,139.11,39,9,-3.322,False,4,0.579,0.915,0.654,0.136,0,0.0353,0.0962
+62480,09MsYVn3pSSCFPZQXDwHLF,サザンオールスターズ,匂艶(にじいろ) THE NIGHT CLUB,匂艶 THE NIGHT CLUB,j-pop,251333,0,131.08,39,11,-3.672,False,4,0.448,0.919,0.79,0.162,0,0.124,0.186
+62481,0x0iBUW3dkKC652ja6RNcc,Yura Yunita,Duhai Sayang,Duhai Sayang,j-pop,201700,1,142.128,41,0,-12.066,False,4,0.686,0.257,0.399,0.921,0.00462,0.0525,0.116
+62482,2zfxDOjxIbu2EO7ZzD3nxu,サザンオールスターズ,彩~Aja~,彩~Aja~,j-pop,315233,1,118.174,39,7,-7.178,False,4,0.674,0.673,0.449,0.565,9.65E-4,0.0275,0.0632
+62483,1ssGOLuSdDAORxFOH8thDA,BOØWY,JUST A HERO,JUSTY,j-pop,234333,1,182.468,39,0,-5.604,False,4,0.52,0.976,0.421,0.0398,7.84E-5,0.147,0.104
+62484,2Tv4NhYavSni05V7IIT17w,My Hair is Bad,boys,芝居,j-pop,364453,1,78.971,40,8,-5.781,False,4,0.574,0.526,0.394,0.00526,0,0.0284,0.0995
+62485,0KNOXsTgTF0JaC7ZBZWPRK,Little Glee Monster,いつかこの涙が,いつかこの涙が,j-pop,264633,1,163.742,39,0,-3.738,False,4,0.515,0.705,0.352,0.263,1.76E-6,0.0347,0.123
+62486,39LyUQIy7idLxPdsjyZsxe,ONE OK ROCK,Eye of the Storm,Wasted Nights,j-pop,224746,1,125.07,56,5,-5.29,False,4,0.556,0.833,0.374,0.0156,0,0.0402,0.0659
+62487,6evqur3UoNFDzJp3eY86dq,Sertab Erener,Tesadüf Aşk,Tesadüf Aşk,j-pop,233042,0,141.49,41,6,-5.698,False,4,0.437,0.479,0.308,0.841,0,0.0326,0.185
+62488,0Y9EKPArIZ2DKUMv4O2BLT,Mr.Children,It's a wonderful world,ファスナー,j-pop,290800,1,116.76,39,7,-8.557,False,4,0.742,0.57,0.453,0.342,3.12E-6,0.0286,0.118
+62489,4zPLZspc1yODPLbeQbnHP5,鈴木鈴木,J-Pop 輕旅行,海のリビング,j-pop,223600,0,97.998,1,10,-4.005,False,4,0.652,0.846,0.762,0.0905,0,0.0374,0.242
+62490,5E0Rk6dIfej6CzPN8yuH7f,Levent Yüksel,Med Cezir,Kadınım,j-pop,271699,0,101.865,40,0,-15.046,False,4,0.625,0.32,0.305,0.433,1.81E-5,0.0308,0.117
+62491,207BAOr3SwEm2f2fGWda0w,鈴木鈴木,J-Pop 輕旅行,春空,j-pop,254297,1,79.974,1,7,-4.876,False,4,0.539,0.57,0.459,0.628,0,0.0453,0.339
+62492,4uU6tfWR2mywqpKn2akUwV,My Hair is Bad,hadaka e.p.,微熱,j-pop,202053,1,133.105,40,1,-4.514,False,4,0.607,0.851,0.726,0.0034,0,0.0306,0.166
+62493,39BYcHLXEyVRZ3WBlaUa6E,Sertab Erener,İyiliğe Ninniler,Dandini Dandini Dastana,j-pop,149168,0,88.08,41,3,-12.077,False,4,0.506,0.233,0.275,0.957,2.8E-5,0.0276,0.116
+62494,3PbWdhzRwiqdE69Gu1wHd0,Creep Hyp,泣きたくなるほど嬉しい日々に,今今ここに君とあたし,j-pop,181440,1,116.276,40,9,-3.038,False,4,0.397,0.903,0.592,0.00947,0,0.108,0.842
+62495,5RtowNGRzi71N0vz38qJ8R,Bo Kaspers Orkester,Dansa på min grav,Dansa på min grav,j-pop,219253,1,111.992,41,3,-10.064,False,4,0.665,0.342,0.338,0.696,0.0793,0.0298,0.112
+62496,1smXC6H0O8po3P4bS7MrgC,İlhan İrem,Dünden Yarına,Konuşamıyorum (Sazlıklardan Havalanan),j-pop,226493,0,108.427,41,4,-13.088,False,4,0.607,0.536,0.562,0.162,0.0692,0.0323,0.0935
+62497,6nJi2wdbnVaMKCWoeHbMni,Ruth Sahanaya,Greatest Hits,Bawa Daku Pergi,j-pop,328906,1,113.034,40,1,-6.729,False,4,0.708,0.786,0.675,0.186,0.00216,0.0513,0.118
+62498,4qxInLVzSSRdV5ARt81xRI,Alice Babs;Titti,Sjung med oss mamma,Tula hem och tula vall,j-pop,135840,1,88.028,41,0,-19.058,False,1,0.405,0.038,0.288,0.968,0,0.0427,0.106
+62499,5sLrsH9u2lsp3PPZPV3Szy,Vince Guaraldi;Lee Mendelson;Vince Guaraldi Trio,Weihnachten Klassik 2022,Christmas Time Is Here - Instrumental,j-pop,366213,1,74.923,0,5,-18.397,False,3,0.418,0.116,0.0861,0.966,0.648,0.0331,0.138
+62500,6aHFdm58mPF4YPJX3FgI0z,Cö Shu Nie,give it back,give it back,j-pop,212476,1,99.826,56,1,-5.838,False,4,0.461,0.591,0.354,0.463,0,0.0496,0.05
+62501,3fCO1n6l7yekcNRDRkoJJ4,Galileo Galilei,PORTAL,青い栞,j-pop,337960,1,132.031,53,4,-7.155,False,4,0.604,0.666,0.246,0.0499,3.78E-5,0.0271,0.14
+62502,4m4aQLiPbWFyE07xRoJPhc,Michael Bublé,Call Me Irresponsible (Deluxe),L O V E,j-pop,170213,1,141.884,63,0,-6.599,False,4,0.505,0.465,0.555,0.461,0,0.0566,0.169
+62503,65lzU29K7uXLHxJNI70d4Z,Cö Shu Nie,give it back,give it back,j-pop,214880,1,100.033,48,1,-5.922,False,4,0.492,0.581,0.351,0.471,0,0.047,0.0509
+62504,3ciqhcLmXP4hVGBD98QlEj,Fujii Kaze,きらり,きらり,j-pop,231882,1,116.982,65,2,-6.833,False,4,0.746,0.764,0.701,0.00803,0,0.0462,0.357
+62505,185Wm4Mx09dQG0fUktklDm,YOASOBI,ラブレター,ラブレター,j-pop,212400,1,100.016,62,7,-3.534,False,4,0.662,0.86,0.69,0.447,0,0.0286,0.339
+62506,1YvLvyEHEUv6xuablK3kpj,sasanomaly,空と虚,空と虚,j-pop,223846,0,103.976,55,5,-5.447,False,4,0.669,0.751,0.833,0.00483,0.0237,0.0299,0.326
+62507,0ud4VAfTH1AOb904kWOTzJ,花譜,花と解答,アンサー,j-pop,231333,1,160.029,46,6,-8.213,False,4,0.596,0.518,0.475,0.621,7.32E-6,0.0348,0.103
+62508,6EuubEs5qOmJdpNhkU47OZ,Lilas Ikuta,スパークル,スパークル,j-pop,213600,1,149.831,68,11,-4.937,False,4,0.614,0.579,0.692,0.417,0,0.038,0.0666
+62509,57MvUwzIzRJ0r21rnNU1s1,Vaundy,strobo,不可幸力,j-pop,200243,0,94.032,67,11,-5.227,False,4,0.69,0.815,0.613,0.0157,2.85E-6,0.0426,0.0636
+62510,4KQTgmkSEBzsGS3qL1aX7G,Sayuri,Sorewa Chiisana Hikarinoyouna,それは小さな光のような,j-pop,272916,0,143.966,36,7,0.698,False,3,0.492,0.959,0.349,0.109,0,0.0535,0.0796
+62511,3oQaOjaIYPsnJbGNzXcIID,King Gnu,BOY,BOY,j-pop,231385,1,109.982,65,0,-6.618,False,4,0.619,0.802,0.535,0.0831,0,0.0629,0.361
+62512,45jGOHwYKgsRYbAJ8DR61d,Motohiro Hata,青の光景,ひまわりの約束,j-pop,308146,1,78.957,61,10,-6.359,False,4,0.523,0.445,0.336,0.188,0,0.0329,0.18
+62513,7z6qHGEKxRtwtYym2epV7l,Ado,踊,踊,j-pop,208271,1,128.003,65,1,-0.736,False,4,0.707,0.965,0.777,0.15,1.38E-6,0.105,0.726
+62514,2VRcLEvQCMByWBuvM9gaJ2,yama,Oz.,Oz.,j-pop,194273,1,75.989,59,7,-4.609,False,4,0.403,0.723,0.441,0.0422,7.48E-6,0.0339,0.374
+62515,3yBeQAxk5Jb6bzvUpqu5qX,Rude-α,Paradise,Paradise,j-pop,173626,0,161.013,59,4,-3.054,False,4,0.554,0.964,0.897,0.00216,0,0.134,0.109
+62516,2o6d0rAC9BAyPmgXnbXx1h,CHiCO with HoneyWorks,我武者羅 (TV size),我武者羅 (TV size),j-pop,90000,1,97.006,49,11,-3.007,False,4,0.509,0.965,0.755,0.257,0,0.129,0.4
+62517,7i5pytF8KaId51lIzatwdg,Fujii Kaze,HELP EVER HURT NEVER,Kiri Ga Naikara,j-pop,217613,0,98.983,53,11,-7.121,False,4,0.699,0.78,0.723,0.0246,0,0.0505,0.368
+62518,7C9g7mGIpiMgeWauQ5ueBL,RADWIMPS,"Original Soundtrack of ""The Last Ten Years""",Ms. Phenomenal,j-pop,318880,1,78.035,50,11,-5.291,False,4,0.489,0.522,0.43,0.401,0,0.0306,0.238
+62519,4kPlQKwtPrnqLgrmmKFSlA,Yuuri,壱,ドライフラワー,j-pop,286360,1,148.089,71,7,-5.464,False,4,0.463,0.603,0.477,0.495,0,0.0276,0.167
+62520,18hPvq4l7aiolR6NenxBz6,Anthony Lazaro;Sarah Kang,Something New,Love Letter,j-pop,205956,0,114.875,46,6,-14.605,False,3,0.639,0.295,0.406,0.839,3.28E-6,0.0387,0.108
+62521,0Hi7B2lRZ2wNjmnDjPjh3D,RADWIMPS,Your Name.,School road,j-pop,68200,1,199.743,47,0,-8.153,False,4,0.532,0.342,0.239,0.515,0.228,0.0923,0.127
+62522,2xZyd4VDrWOz2bHZRvt5Xu,Shonan No Kaze,湘南乃風 〜一五一会〜,Grand Blue,j-pop,313026,1,134.048,50,1,-2.901,False,4,0.648,0.951,0.564,0.00959,0,0.0561,0.363
+62523,0xSqHQ5wv80hNkpU50vPc7,Anthony Lazaro,Strangers in Disguise,Gravity,j-pop,149285,1,60.307,51,10,-18.628,False,4,0.442,0.14,0.314,0.922,5.31E-4,0.0594,0.129
+62524,29VVYrV5TVpGu0IfoTXlcw,ONE OK ROCK,Renegades,Renegades,j-pop,244538,0,153.943,55,5,-4.254,False,4,0.536,0.857,0.332,8.49E-4,1.51E-4,0.0614,0.152
+62525,0r2PAeROizyyoFMpu0fvwI,King Gnu,Sympa,Prayer X,j-pop,195226,1,174.112,61,11,-6.006,False,4,0.528,0.752,0.542,0.419,0,0.28,0.181
+62526,57u1FaZlztApkcT5x5XNuD,Fujii Kaze,HELP EVER HURT NEVER,YASASHISA,j-pop,240080,1,133.858,53,1,-6.825,False,4,0.596,0.707,0.262,0.111,0,0.049,0.0926
+62527,1QELw50Dl95LusF6uOkDqk,Michael Bublé;Cécile McLorin Salvant,love (Deluxe Edition),La vie en rose (feat. Cécile McLorin Salvant),j-pop,229963,1,63.378,59,0,-8.948,False,4,0.459,0.267,0.342,0.807,0,0.0294,0.119
+62528,3wNycDzsKr9SYh58yWsnP2,Mr.Children,重力と呼吸,秋がくれた切符,j-pop,210733,1,77.583,39,3,-6.486,False,4,0.287,0.592,0.386,0.425,5.47E-6,0.0267,0.335
+62529,5cBmwNnKGLPRCQWzFS0r0Y,ClariS,ALIVE,ALIVE,j-pop,217693,1,179.381,63,11,-2.662,False,4,0.333,0.938,0.52,0.111,4.82E-5,0.186,0.123
+62530,77YFGPQfTd7H7p4EMwdiKt,サザンオールスターズ,Young Love,恋のジャック・ナイフ,j-pop,277044,0,147.93,39,11,-3.968,False,4,0.437,0.961,0.474,0.0827,4.1E-5,0.231,0.327
+62531,6ECA4muVp3hMB6jSYQNohb,MALIQ & D'Essentials,Free Your Mind,Heaven,j-pop,215746,0,95.088,41,6,-7.152,False,4,0.652,0.636,0.852,0.847,0.00731,0.0672,0.381
+62532,7CvLWQ30ggnHucKGA7KZN6,Creep Hyp,吹き零れる程のI、哀、愛,さっきはごめんね、ありがとう,j-pop,205699,1,89.999,39,5,-3.432,False,4,0.557,0.752,0.608,0.201,0,0.0365,0.318
+62533,0e97YxvNd0lumnc2PeavJq,Mr.Children,B-SIDE,旅人,j-pop,199013,1,147.097,38,9,-5.373,False,4,0.439,0.925,0.612,0.00113,0,0.0454,0.352
+62534,4BWynWBPy9awPUG0WzYEZl,ELLEGARDEN,RIOT ON THE GRILL,Bored Of Everything,j-pop,201306,1,145.894,38,7,-1.211,False,4,0.481,0.917,0.616,3.69E-4,0.12,0.0399,0.383
+62535,22UgCquORz262duHcMTSfM,MALIQ & D'Essentials,25 Tahun McDonald's Indonesia,Bagaimana Kutahu,j-pop,172235,0,84.997,41,3,-7.047,False,4,0.602,0.666,0.723,0.343,0,0.0631,0.0911
+62536,29A4wZq3zu5SiliT3BbwIR,BOØWY,JUST A HERO,BLUE VACATION,j-pop,216213,0,170.196,39,6,-6.325,False,4,0.591,0.959,0.896,0.183,0.00511,0.0503,0.399
+62537,4JDUGdW4HOayl5jk1MU511,EXILE,PHOENIX,NEO UNIVERSE,j-pop,259040,1,128.007,39,7,-3.34,False,4,0.673,0.867,0.43,0.0242,0,0.171,0.0966
+62538,3KYTK0Gy0KmjbWQMfPvBZT,Didi Kempot,Kasmaran,Dalan Anyar,j-pop,252680,1,135.037,40,1,-8.933,False,4,0.701,0.567,0.618,0.673,0.117,0.027,0.103
+62539,3zghAHN7NO5WKVKUCJRm3f,Creep Hyp,鬼,炭、酸々,j-pop,181040,0,118.015,39,4,-3.174,False,4,0.591,0.651,0.754,0.0339,0,0.0323,0.0878
+62540,34U3O5S4N77R7dTEh9TGfD,Yeni Türkü,Yeni Türkü Koleksiyon,Maskeli Balo,j-pop,173133,0,92.632,41,4,-10.651,False,4,0.609,0.435,0.769,0.669,0,0.0254,0.169
+62541,0EaHW2BpzOP4P06FqUwkqL,İlhan İrem,Dünden Yarına,Yazık Oldu Yarınlara,j-pop,248200,0,107.352,40,4,-12.872,False,4,0.617,0.555,0.691,0.332,0.255,0.0328,0.258
+62542,12SNxpytVKahQ25nOTpbFX,Jehan Barbur,Kusura Bakmasınlar,Kusura Bakmasınlar,j-pop,247160,0,81.986,41,4,-8.728,False,4,0.65,0.577,0.373,0.543,1.23E-6,0.0426,0.18
+62543,0Lwk7mrjyrO4YjNXWXPfGc,Mr.Children,Atomic Heart,Dance Dance Dance,j-pop,296960,0,121.736,39,10,-5.2,False,4,0.585,0.921,0.695,1.36E-4,1.33E-5,0.0457,0.174
+62544,7JdEX5CkWNaPB9jLFFrMli,LINDBERG,LINDBERG BEST~FLIGHT RECORDER III~,every little thing every precious thing,j-pop,324626,1,85.833,38,6,-3.607,False,4,0.447,0.78,0.477,0.0292,1.34E-4,0.0302,0.125
+62545,24MXXeJEcB1ennbWoFAJMp,Vanusa,20 Super Sucessos: Vanusa,Mudanças,j-pop,197930,0,72.068,40,6,-7.286,False,4,0.483,0.474,0.428,0.614,0,0.0457,0.585
+62546,5iLvprNgPn14wije5V6djv,Robert Broberg,Höjdare,Vatten,j-pop,135626,1,169.967,40,2,-9.747,False,4,0.592,0.535,0.564,0.351,0,0.0512,0.543
+62547,2FU1YUBRONE4XXTiffe2Bv,Sertab Erener;Öykü Karayel,İyiliğe Ninniler,Benim Annem Güzel Annem,j-pop,145008,1,77.943,41,0,-10.555,False,3,0.671,0.185,0.353,0.986,0,0.0302,0.106
+62548,2PhDSnvzHU4NKuKTtUD6Ea,Billo's,Exitos De Billo's Caracas Boys,Boquita Sala,j-pop,175647,0,182.884,41,4,-8.675,False,4,0.599,0.545,0.966,0.72,1.83E-4,0.0695,0.0807
+62549,1t9HNvBOX5nhC9zakjRpyD,Reginaldo Rossi,Cheio De Amor,Quando Você Foi Embora,j-pop,182493,1,127.292,41,2,-5.647,False,4,0.647,0.881,0.772,0.138,0,0.0467,0.314
+62550,7dH0dpi751EoguDDg3xx6J,Yuuri,ドライフラワー,ドライフラワー,j-pop,285586,1,147.929,67,7,-5.118,False,4,0.463,0.624,0.521,0.426,0,0.0274,0.221
+62551,5RmtuRIe8FJg9FRegwCqzW,Omoinotake,EVERBLUE,EVERBLUE,j-pop,241866,0,134.985,56,8,-4.225,False,4,0.597,0.895,0.498,0.0463,0,0.173,0.299
+62552,3qpNyeV4wr3YeCVfrosVyN,Yoshiki;HYDE,Red Swan - TV Edit -,Red Swan - TV Edit -,j-pop,90909,1,131.853,50,10,-5.053,False,4,0.408,0.698,0.385,0.567,0.0111,0.0357,0.151
+62553,6XVkBZ5DTEpAUqJMtPNyJe,ラックライフ,風が吹く街,風が吹く街,j-pop,249506,1,98.999,48,1,-3.302,False,4,0.547,0.932,0.534,0.0039,0,0.0465,0.101
+62554,6UEudr7wL1kWoEzWTWOjL9,Riria.,失恋ソング沢山聴いて 泣いてばかりの私はもう。,失恋ソング沢山聴いて 泣いてばかりの私はもう。,j-pop,298952,1,149.977,55,2,-6.967,False,4,0.603,0.525,0.273,0.135,0,0.0412,0.0714
+62555,2fP2NoqPvzIVyAgSa1gIqJ,Nana Mizuki,ダブルシャッフル,ダブルシャッフル,j-pop,209000,0,119.96,49,1,-3.811,False,4,0.664,0.928,0.53,0.00989,0,0.058,0.0773
+62556,1LwSnnsoKcAUv9TPFEZ7iQ,yama,麻痺,麻痺,j-pop,198100,0,100.1,56,5,-4.303,False,4,0.532,0.932,0.738,0.0661,0,0.0522,0.38
+62557,7McCOOQG8GQtngK2Obh0Ts,miwa,guitarissimo,chAngE,j-pop,249746,1,164.852,57,7,-2.01,False,4,0.442,0.973,0.635,0.0268,0,0.156,0.108
+62558,6xUBXdVdzs50AvqARndD1A,FLOW,COLORS,COLORS -CODE GEASS OPENING MIX-,j-pop,93786,1,136.072,53,1,-5.414,False,4,0.524,0.815,0.638,0.0482,0,0.0369,0.122
+62559,5BczZ8OQh8TMM0WL7q806z,あれくん;『ユイカ』,あのね。,あのね。,j-pop,214036,1,108.015,54,1,-5.853,False,4,0.713,0.651,0.945,0.152,3.58E-6,0.0255,0.0927
+62560,7b7QqKepv8wY6VopSmQqX8,DISH//,No.1,No.1,j-pop,230600,1,90.492,55,1,-4.3,False,4,0.495,0.878,0.621,0.0216,0,0.058,0.186
+62561,0tvPnYDLySJL9g7OHNJeyb,BUMP OF CHICKEN,アカシア,アカシア,j-pop,262106,1,139.99,55,7,-2.971,False,4,0.469,0.929,0.578,0.0244,0,0.0339,0.0574
+62562,2u3aQ9fMrUaC5vcxRb853x,Utha Likumahuwa,Nada & Apresiasi,Kenikmatan Tersendiri,j-pop,238706,1,88.219,39,5,-10.496,False,4,0.62,0.624,0.711,0.885,0.0651,0.0753,0.246
+62563,2k7lStJS8TJvMNxbdClLMD,Aqua Timez,うたい去りし花,Velonica,j-pop,278400,1,136.977,56,7,-3.193,False,4,0.495,0.925,0.587,1.29E-4,0,0.0417,0.139
+62564,39HrUxcvKF3jtLz7fUDWXc,Hikaru Utada,First Love,First Love,j-pop,257293,1,179.913,65,7,-8.37,False,4,0.438,0.434,0.195,0.122,0,0.0371,0.15
+62565,0dSPApaBoWn6SA4GKWq9QK,YOASOBI,THE BOOK 2,Romance,j-pop,166426,0,130.001,58,1,-2.095,False,4,0.643,0.945,0.853,0.0889,0,0.0445,0.271
+62566,1JLi1LOHt6dDTiMrwejsd1,GReeeeN,愛し君へ,愛し君へ,j-pop,257853,1,158.124,38,9,-2.909,False,4,0.499,0.823,0.548,0.226,0,0.0551,0.369
+62567,5n7Sp2uHvRWbKYU1KIqaNA,Cidergirl,SODA POP FANCLUB 4,シンデレラ,j-pop,213053,1,129.988,55,7,-3.799,False,4,0.58,0.941,0.769,0.00968,0,0.0595,0.317
+62568,5bXJfMyZrhi9Yvo4GR2HfQ,サザンオールスターズ,ステレオ太陽族,Hello My Love,j-pop,238173,1,96.737,38,9,-6.97,False,4,0.556,0.865,0.609,0.244,0,0.0605,0.31
+62569,19k4uVJALDYrpRchsCuzo9,サザンオールスターズ,熱い胸さわぎ,女呼んでブギ,j-pop,247400,1,145.198,38,2,-5.418,False,4,0.562,0.885,0.805,0.184,0,0.116,0.0555
+62570,1lcCTqIQpKFHNpgso5WbDg,Yumi Matsutoya,守ってあげたい,守ってあげたい,j-pop,267179,1,112.217,37,7,-9.827,False,4,0.729,0.476,0.562,0.675,7.57E-6,0.0271,0.094
+62571,4D9QMZ3n8OupOPdxU0MMBS,EMMA WAHLIN,Make A Move,Make A Move,j-pop,189146,0,124.015,55,9,-6.615,False,4,0.822,0.591,0.384,0.0133,0.147,0.0515,0.114
+62572,0ddbXUxKVScdcSCcPeVVqm,Macaroni Empitsu,ハッピーエンドへの期待は,メレンゲ,j-pop,237193,1,104.023,38,2,-4.638,False,4,0.601,0.68,0.656,0.0154,0,0.0317,0.101
+62573,05T6bH9sE0OM5KDnjQFvvL,B'z,SUPER LOVE SONG,SUPER LOVE SONG,j-pop,240070,1,165.003,39,0,-4.283,False,4,0.477,0.96,0.54,3.87E-4,1.11E-4,0.0586,0.187
+62574,2KF57JKD8oQgBA904VRjQq,Creep Hyp,夜にしがみついて、朝で溶かして,こんなに悲しいのに腹が鳴る,j-pop,276266,1,111.042,39,10,-6.358,False,4,0.647,0.68,0.218,7.78E-4,1.51E-4,0.0243,0.0574
+62575,5HhYHpxwdGTCO5YK7dycoT,supercell,My Dearest,My Dearest,j-pop,338520,1,168.166,57,0,-2.133,False,4,0.394,0.918,0.324,0.0286,0.00117,0.0628,0.17
+62576,4GVzBVrDce2kS5TDQBMUJ5,MFÖ,Ele Güne Karşı Yapayalnız,Bu Sabah Yağmur Var İstanbul'da,j-pop,220641,1,120,40,2,-11.935,False,4,0.504,0.245,0.266,0.706,0,0.0331,0.137
+62577,3UM15EeyHsRCbbIym5bmIt,Ardhito Pramono,Ardhito Pramono,Di Senayan,j-pop,215625,1,127.639,38,0,-11.829,False,4,0.433,0.276,0.0702,0.649,0.73,0.0306,0.111
+62578,0OwEskGUqCMgkSY7JkJS7x,ONE OK ROCK,35xxxv (Deluxe Edition),Heartache,j-pop,265213,1,143.043,57,1,-6.486,False,4,0.415,0.689,0.245,0.154,0,0.0302,0.0637
+62579,3IWztt3qxGNnfwjZFe58rB,Creep Hyp,死ぬまで一生愛されてると思ってたよ,火まつり,j-pop,132799,1,133.912,38,8,-4.971,False,4,0.527,0.777,0.923,0.181,0,0.0394,0.113
+62580,5H9bGkHgHgtsKxZhg15MCU,Mr.Children,Q,CENTER OF UNIVERSE,j-pop,332760,1,149.856,38,7,-6.647,False,4,0.445,0.786,0.412,0.0105,0,0.0451,0.137
+62581,4CExtMzQjdIiyfzTNDoCDp,Mr.Children,HOME,あんまり覚えてないや,j-pop,324440,1,114.929,38,4,-8.418,False,4,0.579,0.58,0.649,0.165,8.17E-6,0.0288,0.273
+62582,6eRXTPOkr0IJ7t9QkYR9YV,Glenn Fredly,Happy Sunday,Kisah Yang Salah,j-pop,253893,1,121.911,39,3,-6.425,False,4,0.449,0.437,0.147,0.32,0,0.0307,0.0988
+62583,73EiAv1UPdVSueGrVHeDT7,ONE OK ROCK;Satoshi Fujihara,Luxury Disease (Japanese Version),Gravity (feat. Satoshi Fujihara) [OFFICIAL HIGE DANDISM],j-pop,191959,0,97.592,58,11,-5.085,False,4,0.488,0.713,0.424,0.0464,0,0.0716,0.145
+62584,30PWDbyVkYtkXA8UDT9mOf,櫻坂46,Nobody's fault (Special Edition),Buddies,j-pop,302146,1,145.886,39,5,-3.064,False,4,0.47,0.803,0.267,0.0531,0,0.0391,0.134
+62585,5cZkudJYkjAKcU4Cs0BM6H,Tanju Okan,Bir Zamanlar (Best Of),Dostlarım,j-pop,247560,0,99.824,40,2,-6.47,False,4,0.328,0.613,0.473,0.545,0,0.0335,0.377
+62586,4092MbO87KwfGLVie4N6Oj,Mr.Children,REFLECTION{Drip},fantasy,j-pop,261839,0,116.003,38,2,-4.43,False,4,0.538,0.802,0.588,0.0201,0,0.0349,0.199
+62587,15HNdxGKNCIO9pgaY4n7FU,Official HIGE DANdism,Traveler,Pretender,j-pop,326842,1,91.972,60,8,-3.464,False,4,0.538,0.869,0.369,0.047,0,0.0275,0.14
+62588,4uUxH8BfRVfEACG2sUt6AA,櫻坂46,Nobody's fault (Special Edition),ブルームーンキス,j-pop,322586,1,139.824,39,10,-3.508,False,4,0.572,0.603,0.517,0.166,0,0.0562,0.239
+62589,47NLAeGZM4cNB3vaOAL5Ik,サザンオールスターズ,"海のOh, Yeah!!",涙の海で抱かれたい~SEA OF LOVE~ [2018 Remaster],j-pop,267253,1,138.915,38,2,-3.745,False,4,0.515,0.927,0.708,0.021,0,0.0463,0.131
+62590,1mR8QLenUNHA2T1jJLosp3,go!go!vanillas,FOOLs,おはようカルチャー,j-pop,305533,1,125.946,38,11,-2.795,False,4,0.389,0.955,0.453,0.00249,0,0.124,0.262
+62591,5ckwwuTYWo41EfBxwVh4PV,neguse.,「ハッピーな暮らし」,最愛,j-pop,193226,1,183.876,39,11,-3.528,False,4,0.426,0.851,0.756,0.0985,0,0.0577,0.661
+62592,1AuUdDcb2F6rXXmNERetsC,My Hair is Bad,mothers,復讐,j-pop,164293,1,102.509,39,1,-3.179,False,4,0.593,0.957,0.691,0.0161,0,0.0711,0.0689
+62593,59fXitI8pGevOkd4VeZrGr,neguse.,「ハッピーな暮らし」,恋夜,j-pop,249603,1,186.796,39,11,-4.218,False,4,0.403,0.839,0.619,0.0043,0,0.0732,0.361
+62594,7FzPmvCXC8CqwP9AkIkPA9,Frida Ånnevik,Det jeg vil ha (fra deg),Det jeg vil ha (fra deg),j-pop,203263,1,109.216,40,8,-11.527,False,4,0.486,0.268,0.213,0.882,7.81E-5,0.0313,0.103
+62595,6UzTyhhqRDeuyfinRdBgFD,BOØWY,LAST GIGS COMPLETE,"LONGER THAN FOREVER - FROM ""LAST GIGS""",j-pop,244053,1,164.109,38,7,-3.041,False,4,0.249,0.945,0.479,1.19E-5,0.0958,0.0411,0.858
+62596,5boa5pUNMOHjpXuKyIGcXj,TM NETWORK,GIFT FOR FANKS,Get Wild,j-pop,240333,1,131.834,38,7,-10.914,False,4,0.624,0.856,0.836,0.0157,7.29E-6,0.0477,0.158
+62597,7hSnUKB7xmb8p7y3GFRz0s,Lisa Nilsson,Sånger om oss,Var är du min vän,j-pop,194026,1,143.231,40,11,-10.872,False,4,0.459,0.324,0.641,0.777,3.95E-6,0.0283,0.112
+62598,4Lr7VvisMViziV1g6vlU97,Paulo Sérgio,Paulo Sergio Vol. 7,Índia,j-pop,245573,1,123.013,40,4,-6.514,False,4,0.554,0.467,0.827,0.661,0,0.0287,0.273
+62599,2w7LbnZdWCG9Ux7gzVbQFC,Levent Yüksel,Aşk Mümkün müdür Hala?,Aşk Mümkün Müdür Hala?,j-pop,243253,1,100.025,39,9,-4.179,False,4,0.629,0.732,0.449,0.605,5.72E-5,0.0497,0.193
+62600,6XsJTpZwPKMcG8QK8k14Z6,ASIAN KUNG-FU GENERATION,ワールド ワールド ワールド,アフターダーク,j-pop,192026,1,191.006,57,1,-3.747,False,4,0.387,0.95,0.541,0.00193,0,0.0475,0.0689
+62601,6k90ibcH1z8Mx9684nfuLW,ZUTOMAYO,お勉強しといてよ,お勉強しといてよ,j-pop,280720,1,132.007,54,8,-3.291,False,4,0.699,0.875,0.863,0.083,2.63E-5,0.0558,0.103
+62602,43QSsuxazI8xms29SYCtxh,KANA-BOON;もっさ,ないものねだり - Revenge THE FIRST TAKE,ないものねだり - Revenge THE FIRST TAKE,j-pop,256256,0,87.508,58,1,-3.745,False,4,0.565,0.811,0.691,0.0141,0,0.057,0.0726
+62603,1QkEUbGSlp70DYNFcxcxYI,須田景凪,Billow,veil,j-pop,209636,0,150.054,58,0,-4.401,False,4,0.559,0.873,0.797,0.0281,0,0.0544,0.185
+62604,6dQ3lcQG2MuIQ0P7GSYQeJ,amazarashi,世界収束二一一六,季節は次々死んでいく,j-pop,338880,1,90.517,54,0,-3.983,False,4,0.545,0.897,0.459,0.105,0,0.0409,0.209
+62605,3akr0ZrJxLMBLIFeNNKffW,Masayoshi Yamazaki,"One more time,One more chance","One more time,One more chance",j-pop,330786,0,129.491,47,11,-7.707,False,4,0.519,0.429,0.396,0.658,0,0.0317,0.111
+62606,4SupI9OXg3hwrymR85hkhL,TK from Ling tosite sigure,Signal,Signal,j-pop,319800,0,83.408,49,2,-2.547,False,4,0.433,0.91,0.303,0.00173,2.99E-5,0.0643,0.122
+62607,0ldzDKNON23ajcssPHjTKH,DOES,DOES,紅蓮,j-pop,243000,0,93.984,53,1,-2.628,False,4,0.428,0.931,0.575,5.82E-6,1.5E-6,0.05,0.0746
+62608,4ESlJoWBExtFumtISwPabd,KANA-BOON,NAMiDA,バトンロード,j-pop,280240,1,161.92,51,1,-3.516,False,4,0.361,0.946,0.39,5.04E-4,1.72E-4,0.0759,0.343
+62609,6tAWgyIwWB6f1ozhA0tadW,Monkey Majik,"MONKEY MAJIK BEST (Special Selection Edition by Maynard, Blaise, TAX&DICK)",Eden,j-pop,271519,1,84.018,48,11,-5.196,False,4,0.53,0.746,0.435,0.156,0,0.0281,0.362
+62610,0ZiO07cHvb675UDaKB1iix,Aimer,Sun Dance,コイワズライ,j-pop,235160,1,93.917,61,10,-5.825,False,4,0.675,0.5,0.773,0.3,0,0.0258,0.312
+62611,4Ylqc711Eq763XbTAOABu3,Doris Day;Frank DeVol & His Orchestra,Doris Day - Her Greatest Songs,"Que Sera Sera (Whatever Will Be, Will Be) [From ""The Man Who Knew Too Much""] (with Frank DeVol & His Orchestra)",j-pop,124880,1,175.838,51,9,-9.16,False,4,0.4,0.422,0.743,0.855,0,0.0379,0.722
+62612,4zrKPIygugUDKGFEjVwpSB,Official HIGE DANdism,Subtitle,Subtitle,j-pop,305509,1,130,53,6,-6.49,False,4,0.649,0.683,0.381,0.0313,0,0.0424,0.118
+62613,2AmRjWxvLxJK3DjCYNruLI,RADWIMPS;Toko Miura,Weathering With You,Celebration (Movie Edit) [feat. Toko Miura],j-pop,156160,1,152.034,48,9,-2.554,False,4,0.511,0.923,0.765,0.142,0,0.0867,0.172
+62614,08oWhY5M3huYiiFhv2pKcc,Maoli,Sense of Purpose,Mercy,j-pop,194000,1,75.007,54,5,-6.078,False,3,0.717,0.524,0.266,0.0751,8.57E-6,0.0724,0.103
+62615,3FUCuf498nFHJXFYR1V9Bd,YOASOBI,三原色,三原色,j-pop,224066,0,127.999,64,5,-3.496,False,4,0.443,0.893,0.826,0.128,0,0.154,0.328
+62616,7qD46MYIys25wU6oKrW7LB,SPITZ,CYCLE HIT 1991-1997 Spitz Complete Single Collection,スパイダー,j-pop,225680,1,126.937,37,4,-4.667,False,4,0.625,0.85,0.617,0.291,2.44E-6,0.0295,0.0966
+62617,3osbtV03rQoOfuU0tLW0Gt,AK-69,DAWN,With You ~10年、20年経っても~,j-pop,297146,1,151.902,38,0,-5.781,False,4,0.679,0.597,0.516,0.62,0,0.0688,0.0786
+62618,3VB2Q9iWutZLTiBYNcNFHO,Lenny code fiction,Montage,Make my story,j-pop,267586,1,132.029,56,8,-3.835,False,4,0.531,0.942,0.823,0.00179,0,0.0554,0.398
+62619,5zmWkyNHZWEemXYSRLl9ER,B'z,RISKY,愛しい人よGood Night…,j-pop,374499,0,88.014,38,9,-4.722,False,4,0.448,0.671,0.279,0.807,8.77E-6,0.0277,0.281
+62620,52mdfuSA5iYJy92ErNU43y,サザンオールスターズ,綺麗,NEVER FALL IN LOVE AGAIN,j-pop,233666,0,93.291,38,11,-9.927,False,4,0.519,0.411,0.277,0.758,0.0383,0.027,0.119
+62621,3SAv82Quz3LQyBJcBdYdK2,J SOUL BROTHERS III,Movin' on,Movin' on,j-pop,186000,1,86.995,38,7,-3.214,False,4,0.574,0.856,0.315,0.0409,0,0.0502,0.336
+62622,0TiiGmD5X7j2VJaC8ZG7Iu,SEAMO,messenger,Lost Boy,j-pop,233840,1,100.052,37,8,-4.406,False,4,0.536,0.968,0.43,0.0127,7.6E-6,0.111,0.485
+62623,5m1i6hq7dmRlp3c1utE48L,back number,水平線,水平線,j-pop,285396,1,145.867,74,10,-3.546,False,4,0.419,0.75,0.436,0.011,0,0.0316,0.159
+62624,0fghHxfyQxou9o7xXCJj7c,C&K,CK IT'S A JAM ~BEST HIT UTA~,続→60億分の1,j-pop,306986,1,126.013,38,0,-7.475,False,4,0.607,0.526,0.312,0.514,0,0.0307,0.335
+62625,1OFIV4M1LslvAXhKv0fDf7,Sharam Q,シングルベスト10 おまけつき,My Babe 君が眠るまで,j-pop,235600,0,126.079,37,10,-7.921,False,4,0.679,0.773,0.902,0.0244,0,0.0331,0.346
+62626,5DtZ4fNKomfHJRoXkMBW27,サザンオールスターズ,人気者で行こう,メリケン情緒は涙のカラー,j-pop,263446,1,143.616,37,0,-5.874,False,4,0.668,0.941,0.913,0.0942,0,0.104,0.061
+62627,1EG5RLy2quovk4ALCigqnf,Creep Hyp,憂、燦々,AT アイリッド,j-pop,211668,1,91.683,38,10,-8.032,False,4,0.565,0.586,0.507,0.272,3.47E-5,0.0297,0.361
+62628,5nSdJRpyM8OkYOVGa5rlsw,Mr.Children,I LOVE U,靴ひも,j-pop,262373,1,122.014,37,5,-5.616,False,4,0.664,0.824,0.475,0.0401,0,0.026,0.12
+62629,0lXrKeeEkBTAi7GFF5NZRa,Mr.Children,REFLECTION{Naked},未完,j-pop,290506,1,126.926,37,2,-4.004,False,4,0.576,0.939,0.361,0.00364,0,0.043,0.179
+62630,2DiXeuEpop3BfGDGxW8iVz,WANIMA,Can Not Behaved!!,Hey Lady,j-pop,73226,1,115.019,37,9,-2.185,False,4,0.456,0.935,0.486,4.28E-5,0,0.0883,0.368
+62631,5NCNySW8lAekW79fumeTnG,サザンオールスターズ,世に万葉の花が咲くなり,せつない胸に風が吹いてた,j-pop,264604,1,131.916,37,2,-4.972,False,4,0.552,0.863,0.767,0.274,0,0.0343,0.0988
+62632,3a1vfZIdgamMsTIF1KFYQP,サザンオールスターズ,NUDE MAN,Just A Little Bit,j-pop,261733,1,114.522,37,7,-9.99,False,4,0.341,0.462,0.218,0.72,1.84E-6,0.043,0.0722
+62633,5eWZ2xEc3UFswaPbgRDEKb,サザンオールスターズ,タイニイ・バブルス,C調言葉に御用心,j-pop,278226,1,132.493,37,4,-6.08,False,4,0.651,0.876,0.873,0.0162,1.35E-6,0.0422,0.0785
+62634,2HwTNkYDzY4Jm3hDQ0q6ft,Creep Hyp,社会の窓,週刊誌,j-pop,221879,0,92.085,38,1,-2.417,False,4,0.472,0.919,0.38,0.0954,4.2E-6,0.0585,0.183
+62635,3TTkE5EJF6pkyZYvfv9tCm,Creep Hyp,死ぬまで一生愛されてると思ってたよ,バイト バイト バイト,j-pop,266499,1,128.011,38,2,-5.343,False,4,0.626,0.706,0.5,0.172,0,0.0303,0.105
+62636,0x0MhNUtPRICbKhuL5Ncnm,CIMBA;Mr.Low-D;DJ Law,Ballad Best,Replay - Next Lifetime (feat. Mr. Low-D & DJ LAW),j-pop,291520,1,141.983,38,3,-6.201,False,4,0.632,0.678,0.705,0.577,0,0.0865,0.211
+62637,745ARHLcXTciceuJnpULZz,Yuki Koyanagi,あなたのキスを数えましょう 〜You were mine〜,あなたのキスを数えましょう 〜You were mine〜,j-pop,343733,1,125.943,38,9,-5.536,False,4,0.564,0.481,0.308,0.237,0,0.0277,0.157
+62638,79yMmNgP845r5rhkJHI3jp,AI,THE BEST (DELUXE EDITION),みんながみんな英雄 - フルバージョン,j-pop,181600,1,117.017,38,3,-3.739,False,4,0.647,0.78,0.668,0.484,0,0.0401,0.103
+62639,4jw4BotdO2WfbF0U1J7mXc,Horace Brown,Horace Brown,One For The Money,j-pop,265466,1,90.073,40,3,-8.537,False,4,0.759,0.536,0.842,0.0455,0,0.0429,0.0313
+62640,1QseUPpVi2aVXUJGWmkRle,TEE,片方の未来 (produced by 清水翔太),片方の未来 (produced by 清水翔太),j-pop,260666,1,86.018,38,1,-5.683,False,4,0.663,0.474,0.339,0.313,0,0.0353,0.0926
+62641,5D5fiDX8MhK3lfHJmZZmpt,ONE OK ROCK,Luxury Disease,Save Yourself,j-pop,197995,1,165.096,58,5,-2.709,False,4,0.503,0.849,0.762,0.00428,0,0.0615,0.0667
+62642,4eNOPb3UvhoC6K7NRkXCXX,Sena Şener,Kendim Ettim Kendim Buldum (Live),Kendim Ettim Kendim Buldum - Live,j-pop,201589,0,99.259,39,4,-10.914,False,4,0.376,0.138,0.0385,0.859,3.23E-6,0.0292,0.148
+62643,2w2MXZEONSMh1HzOUpuqIx,go!go!vanillas,Kameleon Lights,バイリンガール,j-pop,293200,1,178.053,37,11,-3.462,False,4,0.334,0.923,0.682,4.0E-4,0,0.109,0.338
+62644,1qzHqfvKrZWo6dVHM1dXrj,Norah Jones,Come Away With Me (Super Deluxe Edition),Turn Me On,j-pop,154800,1,170.645,69,10,-10.694,False,3,0.429,0.18,0.485,0.864,4.4E-6,0.0551,0.104
+62645,7sXZJsHoJ1f4kaUrDlJhci,Leman Sam,İlla,İlla,j-pop,304266,1,121.769,39,8,-4.769,False,4,0.522,0.628,0.39,0.646,0,0.0309,0.323
+62646,2G5DsZwbmMUZysqozAF8NA,Decada Explosiva,A Explosao Da Jovem Guarda,Só Eu E Você (There's A Kind Of Hush),j-pop,147066,1,131.44,38,0,-7.117,False,4,0.543,0.676,0.604,0.333,0,0.0317,0.34
+62647,0RAKF0lg3EvPQAKHMnsqO2,Dian Pramana Poetra;Deddy Dhukun,5 Bintang Populer,Masih Ada,j-pop,240946,0,121.225,39,7,-8.329,False,4,0.335,0.376,0.268,0.558,1.04E-4,0.0328,0.172
+62648,09SsT6U26aWDG3VeiZUA4e,Nazan Öncel,Sokak Kızı,Erkekler De Yanar,j-pop,230320,1,102.732,40,6,-6.49,False,4,0.683,0.77,0.784,0.00263,7.03E-6,0.0246,0.354
+62649,5hLiMgK0oIx8t9AwO3Pm3P,Madeleine Peyroux,Careless Love,Don't Cry Baby,j-pop,198346,1,105.908,39,7,-10.339,False,4,0.623,0.353,0.236,0.889,0.012,0.0317,0.109
+62650,6DaKMsQDmHMJbKYyU7AUFA,Hikaru Utada,BADモード,One Last Kiss,j-pop,249904,0,111.985,58,8,-10.703,False,4,0.597,0.542,0.397,0.698,0.00264,0.0563,0.0986
+62651,0JtDUkqOV5cRxTdHMXGP3t,SUPER BEAVER,ひたむき,ひたむき,j-pop,250960,1,93.996,60,6,-2.688,False,4,0.539,0.979,0.657,5.3E-4,3.48E-6,0.0677,0.324
+62652,4MwVirVMyerMiHkFomOZay,ヨルシカ,創作,嘘月,j-pop,290466,1,80.016,57,2,-9.767,False,4,0.707,0.292,0.637,0.724,0.00235,0.0309,0.235
+62653,7dTIsyFZ6GFDRNxilprPXg,Anthony Lazaro,Moody Wind,Moody Wind,j-pop,192260,0,114.995,52,4,-16.165,False,4,0.766,0.38,0.292,0.756,0.0061,0.0409,0.137
+62654,3wnpIknGSkkcLRTQpkPXvX,Daichi Miura,Blizzard,Blizzard,j-pop,314066,1,139.999,33,1,-3.287,False,4,0.641,0.817,0.39,0.0673,6.43E-4,0.0553,0.105
+62655,6z5zopmol2EeKDjeRH2QfM,Vaundy,恋風邪にのせて,恋風邪にのせて,j-pop,255914,0,118.021,44,6,-3.594,False,4,0.595,0.909,0.537,6.4E-5,3.55E-4,0.0341,0.387
+62656,2tNcvY9PZlEKrUJRx9OiGr,tacica,newsong e.p.,newsong,j-pop,211573,1,128.057,52,9,-3.832,False,4,0.555,0.896,0.7,0.0027,0,0.0356,0.0649
+62657,3ILWwi1JNj3NGuuf6DzYxN,Kenshi Yonezu,STRAY SHEEP,Flamingo,j-pop,196386,1,114.075,60,7,-6,False,4,0.76,0.668,0.913,0.165,0,0.0546,0.0917
+62658,3FUqp10RhCmMjyyB9extmo,ヨルシカ,盗作,花に亡霊,j-pop,241226,1,90.01,60,4,-6.628,False,4,0.646,0.45,0.413,0.573,0,0.0482,0.0768
+62659,3tw4Jysd48kMcKsdnGYLee,Kenshi Yonezu,Pale Blue,死神,j-pop,180760,1,119.019,62,2,-6.308,False,4,0.807,0.653,0.939,0.0349,9.08E-6,0.0443,0.111
+62660,67Vem8LNv1WuUCAdubOb3d,サザンオールスターズ,熱い胸さわぎ,瞳の中にレインボウ,j-pop,291240,1,106.192,37,9,-6.015,False,4,0.56,0.752,0.707,0.201,0,0.115,0.223
+62661,6euwgOanJOzsBeZUDTbx29,Survive Said The Prophet,s p a c e [ s ],found & lost,j-pop,188960,0,104.086,55,1,-3.71,False,4,0.547,0.987,0.382,1.33E-4,3.03E-4,0.0783,0.343
+62662,6aJ90LBl96bly9zuEH1U2X,Montell Jordan,Best Of Montell Jordan,This Is How We Do It,j-pop,237546,1,103.646,66,1,-7.333,False,4,0.791,0.702,0.789,0.0174,0,0.0623,0.423
+62663,0vIVLPuiWbtufH0lnkY1Zn,KANKAKU PIERO,Rakugakipeiji,Rakugakipeiji,j-pop,203495,1,184.085,52,1,-4.47,False,4,0.325,0.968,0.364,0.00677,0.0258,0.156,0.183
+62664,3LMjzut3wdkyAM1A30ohkn,Sambomaster,ラブソング,世界をかえさせておくれよ,j-pop,169653,0,175.997,37,11,-3.048,False,4,0.449,0.995,0.569,0.102,0,0.287,0.337
+62665,4NaaF28BeO9WzjDrSS71Nz,Mrs. GREEN APPLE,ダンスホール,ダンスホール,j-pop,203149,1,109.976,77,7,-3.87,False,4,0.736,0.695,0.784,0.0209,0,0.0468,0.0517
+62666,6VPbn4sGyKlpJb5rA08X3e,Mr.Children,SENSE,ロックンロールは生きている,j-pop,289866,1,120.97,37,0,-7.142,False,4,0.518,0.87,0.714,0.00296,0,0.07,0.164
+62667,6Q32Vkucx2qeuVyBd3NiFZ,HOTEI,Kill Bill Vol. 1 Original Soundtrack (PA Version),Battle Without Honor Or Humanity,j-pop,148840,1,94.699,52,4,-5.088,False,4,0.704,0.844,0.669,0.00173,0.905,0.0507,0.0599
+62668,3tGXnGvZpT4fzua650wrRh,MAN WITH A MISSION,Merry-Go-Round,Merry-Go-Round,j-pop,243810,0,119.971,56,5,-5.617,False,4,0.591,0.914,0.451,0.00267,0,0.0737,0.0801
+62669,5SIvk89WNJKsl02ojARSYh,Aimer,DAWN,LAST STARDUST,j-pop,318666,0,121.963,56,2,-5.13,False,3,0.473,0.845,0.223,0.0105,2.87E-5,0.0455,0.13
+62670,7tfNdoXGoZiTLE65Y5o5Hz,ACE COLLECTION,70億にただ1つの奇跡,70億にただ1つの奇跡,j-pop,384240,1,75.008,38,10,-8.094,False,4,0.552,0.45,0.403,0.586,3.33E-6,0.0268,0.154
+62671,5uVR5LH8P3u8y3tDV2R4gl,サザンオールスターズ,世に万葉の花が咲くなり,君だけに夢をもう一度,j-pop,297403,1,133.147,37,9,-4.361,False,4,0.507,0.883,0.61,0.359,2.08E-6,0.0812,0.312
+62672,6dnPQD7riP9K0ub8tbFJV5,SHISHAMO,SHISHAMO BEST,熱帯夜,j-pop,252266,1,186.144,37,2,-6.651,False,4,0.539,0.753,0.647,8.14E-4,4.46E-6,0.0338,0.167
+62673,3K2js6iGwWiAoMpCkuJG7M,Yura Yunita,Buktikan,Buktikan,j-pop,186642,1,96.965,39,8,-3.825,False,4,0.771,0.664,0.672,0.172,1.14E-4,0.0443,0.0926
+62674,2QfPCoGiMLH3MO1uZoX08G,TUBE,TUBEst III,きっと どこかで,j-pop,212173,0,124.154,37,7,-4.573,False,4,0.38,0.698,0.486,0.305,0,0.0366,0.182
+62675,4Y7vHLV9MXkk8fuDAsJ4OA,CHEMISTRY,CHEMISTRY 2001-2011,最期の川,j-pop,379853,1,144.004,37,11,-7.45,False,4,0.423,0.345,0.323,0.781,0,0.0294,0.0957
+62676,0owmJNkGcGNq4hb6qt3ufd,The Happy Fits,What Could Be Better,She Wants Me (To Be Loved),j-pop,199413,1,119.935,64,9,-5.175,False,4,0.779,0.727,0.727,0.109,0,0.0336,0.0657
+62677,6heynKdZXxOPe4sC6xOpQo,Mr.Children,Versus,LOVE,j-pop,244160,1,91.003,37,9,-8.079,False,4,0.671,0.626,0.623,0.12,8.29E-5,0.0234,0.18
+62678,3GsnjW91IJGJlMxzNPNXAY,Mr.Children,Kind of Love,虹の彼方へ,j-pop,215026,1,139,37,7,-7.652,False,4,0.504,0.801,0.428,0.0273,1.01E-6,0.0312,0.362
+62679,07VPMBxEAw8opd21Voa6Rv,Ryoko Hirosue,MajiでKoiする5秒前,MajiでKoiする5秒前,j-pop,265026,1,103.966,38,0,-3.619,False,4,0.694,0.912,0.793,0.073,0,0.0297,0.0406
+62680,2BJdsyqP0IfOt0GR2a6zJl,Mr.Children,innocent world,innocent world,j-pop,345266,1,119.921,37,4,-9.418,False,4,0.62,0.55,0.634,0.315,0,0.0273,0.344
+62681,4YFrH7oE7c35mJX3kAQbWb,=LOVE,全部、内緒。 (Special Edition),=LOVE,j-pop,246546,1,158.048,38,10,-2.651,False,4,0.415,0.963,0.618,0.0374,2.22E-4,0.0952,0.0594
+62682,5CgkbROq94tTSnXnrfvtGH,ONE OK ROCK,Let Me Let You Go,Let Me Let You Go,j-pop,180211,1,96.091,59,5,-3.696,False,4,0.533,0.831,0.741,0.00804,0,0.0609,0.0975
+62683,0HLLXulya71QkF53jef2U3,Ceylan Ertem,Yine De Amin,Kovdum,j-pop,225777,1,77.141,39,6,-7.935,False,4,0.483,0.49,0.247,0.819,1.09E-4,0.04,0.157
+62684,2fy97tZ7heQTsLfHZVpHJG,My Hair is Bad,boys,観覧車,j-pop,257786,1,134.015,38,11,-3.898,False,4,0.542,0.769,0.547,0.0143,0,0.0357,0.192
+62685,7LR44miVMWFENCpE4ZXNo1,Ceylan Ertem;Melike Şahin,Seyrüsefer,Seyrüsefer,j-pop,187562,0,88.447,39,2,-9.875,False,4,0.339,0.298,0.468,0.912,0,0.0541,0.351
+62686,1c76mkLcJIvmR3pmGh2l2q,GLAY,THE GREAT VACATION VOL.2 ~SUPER BEST OF GLAY~,春を愛する人,j-pop,304120,1,129.175,36,2,-3.482,False,4,0.519,0.941,0.67,0.093,0,0.0382,0.122
+62687,0PxqK0EMignEIxkpU3UgPC,MALIQ & D'Essentials,1st Special Edition,The One,j-pop,282333,0,79.014,39,7,-7.496,False,4,0.714,0.606,0.678,0.652,2.47E-5,0.0709,0.117
+62688,0nWIJZr7nG6WOw0r4uVPNS,Ello,Taub Mumu,Gak Kayak Mantanmu,j-pop,238426,1,95.979,38,7,-5.628,False,4,0.579,0.608,0.398,0.347,0.00224,0.0265,0.11
+62689,0CflRiqtl8oVKuvscVgy6F,MALIQ & D'Essentials,Mata Hati Telinga,Mata Hati Telinga,j-pop,267600,0,118.043,39,4,-10.698,False,4,0.786,0.303,0.42,0.811,2.1E-6,0.0352,0.15
+62690,5BT0sejkliP4fAzR59DW1N,Bo Kaspers Orkester,Redo att gå sönder,Sommaren,j-pop,250866,0,94.094,38,5,-7.083,False,4,0.528,0.884,0.954,0.216,0.0097,0.0298,0.174
+62691,1SE71BfSiTa8vv5c8LKIYH,Maki Ohguro,Greatest Hits 1991-2016 ~All Singles + ~,ら・ら・ら,j-pop,264177,1,121.228,37,5,-2.327,False,4,0.579,0.903,0.831,0.00664,0,0.0293,0.284
+62692,4vGWyNHyhNS44QXXwxaLRV,Queen Latifah,Hairspray (Soundtrack To The Motion Picture),"Big, Blonde and Beautiful",j-pop,155306,0,102.092,41,0,-4.639,False,4,0.609,0.834,0.705,0.105,0,0.0512,0.407
+62693,13NiLpPObW19yyfaJ8rQ3k,Almir Bezerra,"20 Super Sucessos: Almir Bezerra, Vol. 2",Por Causa de Você,j-pop,192949,1,111.903,38,2,-11.632,False,4,0.733,0.406,0.512,0.667,2.78E-6,0.0288,0.351
+62694,5uq57c53VeLYlZd2byrIwT,Nikki Yanofsky,The Ultimate Jazz Cafe Album,Bienvenue dans ma vie,j-pop,229386,0,144.035,38,5,-9.772,False,4,0.626,0.402,0.557,0.675,1.03E-6,0.0716,0.14
+62695,7xMxs0Olfv0KKeaXmBZHYH,Doğan Canku,Best Of +3,Gecelerim,j-pop,162801,0,91.664,38,0,-9.519,False,4,0.475,0.289,0.669,0.926,1.09E-6,0.0393,0.121
+62696,4oOD9dL7rtVz2s83UBElEG,Erasmo Carlos;Marisa Monte,50 Anos de Estrada (Ao Vivo no Theatro Municipal),Mais um na Multidão - Ao Vivo,j-pop,241866,1,91.423,40,8,-8.458,False,4,0.371,0.538,0.222,0.244,1.0E-4,0.0313,0.674
+62697,1jVVc6xsGbG9frXgMAX3RR,Yeni Türkü,Şimdi Ve Sonra,Sevgi Özleyendir,j-pop,195186,0,80.174,39,4,-6.856,False,4,0.458,0.655,0.38,0.516,0,0.0318,0.203
+62698,3s7F88geiKnUqzeQqDDBCD,Luiz Ayrao,20 Super Sucessos: Luiz Ayrão,A Saudade Que Ficou - O Lencinho,j-pop,245673,0,103.92,39,1,-4.727,False,4,0.705,0.755,0.887,0.346,0,0.0656,0.064
+62699,5yy1Ba0P040YFPYWuXIceK,Lisa Nilsson,Till Morelia,Handens fem fingrar,j-pop,216680,1,169.298,38,3,-14.147,False,4,0.471,0.166,0.421,0.858,0,0.0457,0.106
+62700,3zE6YLb2IBb8NriBuuXWQd,Sambomaster,サンボマスターは君に語りかける,青春狂騒曲,j-pop,286186,1,136.254,59,7,-2.205,False,4,0.297,0.934,0.421,2.57E-4,1.69E-6,0.0787,0.225
+62701,48JYYEXKNZdXuDdZvkRvaQ,amazarashi,境界線,境界線,j-pop,293824,0,186.91,53,11,-3.073,False,4,0.473,0.9,0.377,0.00209,0,0.0511,0.0948
+62702,7ha9B32izQ0Ni2RtSzm2C4,amazarashi,BOYCOTT,さよならごっこ,j-pop,272613,0,146.984,49,6,-5.096,False,4,0.621,0.717,0.591,0.384,0,0.0853,0.193
+62703,5ZaKWYtQTpOyRogPpE5Tyj,Ikimonogakari,BAKU,BAKU,j-pop,227213,0,113.985,49,1,-3.368,False,4,0.64,0.939,0.756,0.068,0,0.0421,0.0762
+62704,5rf92DCtbJvUj39BifS6lT,FAKY,four,four,j-pop,214320,1,77.422,29,10,-4.474,False,4,0.492,0.598,0.469,0.366,0,0.033,0.323
+62705,4IaZWtk88n1RD2IHJGUrxW,TK from Ling tosite sigure,katharsis (TV edit),katharsis (TV edit),j-pop,89387,1,144.051,48,8,-4.045,False,4,0.661,0.706,0.435,0.223,0,0.158,0.234
+62706,5MUb136to9lnJLfIy5FZKI,YOASOBI,THE BOOK 2,優しい彗星,j-pop,213240,1,89.989,57,5,-4.293,False,4,0.707,0.709,0.59,0.179,0,0.033,0.142
+62707,6nqfKM9JvQIiuAuzWZFvGW,もさを。,ぎゅっと。,ぎゅっと。,j-pop,269746,1,119.994,61,4,-7.304,False,4,0.773,0.363,0.774,0.814,0,0.0383,0.103
+62708,0v1vufjir4OE4iRckLMoLd,YUZU,Shinsekai,Hyouriittai,j-pop,336619,0,159.888,52,1,-3.626,False,4,0.223,0.891,0.333,0.325,0,0.138,0.287
+62709,0Fa9qMXVeHIKFU5fm35fy9,Namie Amuro,Uncontrolled,Fight Together,j-pop,257399,1,129.036,59,2,-4.435,False,4,0.699,0.913,0.671,0.0318,2.08E-6,0.0813,0.0928
+62710,5TwVwAlOcrMV0VMp0PgZzq,サザンオールスターズ,さよならベイビー,さよならベイビー,j-pop,295700,0,98.583,36,11,-6.942,False,4,0.687,0.726,0.814,0.27,6.55E-4,0.024,0.117
+62711,278JqkBGkjDovOYAwE8TW7,Official HIGE DANdism,エスカパレード,115万キロのフィルム,j-pop,324633,1,96.921,72,3,-1.927,False,4,0.516,0.791,0.48,0.00345,0,0.0318,0.141
+62712,4wru9Edj14iTAh3jLEiHix,CHEMISTRY,CHEMISTRY 2001-2011,Period,j-pop,215040,0,127.061,55,1,-4.199,False,4,0.372,0.895,0.268,0.00463,6.99E-6,0.104,0.094
+62713,1HHOkD7fuNCBnImFrlDRVi,CHiCO with HoneyWorks,瞬く世界にiを揺らせ,決戦スピリット,j-pop,270306,0,94.026,56,5,-2.678,False,4,0.579,0.952,0.352,0.00459,0,0.054,0.113
+62714,6TP6fgrqu2BI55tDWYmUOW,Aqua Timez,The BEST of Aqua Timez,等身大のラブソング,j-pop,278666,1,75.994,37,10,-4.635,False,4,0.643,0.741,0.862,0.395,0,0.0305,0.0652
+62715,7AqUE5AY514dbzeOAfJRa0,Kenshi Yonezu,BOOTLEG,LOSER,j-pop,243813,0,121.001,62,1,-3.74,False,4,0.679,0.931,0.962,0.00466,0,0.0474,0.0652
+62716,6U5Jqs8bYsREVIIza72BET,サザンオールスターズ,KAMAKURA,死体置場でロマンスを,j-pop,239640,0,153.966,37,9,-5.4,False,4,0.601,0.988,0.864,0.146,0,0.0727,0.0682
+62717,17k36Q2QXtMyi4W97s3tt1,Yumi Matsutoya,REINCARNATION,オールマイティー,j-pop,264076,1,138.335,37,9,-5.908,False,4,0.69,0.861,0.833,0.057,0.0254,0.027,0.0892
+62718,5g3ZD7PmrEQlQZKDW91yGG,The Bangles,Everything,Eternal Flame,j-pop,235666,1,78.93,64,7,-13.683,False,3,0.521,0.233,0.4,0.635,0,0.0254,0.245
+62719,0ApX0DRPyXJflR03xkN4JK,Fujifabric,若者のすべて,若者のすべて,j-pop,297693,1,123.936,36,1,-5.324,False,4,0.589,0.672,0.246,0.00727,0.314,0.0275,0.255
+62720,62z3AnM1fOnFoYf7nsYuxJ,サザンオールスターズ,KAMAKURA,夕陽に別れを告げて~メリーゴーランド,j-pop,285800,1,122.289,37,2,-7.425,False,4,0.385,0.729,0.528,0.293,0,0.0454,0.221
+62721,6sVs3a15BV6Kc2ayZ6H6sC,KIRINJI,J-Pop 輕旅行,クレイジー・サマー,j-pop,305973,1,155.975,0,7,-8.737,False,4,0.484,0.438,0.314,0.546,0.0159,0.0238,0.152
+62722,6cWsw9xoCtQs5ZwMiyLGpc,Shonan No Kaze,はなび,ライバル,j-pop,292546,1,84.825,37,7,-3.069,False,4,0.568,0.722,0.594,0.408,0,0.0425,0.0776
+62723,0ZvD5T4M5xR09faA7WZpwS,サザンオールスターズ,さくら,素敵な夢を叶えましょう,j-pop,309200,1,119.653,37,0,-9.854,False,4,0.422,0.364,0.225,0.816,1.59E-5,0.0318,0.121
+62724,0anw2y6ifCI7QS8Cj5Ph7x,Nogizaka46,生まれてから初めて見た夢 (Complete Edition),君が扇いでくれた,j-pop,244400,1,105.997,37,2,-3.854,False,4,0.562,0.786,0.684,0.00974,2.14E-5,0.0303,0.251
+62725,7ucwhjWSGTEh5e18h6WFER,Andien,Gemintang,Milikmu Selalu,j-pop,254226,1,117.019,38,8,-7.146,False,4,0.776,0.629,0.773,0.0793,0.0212,0.0342,0.169
+62726,6b9fRRk1ApXnCm5voro8U9,19,無限大,以心伝心,j-pop,239533,1,72.173,37,9,-11.11,False,4,0.562,0.36,0.393,0.616,0,0.0306,0.383
+62727,25JWyDp4DkZpRzChZKHiPw,ELLEGARDEN,ジターバグ,Cakes And Ale And Everlasting Laugh,j-pop,184173,1,154.96,36,2,-2.897,False,4,0.382,0.945,0.314,4.86E-4,0,0.067,0.0481
+62728,0Z9yS8hMAZ3cNeavV0KKpv,Diana Krall;Bryan Adams,Wallflower,Feels Like Home,j-pop,261506,1,92.994,57,8,-12.539,False,4,0.549,0.139,0.34,0.946,2.93E-6,0.0288,0.145
+62729,52mKiP16FYA0C8X6gTr4zK,サザンオールスターズ,I AM YOUR SINGER,I AM YOUR SINGER,j-pop,271066,1,129.975,37,0,-5.22,False,4,0.686,0.816,0.942,0.558,4.74E-6,0.0271,0.16
+62730,2RzW810u8zoJA8BBVhc5fT,すとぷり,Are You Ready?,Strawberry Smile Magic,j-pop,209536,1,134.018,37,1,-3.262,False,4,0.576,0.934,0.593,0.0126,0,0.0505,0.383
+62731,2sCZPAARC8MU3wZZwnIW2N,Mr.Children,[(an imitation) blood orange],かぞえうた,j-pop,282080,1,136.614,37,10,-7.375,False,4,0.332,0.563,0.431,0.152,9.31E-6,0.0306,0.122
+62732,4lm6b3hJLWhtzs1N0dDUYA,サザンオールスターズ,Young Love,あなただけを ~Summer Heartbreak~,j-pop,316800,1,122.971,37,0,-3.892,False,4,0.552,0.891,0.746,0.0544,1.19E-6,0.0342,0.223
+62733,1VRqtVKwdsvOQu7FxcUWRy,サザンオールスターズ,バラッド3 ~the album of LOVE~,"OH, GIRL(悲しい胸のスクリーン)",j-pop,235533,0,99.897,37,9,-5.171,False,4,0.638,0.768,0.578,0.444,6.65E-6,0.0286,0.241
+62734,560hhPa9vwZonMVt56uSMd,Jehan Barbur,Sarı,Güzel Adam,j-pop,252813,0,119.623,39,8,-11.59,False,4,0.605,0.216,0.23,0.907,1.27E-5,0.0391,0.0956
+62735,5xWxnLpw8ooMW1nJwY2hui,KIRINJI,J-Pop 輕旅行,時間がない,j-pop,284160,0,126.033,0,11,-9.154,False,4,0.772,0.675,0.68,0.124,0.0121,0.0366,0.102
+62736,3yMgTrau91ftrziL48Q3OM,Macaroni Empitsu,メレンゲ,メレンゲ,j-pop,238732,1,103.982,37,2,-3.988,False,4,0.573,0.697,0.647,0.0127,0,0.0355,0.102
+62737,5lKYNdiGaR6n68ALW4SCxU,TUBE,BEST of TUBEst ~All Time Best~,夏を抱きしめて,j-pop,262360,1,129.963,36,6,-5.684,False,4,0.51,0.733,0.308,0.149,0,0.0336,0.0334
+62738,5iC1ZJrmutqWWbyyirrDuZ,back number,アンコール,MOTTO,j-pop,182266,0,185.961,37,6,-3.257,False,4,0.489,0.92,0.54,0.00588,0,0.11,0.102
+62739,0S4HB769BP3gdVWfe7SLtS,Nazan Öncel,Yan Yana Fotoğraf Çektirelim,Beyoğlu,j-pop,222320,0,114.949,39,5,-6.572,False,4,0.661,0.764,0.637,0.0613,0,0.0357,0.261
+62740,35RtQbgQUW1GsE4ro9dSqo,go!go!vanillas,Kameleon Lights,カウンターアクション,j-pop,272866,1,147.868,37,4,-3.47,False,4,0.402,0.888,0.735,1.31E-4,1.22E-6,0.0437,0.0653
+62741,6yhLR2sVn1IfsScVrR4ocr,Doris Day;Frank DeVol & His Orchestra,With A Smile And A Song,"Whatever Will Be, Will Be (Que Sera, Sera) (with Frank DeVol & His Orchestra)",j-pop,123360,1,177.229,59,9,-10.749,False,4,0.416,0.341,0.776,0.864,0,0.0391,0.724
+62742,05NYcsjJwOYq4jIiKPVj9p,The Black Crowes,Shake Your Money Maker,Hard To Handle,j-pop,188066,1,103.783,72,4,-3.58,False,4,0.599,0.79,0.961,0.00257,0.00181,0.043,0.312
+62743,2BdbIW7Vs7csJBZbKxkDAd,Yura Yunita,Merakit,Apakah Kamu,j-pop,245344,1,119.968,38,0,-7.626,False,4,0.824,0.652,0.796,0.283,5.5E-4,0.0498,0.127
+62744,4QkKRtOPA0mU55JoyVqtQV,Sertab Erener,İyiliğe Ninniler,Çamlıbelden Çıktım Yayan,j-pop,172013,0,75.136,38,9,-11.826,False,4,0.481,0.248,0.433,0.977,4.77E-6,0.0311,0.102
+62745,3oWc8PRlPU51nh2gBQHQ9K,THE RAMPAGE from EXILE TRIBE,THE RAMPAGE LIVE TOUR 2017-2018 GO ON THE RAMPAGE,"君がいるから - THE RAMPAGE LIVE TOUR 2017-2018 GO ON THE RAMPAGE Live at NHK HALL, 2018.03.28",j-pop,283949,1,149.926,37,3,-11.199,False,3,0.431,0.467,0.341,0.579,0,0.0355,0.124
+62746,6GeU7bmiWCjDdbedTVIIlo,Gündoğarken,İstanbul Atina İstanbul,Gördüğüme Sevindim,j-pop,209789,0,151.159,38,9,-10.871,False,4,0.489,0.414,0.35,0.799,3.11E-6,0.0297,0.228
+62747,258RIVFMuibgf38bu48HAW,Sertab Erener,İyiliğe Ninniler,Uyusun Da Büyüsün,j-pop,107325,0,84.99,38,3,-9.416,False,4,0.483,0.18,0.15,0.907,0,0.0292,0.102
+62748,408bvXQ6HK3nFh1OYFPyA0,Marie Fredriksson,Het Vind,Rickie Lee,j-pop,148626,1,126.533,38,2,-3.144,False,4,0.648,0.916,0.892,0.26,0,0.0278,0.253
+62749,7xyl9nogYJsmt7Wfu4GXFc,Reginaldo Rossi,Reginaldo Rossi,Leviana,j-pop,231893,0,140.228,39,6,-7.509,False,4,0.621,0.719,0.78,0.554,0,0.031,0.259
+62750,2LZ9iobmtiQa52mZMIebuH,SID,dead stock,レイン,j-pop,255533,0,94.964,55,1,-4.905,False,4,0.585,0.795,0.666,0.0286,0,0.0293,0.122
+62751,1BxBJCHhyGYcPLZBAaC7YE,THE CHARM PARK,花が咲く道,花が咲く道,j-pop,216860,1,100.069,45,11,-3.526,False,4,0.403,0.929,0.518,0.0644,0.0219,0.0592,0.294
+62752,0J0P8iSE6l3pYHbUdNFYdS,King Gnu,カメレオン,カメレオン,j-pop,193990,1,79.953,73,0,-7.235,False,4,0.628,0.533,0.459,0.643,0,0.0417,0.0733
+62753,5JaYaJnVZ3ZCB4VLvfs3eR,Rude-α,23,LIFE,j-pop,182093,0,93.006,54,6,-4.452,False,4,0.716,0.768,0.826,0.0746,0,0.1,0.204
+62754,3TQKZoYr4tH2YeJ02bcw1m,sumika,Chime,春夏秋冬,j-pop,274560,1,79.004,43,11,-5.515,False,4,0.543,0.632,0.384,0.383,0,0.0304,0.093
+62755,4TBtGrMgUYH7D5Tf5HLvyz,J Boog,Backyard Boogie,Let's Do It Again,j-pop,192177,0,173.537,64,0,-5.631,False,4,0.631,0.696,0.927,0.578,0,0.211,0.0784
+62756,2ILz4eU7UCTv0Wup7F5lVt,meiyo,なにやってもうまくいかない,なにやってもうまくいかない,j-pop,146588,1,124.92,60,4,-4.875,False,4,0.872,0.814,0.829,0.0483,2.22E-5,0.215,0.0403
+62757,0yzX8MYYJHw7A3PLvgEc7e,YOASOBI;ミドリーズ,ツバメ (feat. ミドリーズ),ツバメ (feat. ミドリーズ),j-pop,217429,1,104.997,60,8,-5.027,False,4,0.72,0.926,0.846,0.309,0,0.0297,0.0761
+62758,1fRadkuwHEqwMuiY5ns15C,Tokyo Machine,PLAY,PLAY,j-pop,183949,0,128.096,56,7,-2.15,False,4,0.74,0.934,0.617,0.00207,0.0964,0.164,0.323
+62759,5a1iz510sv2W9Dt1MvFd5R,Michael Bublé,Christmas (Deluxe Special Edition),It's Beginning to Look a Lot like Christmas,j-pop,206639,1,94.775,67,4,-11.714,False,3,0.339,0.214,0.363,0.908,7.47E-6,0.0375,0.341
+62760,3rxLb8cYhEnv3ZEoluDdpA,ASIAN KUNG-FU GENERATION,Re:Re:,Re:Re: (Single ver.),j-pop,332240,0,155.008,55,6,-5.051,False,4,0.464,0.868,0.512,2.49E-4,4.2E-4,0.0502,0.248
+62761,33w7LgNJIuhs5dhSYZ0do1,EGOIST,Extra Terrestrial Biological Entities,Departures 〜あなたにおくるアイの歌〜,j-pop,255013,1,143.862,50,2,-8.172,False,4,0.473,0.431,0.283,0.493,0,0.0305,0.0752
+62762,3Zj9WSEjueL8UecCOC67tT,Cö Shu Nie;Naeleck,SAKURA BURST (Naeleck Remix) - SACRA BEATS Singles,SAKURA BURST (Naeleck Remix) - SACRA BEATS Singles,j-pop,247384,0,130.003,49,11,-4.267,False,4,0.793,0.809,0.158,0.0251,3.36E-4,0.0408,0.352
+62763,6hs3SDnbO3f6VQuPO4KBEb,Rusted Root,Music From Party of Five,Send Me on My Way,j-pop,263333,1,119.46,70,0,-9.556,False,4,0.5,0.681,0.745,0.114,4.01E-5,0.0672,0.139
+62764,0MnPdlWm7MSSUnEamZp5lX,Macaroni Empitsu,星が泳ぐ,星が泳ぐ,j-pop,239078,1,94.973,56,0,-5.377,False,4,0.566,0.743,0.649,0.0265,0,0.0361,0.329
+62765,1p8B91IjEd9fjOPOSsEN75,MADKID,RISE,RISE,j-pop,206213,1,164.981,51,7,-3.202,False,4,0.47,0.932,0.584,0.0182,0,0.174,0.464
+62766,0qniD6tjpPcGN9imRrBWLg,MADKID,CIRCUS,RISE,j-pop,209226,1,165.104,56,7,-3.162,False,4,0.472,0.929,0.481,0.0197,0,0.156,0.345
+62767,3ZYKbGJ6I5adT5ozf0N6OH,Vickeblanka,Lucky Ending,Lucky Ending,j-pop,255633,1,82.98,45,11,-5.116,False,3,0.598,0.611,0.452,0.231,0,0.0227,0.152
+62768,2fcgSnUoEvzDVxrQZMx0bu,TIA RAY;HOYO-MiX,Starfall (Honkai Impact 3rd Ost - Impressions),Starfall - Honkai Impact 3rd Ost - Impressions,j-pop,191052,1,151.985,53,6,-4.183,False,4,0.444,0.836,0.272,0.205,9.37E-4,0.106,0.097
+62769,55n4sFy8tjysBcCjQFwX3A,UVERworld,LIFE 6 SENSE,CORE PRIDE,j-pop,258693,0,92.513,59,2,-3.131,False,4,0.482,0.97,0.441,0.005,0,0.193,0.233
+62770,0MJ5wsGpqu0gTJkx53ewxc,whaledontsleep;Ado,Nerenaiyoruni ka-tenwoakete,osmanthus,j-pop,140487,0,123.034,56,7,-4.298,False,4,0.685,0.739,0.791,0.0199,0,0.0895,0.0882
+62771,1DhIZ6MAZRPXro2JLRDYr7,Perry Como,Take It Easy With Perry Como,Killing Me Softly With Her Song,j-pop,268160,0,103.712,47,8,-22.655,False,4,0.493,0.117,0.243,0.926,0.00522,0.0299,0.109
+62772,1Jwc3ODLQxtbnS8M9TflSP,The Bangles,The Essential Bangles,Walk Like an Egyptian,j-pop,204706,1,103.022,63,11,-7.818,False,4,0.724,0.891,0.818,0.00344,4.72E-5,0.0995,0.3
+62773,6CgHT157NTPpgLLCGsnayS,Yumi Matsutoya,acacia [アケイシャ],acacia [アカシア],j-pop,254333,1,149.812,36,7,-10.145,False,4,0.56,0.539,0.445,0.117,0.00271,0.0283,0.686
+62774,4EhkMUdkAVAsfsjbWU6PPr,The Bangles,Different Light,Manic Monday,j-pop,184173,1,121.737,46,2,-11.623,False,4,0.685,0.571,0.869,0.335,2.38E-6,0.0299,0.214
+62775,2p8ji4NXTvYvAIRnK2d1kH,Fujifabric,FAB FOX,茜色の夕日,j-pop,339493,1,138.006,36,7,-5.306,False,4,0.553,0.546,0.438,0.0825,1.55E-5,0.0263,0.0764
+62776,1sIIlVrnPhrvmTrHtzM7tV,Mrs. GREEN APPLE;Sonoko Inoue,青と夏,点描の唄,j-pop,307066,1,152.014,72,0,-4.612,False,4,0.502,0.632,0.308,0.447,0,0.0273,0.103
+62777,2JEtsJqQ0bqLI7CUec2qRS,AK-69,DAWN,Hangover,j-pop,233653,0,97.964,37,3,-3.485,True,4,0.651,0.756,0.402,0.0107,0,0.0281,0.201
+62778,2rMpjMvi9zOuyEIqw1BF0N,Özdemir Erdoğan,Unutulmayan Şarkılar,İkinci Bahar,j-pop,195026,0,138.129,38,7,-19.399,False,3,0.406,0.232,0.454,0.853,8.77E-4,0.051,0.194
+62779,0sb3pBIh5uLEWCleeeSuzn,櫻坂46,BAN (Special Edition),それが愛なのね,j-pop,265853,0,132.021,37,3,-1.34,False,4,0.626,0.961,0.758,0.328,0,0.104,0.33
+62780,7BlXfDOO0RgCXZGY4X7YXY,サザンオールスターズ,KAMAKURA,Computer Children,j-pop,372000,0,122.083,37,11,-7.097,False,4,0.647,0.914,0.619,0.199,1.8E-4,0.0676,0.528
+62781,3lYyZn7dfMnmnheXaHuRW6,櫻坂46,五月雨よ (Special Edition),制服の人魚,j-pop,291306,0,117.983,38,0,-3.839,False,4,0.705,0.871,0.918,0.0132,5.6E-6,0.0537,0.0919
+62782,3rPxhq3V4HtMTtuFP8DqM7,EXILE,EXILE LOVE,SUMMER TIME LOVE,j-pop,239880,1,115.043,36,0,-3.882,False,4,0.618,0.935,0.668,0.00667,4.79E-5,0.0614,0.254
+62783,2yvM6c4sAkjcd4UrJap3v8,サザンオールスターズ,壮年JUMP,壮年JUMP,j-pop,270773,1,166.128,36,2,-4.799,False,4,0.485,0.734,0.505,0.54,4.79E-4,0.0388,0.0822
+62784,2xc6H7lIlHV4vjGtxBV3do,CHIAKI SATO,J-Pop 輕旅行,Summer Gate,j-pop,311666,1,91.992,0,6,-7.728,False,4,0.659,0.658,0.733,0.418,0.0187,0.042,0.104
+62785,5oZ0VS1ppSqmHywxgfjo4j,PornoGraffitti,WORLDILLIA,Mugen,j-pop,254426,0,94.909,36,7,-5.091,False,4,0.597,0.952,0.899,0.0934,0,0.0462,0.276
+62786,6j3zfrbA8VyxoWA1dihHF2,Naoto Inti Raymi,愛してた,愛してた,j-pop,265560,1,76.85,37,7,-5.182,False,4,0.481,0.538,0.364,0.354,0,0.0307,0.287
+62787,1AapIlVhixpMUU8aDHDXPa,BOØWY,JUST A HERO,WELCOME TO THE TWILIGHT,j-pop,360626,1,120.161,36,2,-6.524,False,4,0.639,0.784,0.694,0.0151,0.352,0.0284,0.198
+62788,4QYGss1JbmGTxte5nA4JNX,Mrs. GREEN APPLE,TWELVE,私,j-pop,367506,1,166.008,37,7,-5.623,False,4,0.484,0.618,0.464,0.166,2.5E-4,0.0246,0.11
+62789,7l06ahlZ3GuRjvNQcgOZXw,Namie Amuro,Body Feels EXIT,Body Feels EXIT,j-pop,262600,0,134.982,36,8,-5.956,False,4,0.632,0.964,0.783,0.00607,0.00154,0.0529,0.0461
+62790,2GIJcEKvpp2Ria2XR2jdg7,Naoto Inti Raymi,風歌キャラバン,Message,j-pop,287440,1,89.032,37,4,-3.625,False,4,0.573,0.795,0.434,0.077,0,0.0261,0.18
+62791,0n9lAjWZ9NLd1ZuAC6qa4k,Gregory Porter;Kem,Heartbreak Songs,Holding On,j-pop,256387,1,195.72,37,8,-7.873,False,4,0.486,0.35,0.124,0.148,3.28E-5,0.0776,0.0696
+62792,57NChv3uzjm8y4Y3x3Y8g0,Sertab Erener,Ben Yaşarım,Aç Sesini,j-pop,240933,1,67.006,38,5,-6.478,False,4,0.562,0.751,0.341,0.136,1.45E-6,0.0315,0.0895
+62793,3Sk2OkGplr7A5OvmLjTcQJ,Skypeace,青青ソラシドリーム(Selected Edition),オタパリパーティー,j-pop,279986,1,128.036,37,9,-2.316,False,4,0.63,0.992,0.671,0.0775,5.22E-6,0.104,0.102
+62794,5LhSIkQhAkINBgQZIyzS1i,Glenn Fredly;Audy,"Selamat Pagi, Dunia!",Terpesona,j-pop,300720,1,77.993,38,7,-6.363,False,4,0.558,0.723,0.7,0.213,0.00637,0.0294,0.06
+62795,7v6y0LgWhmP1IoMB575HWW,Sertab Erener;Can Bonomo,İyiliğe Ninniler,Fış Fış Kayıkçı,j-pop,424029,1,117.838,38,0,-13.431,False,4,0.657,0.134,0.119,0.986,0,0.0357,0.114
+62796,0NbDnRc1RKoEnMxvXpKn7c,Yabai T-Shirts Yasan,You need the Tank-top,NO MONEY DANCE,j-pop,172506,1,189.913,37,1,-1.233,False,4,0.403,0.97,0.658,0.00738,0.00101,0.147,0.32
+62797,3RrBcQlMGFdFtz1JMIHaK1,İlhan İrem,Bezginin Gizli Mektupları,Olanlar Olmuş,j-pop,487866,0,158.676,38,4,-6.95,False,4,0.275,0.491,0.32,0.891,0.0149,0.0375,0.295
+62798,5BrshJ5JeA1tX9e9AgFfKq,Paulo Sérgio,Sucessos Inesquecíveis,Quero Ver Você Feliz,j-pop,235827,1,97.083,38,7,-9.374,False,4,0.561,0.456,0.692,0.416,0,0.0281,0.0858
+62799,6BUfqtQcP26I7MNC5fAg7w,Sertab Erener,İyiliğe Ninniler,Uyu Yavrum Yine Sabah Oluyor,j-pop,131889,1,78.048,38,0,-10.133,False,3,0.536,0.237,0.107,0.976,1.42E-4,0.0305,0.0981
+62800,4KqsLRDsHTHCMhH5ktgc6K,People In The Box,聖者たち,聖者たち,j-pop,235306,0,100.022,51,9,-6.525,False,4,0.539,0.762,0.682,8.67E-4,0.455,0.0288,0.133
+62801,5U4PgFWzfzY7VEg9Ck4ziF,Fujii Kaze,LOVE ALL SERVE ALL,ガーデン,j-pop,229333,1,138.023,61,4,-8.332,False,4,0.589,0.527,0.576,0.0932,3.37E-4,0.0572,0.104
+62802,3RoHAivw8gRyzlWDsvbFTB,SCANDAL,TEMPTATION BOX,瞬間センチメンタル,j-pop,224626,1,167.908,55,2,-1.419,False,4,0.502,0.953,0.695,0.00831,0,0.063,0.432
+62803,648sjoR2ga0PXixXttyqzJ,Omoinotake,Long for,One Day,j-pop,223741,1,162.811,54,1,-5.415,False,4,0.568,0.727,0.797,0.0343,0,0.0542,0.197
+62804,6Bt6EU8gtqCCiz18Z19mfn,ラックライフ,Lily,Lily,j-pop,263893,1,133.06,49,11,-3.54,False,4,0.632,0.736,0.763,0.0537,0,0.0503,0.137
+62805,4o1s691Qn6lUmFh1Bl28NG,EGOIST,BANG!!!,BANG!!!,j-pop,196306,0,137.02,54,1,-0.643,False,4,0.625,0.94,0.783,0.138,0,0.142,0.227
+62806,3s067jTdOv8wnuUHeXdtjT,NICO Touches the Walls,オーロラ,ホログラム,j-pop,248906,1,156.12,56,0,-3.425,False,4,0.388,0.894,0.724,8.08E-4,0,0.0455,0.199
+62807,5v1dhqe9vgvp87eyd27hkb,yama,the meaning of life,麻痺,j-pop,198040,0,100.02,58,0,-3.558,False,4,0.309,0.941,0.704,0.0587,0,0.0763,0.435
+62808,19mjCzLuMHZ0Tyn3eI85bo,Yuuri,壱,シャッター,j-pop,248946,1,149.988,71,5,-5.582,False,4,0.606,0.579,0.661,0.512,0,0.033,0.381
+62809,1IISJrJingJVC2JItzHG67,RADWIMPS,Weathering With You,Fireworks Festival,j-pop,184960,0,141.967,45,9,-13.196,False,4,0.617,0.184,0.221,0.873,0.286,0.0437,0.0566
+62810,1PGCzcLCqV1yu9M3FmxKlu,Sukima Switch,POPMAN’S WORLD ~All Time Best 2003-2013~,ゴールデンタイムラバー,j-pop,339720,0,125.095,55,5,-5.19,False,4,0.647,0.864,0.767,0.00536,0,0.0296,0.403
+62811,5QGu0Yr6B8oHjlNNG9ncRG,STEREO DIVE FOUNDATION,STEREO DIVE,Daisy,j-pop,274893,1,170.03,50,9,-4.849,False,4,0.502,0.83,0.545,0.00982,5.48E-5,0.0554,0.0728
+62812,3LXpZ28ebxPHH1aUc9167L,Sukima Switch,スキマスイッチ,Ah Yeah!!,j-pop,308066,1,140.061,50,8,-5.447,False,4,0.481,0.933,0.502,0.00505,3.25E-6,0.0445,0.044
+62813,481beimUiUnMUzSbOAFcUT,SUPER BEAVER,突破口 / 自慢になりたい,突破口,j-pop,255080,1,103.512,54,8,-1.786,False,4,0.472,0.994,0.262,0.0259,0,0.114,0.0535
+62814,0ViUlnRMrbmuzGyqWbJc0j,KOBUKURO,時の足音,時の足音,j-pop,330013,0,81.522,36,6,-6.313,False,4,0.546,0.485,0.425,0.5,0,0.0243,0.148
+62815,3KnURrjsXA0TDce8N7iOwz,Kenshi Yonezu;Masaki Suda,BOOTLEG,灰色と青 ( + 菅田将暉 ),j-pop,332186,1,80.952,62,4,-4.883,False,4,0.522,0.597,0.387,0.345,0,0.0295,0.103
+62816,2IlivxoEfhgiVyuzNmEjfP,Konomi Suzuki,ULTRA FLASH,REALIZE,j-pop,243233,0,103.047,50,11,-3.378,False,4,0.596,0.916,0.407,0.0242,0,0.105,0.0786
+62817,6BdUwHKJ3VCmyGrq8cxTvr,PornoGraffitti,PORNO GRAFFITTI BEST BLUE'S,ヒトリノ夜,j-pop,247293,1,173.9,36,9,-4.591,False,4,0.55,0.957,0.656,0.129,0,0.0652,0.346
+62818,12MNPXTSJp3n2YvrzsCSv0,milet,eyes,Tell me,j-pop,223013,1,75.021,53,0,-6.612,False,4,0.666,0.481,0.336,0.136,0,0.0599,0.274
+62819,7JhZI4MzYLnjQdvxco3kVU,Ardhito Pramono,"Playlist, Vol. 2",Bulb,j-pop,225500,1,76.988,36,7,-9.38,False,4,0.561,0.427,0.449,0.109,0,0.0387,0.327
+62820,5Nv8sEUqdqrrNET339wP1X,Superfly,Presence,Presence,j-pop,249227,0,159.898,55,6,-6.302,False,4,0.378,0.726,0.108,0.00479,1.07E-4,0.0663,0.357
+62821,4oQ0u90vIpHYPnc85OeS1v,Macaroni Empitsu,ハッピーエンドへの期待は,mother,j-pop,215562,1,158.077,36,7,-4.431,False,4,0.457,0.814,0.514,0.053,0,0.0528,0.341
+62822,5AkV53fo1u01mi8r22JNeF,Ardhito Pramono;Aurélie,I Just Couldn't Save You Tonight (feat. Aurélie) [Story of Kale - Original Motion Picture Soundtrack],I Just Couldn't Save You Tonight (feat. Aurélie) - Story of Kale - Original Motion Picture Soundtrack,j-pop,219600,1,85.064,71,7,-9.831,False,4,0.372,0.322,0.152,0.851,1.02E-6,0.0398,0.108
+62823,4hdbEoLWOXIxhVKI5Kj3tx,Yumi Matsutoya,A GIRL IN SUMMER,海に来て,j-pop,290160,1,104.185,36,11,-10.219,False,4,0.708,0.714,0.585,0.206,0.00102,0.0354,0.332
+62824,5FY5XusUqcNTG3xeD9Rr1P,サザンオールスターズ,クリスマス・ラブ(涙のあとには白い雪が降る),クリスマス・ラブ(涙のあとには白い雪が降る),j-pop,354066,0,123.964,36,6,-4.673,False,4,0.492,0.733,0.489,0.196,0.00461,0.0303,0.409
+62825,3nRT5DZvVGnf9ElzQNbJ17,HOTEI,STILL ALIVE,STILL ALIVE,j-pop,250440,1,171.981,36,2,-2.888,False,4,0.465,0.988,0.665,0.00504,0.00166,0.074,0.313
+62826,5hQll2t2rfpVARhVjDVOYJ,frederic,oddloop,Oddloop,j-pop,255293,0,171.832,57,11,-3.937,False,4,0.424,0.899,0.74,0.0034,8.1E-5,0.0572,0.223
+62827,7JEUg9KqmpdIE5Nbb9ss66,Michael Bublé,love (Deluxe Edition),Love You Anymore,j-pop,182666,1,90.012,63,6,-7.785,False,4,0.693,0.257,0.603,0.869,0,0.0356,0.11
+62828,258W8DL3eRxMV1I1IjGyh1,AK-69,DAWN,上ヲ向イテ,j-pop,239800,1,83.951,36,9,-5.331,False,4,0.64,0.844,0.345,0.201,0,0.124,0.0784
+62829,31w9qcZRUBlKcY7l6y8xAB,Mr.Children,重力と呼吸,addiction,j-pop,268013,0,118.001,36,7,-4.333,False,4,0.535,0.967,0.422,0.00711,1.31E-6,0.0528,0.288
+62830,1xhNZa02TcBmtAThitATDo,Andien,Metamorfosa,Indahnya Dunia,j-pop,324920,1,136.004,37,1,-11.302,False,4,0.66,0.468,0.521,0.857,0.00576,0.0276,0.235
+62831,5Q2xFmSjxIlfzO0FJXLtb9,Mr.Children,I LOVE U,跳べ,j-pop,399400,1,133.982,36,7,-5.31,False,4,0.536,0.959,0.697,0.0136,5.96E-6,0.0415,0.333
+62832,1naVD19eofGpFf6wosmHIe,Perry Como,It's Impossible,And I Love You So,j-pop,197626,1,90.267,57,8,-17.47,False,4,0.415,0.22,0.268,0.878,0.651,0.0261,0.125
+62833,0foCYfdIVahzQlj6H9ym6x,Sertab Erener,Aşk Ölmez,Sessiz Gemi,j-pop,273000,0,135.872,38,7,-11.096,False,3,0.371,0.462,0.462,0.377,0,0.0583,0.26
+62834,6mkGCXSlkS9UId33ZC9VfS,TUBE,BEST of TUBEst ~All Time Best~,夏を待ちきれなくて,j-pop,275666,0,120.001,36,2,-4.965,False,4,0.607,0.859,0.456,0.0892,0,0.0399,0.0629
+62835,2k1AwEiV0YBMOckELYPQwj,サザンオールスターズ,闘う戦士(もの)たちへ愛を込めて,闘う戦士たちへ愛を込めて{戦士=もの},j-pop,274166,0,112.042,36,4,-3.507,False,4,0.593,0.893,0.801,0.0334,0,0.032,0.206
+62836,1Xrf5BJyUPBhGubo9VJiGS,My Hair is Bad,mothers,熱狂を終え,j-pop,216533,1,196.863,36,1,-3.698,False,4,0.366,0.97,0.682,0.0107,0,0.132,0.427
+62837,4bKDv3H7XigHrVYwUwCjiR,=LOVE,CAMEO,「君と私の歌」,j-pop,323186,1,173.948,37,11,-2.884,False,4,0.424,0.956,0.605,0.0257,8.58E-5,0.0966,0.378
+62838,4riYgZOhbrXholbKiSAx5s,TUBE,BEST of TUBEst ~All Time Best~,SUMMER DREAM,j-pop,252413,0,132.857,36,8,-5.342,False,4,0.677,0.879,0.797,0.222,0,0.0436,0.385
+62839,5gbMldBlwyoBcO1VtFxmg3,SPICY CHOCOLATE;Tak-Z;Kotobukikun,渋谷 RAGGA SWEET COLLECTION 3,出逢った頃のままで。,j-pop,237226,1,107.025,36,7,-1.755,False,4,0.677,0.91,0.938,0.171,0,0.0335,0.11
+62840,5RBkxxZAYHU7R9GuzEZk1g,BOØWY,PSYCHOPATH,ANGEL PASSED CHILDREN,j-pop,142000,1,199.824,36,7,-4.658,False,4,0.529,0.85,0.965,0.0116,0,0.0426,0.681
+62841,2urxlEnZeCJGQtv80pj0lr,櫻坂46,流れ弾 (Special Edition),美しきNervous,j-pop,263826,0,157.94,37,1,-2.792,False,4,0.513,0.918,0.814,0.0455,0,0.0626,0.0654
+62842,47wkGrU4Rxv5VbNfHmEqw4,Mr.Children,BOLERO,Tomorrow never knows,j-pop,308240,0,108.976,36,9,-7.983,False,4,0.627,0.519,0.216,0.0722,0,0.0256,0.179
+62843,6s2u8neVUCKOxvKDW6ZT9o,Sertab Erener,Ben Yaşarım,Belki De Aşk Lazım Değildir,j-pop,222733,0,172.044,38,7,-10.973,False,4,0.461,0.39,0.498,0.577,7.04E-6,0.0385,0.12
+62844,3JCh1ZWn1gG6hnfgLXh8XL,Novel Core,No Pressure,BABEL,j-pop,182506,1,150.12,36,9,-3.782,False,4,0.583,0.887,0.432,0.0261,0,0.0396,0.177
+62845,4KmcshOoqSPpyr6XJ0wsNR,the shes gone,FACE,ディセンバーフール,j-pop,337544,1,78.932,37,5,-4.978,False,4,0.48,0.58,0.264,0.102,8.04E-6,0.0289,0.144
+62846,4X4wmcy90VFeqSRkYWS1J3,GLAY,THE GREAT VACATION VOL.2 ~SUPER BEST OF GLAY~,サバイバル,j-pop,274466,1,157.859,36,4,-4.304,False,4,0.409,0.946,0.734,0.0136,0,0.0576,0.376
+62847,1NyBy7w03Bpum3LfvQBT9Q,Levent Yüksel,Uslanmadım,Bu Aşkın Katili Sensin,j-pop,245585,1,96.041,37,5,-5.863,False,4,0.656,0.797,0.397,0.0207,2.79E-6,0.0373,0.0605
+62848,2etqMd6kibMrZoPCPd2fMi,Robert Broberg,Höjdare,Mitt lilla fejs & jag,j-pop,79066,1,133.742,37,8,-9.582,False,4,0.833,0.528,0.87,0.893,0,0.238,0.604
+62849,46kKB60L52z7OXqZaxc8pJ,Billo's,Exitos De Billo's Caracas Boys,Mi Cali Bella,j-pop,187959,0,195.995,38,3,-6.782,False,4,0.454,0.621,0.877,0.49,1.15E-5,0.0816,0.131
+62850,722KsbM8nAmtP9quY41MO1,indigo la End,Crying End Roll,想いきり,j-pop,197040,1,159.988,54,9,-2.989,False,4,0.466,0.897,0.802,2.06E-4,0.253,0.0403,0.351
+62851,154Jycdld9dX9rBLE6L3v4,和ぬか,寄り酔い,寄り酔い,j-pop,216959,0,118.195,57,6,-6.525,False,4,0.591,0.665,0.694,0.14,0.00103,0.153,0.382
+62852,0I0l2Oo5zjpCEphpDJL0Pm,Motohiro Hata,言ノ葉,Rain - Long Ver.,j-pop,447306,1,92.02,44,9,-7.602,False,4,0.588,0.604,0.351,0.343,6.86E-5,0.024,0.252
+62853,0K8HZrpxySH9R001UPv8H5,Galileo Galilei,サークルゲーム,青い栞,j-pop,338960,1,132.001,44,4,-5.403,False,4,0.543,0.728,0.257,0.0154,1.42E-5,0.0292,0.136
+62854,12ZIRTS8x9RBgasDg3q27J,AmPm;みゆな,プリズム,プリズム,j-pop,238666,1,98.012,48,6,-7.059,False,4,0.63,0.538,0.238,0.0871,0,0.0318,0.0952
+62855,1a1wB12w5qTXLvz6et9ohH,Omoinotake,モラトリアム,モラトリアム,j-pop,287384,1,156.08,50,5,-3.805,False,4,0.564,0.688,0.448,0.254,0,0.055,0.322
+62856,18rmNlzEWr9DmYM0iBNUAl,Yamazaru,風,風,j-pop,249200,1,161.968,50,11,-1.91,False,4,0.437,0.961,0.619,0.0599,0,0.125,0.367
+62857,4RKXTsCXXXl9G06CqqJCBo,YOASOBI,もしも命が描けたら,もしも命が描けたら,j-pop,201626,0,99.987,52,10,-4.516,False,4,0.698,0.795,0.356,0.175,7.52E-4,0.0337,0.158
+62858,0FOVGBW0RpVRuDuUuN4ZVw,MAISONdes;和ぬか;asmi,ヨワネハキ,ヨワネハキ,j-pop,166966,1,108.025,65,7,-3.617,False,4,0.78,0.814,0.59,0.0432,8.28E-5,0.0291,0.168
+62859,3TKn9Pimpg49NboyPo0Hhl,GENERATIONS from EXILE TRIBE,Hard Knock Days,Hard Knock Days,j-pop,272773,1,92.024,53,6,-3.749,False,4,0.559,0.936,0.717,0.0139,0,0.0874,0.33
+62860,7uSLJCDetmdm3tQcoYLyty,Fujii Kaze,LOVE ALL SERVE ALL,旅路,j-pop,277026,1,172.025,61,9,-6.752,False,4,0.564,0.564,0.714,0.126,3.01E-6,0.0792,0.0787
+62861,3GIhgMadHu26VHLEeXviGD,DISH//,No.1 -Special Edition-,No.1,j-pop,232906,1,90.495,53,1,-4.3,False,4,0.498,0.879,0.64,0.0216,0,0.057,0.112
+62862,43qIVkhox6QU979YJHCW3E,B'z,SURVIVE,FIREBALL,j-pop,252502,1,98.049,36,7,-4.457,False,4,0.466,0.926,0.509,0.194,0,0.114,0.0837
+62863,099631AOgjCSzArD03TdRn,サザンオールスターズ,KAMAKURA,愛する女性とのすれ違い,j-pop,241800,1,99.822,36,7,-7.791,False,4,0.599,0.623,0.556,0.732,0.00317,0.0241,0.101
+62864,2MAVcVr2oylw2OZ3hojWYj,The Connells,Ring,'74-'75,j-pop,278973,1,144.202,67,11,-9.169,False,4,0.53,0.59,0.43,0.183,0.00227,0.025,0.0675
+62865,6T4V7p7PtNKRpQTDRbscrs,YUKI,うれしくって抱きあうよ,ランデヴー,j-pop,245240,1,124.96,35,0,-3.607,False,4,0.652,0.862,0.723,0.0951,1.77E-5,0.0344,0.195
+62866,1bIZxrSkbxatnTo8ObcIxX,Kenshi Yonezu,BOOTLEG,orion,j-pop,281906,1,104.022,58,8,-4.93,False,4,0.702,0.614,0.507,0.103,0,0.028,0.231
+62867,6H0PLsSYMzDOqhLgyOlzIj,Kenshi Yonezu,STRAY SHEEP,感電,j-pop,264533,0,103.101,66,8,-5.733,False,4,0.633,0.723,0.688,0.107,0,0.143,0.0818
+62868,6jZp2rNTYVlKwt20aMIcot,ONE OK ROCK,Save Yourself,Save Yourself,j-pop,197995,1,165.096,59,5,-2.709,False,4,0.503,0.849,0.762,0.00428,0,0.0615,0.0667
+62869,4m6PR2AVBoOHDoYjWAsRSp,EXILE,EXTREME BEST,Your eyes only〜曖昧なぼくの輪郭〜,j-pop,257306,1,120.957,36,0,-5.743,False,4,0.695,0.572,0.231,0.146,0,0.0328,0.13
+62870,3N6iNG7d9dx8ozDCzoO9Fh,サザンオールスターズ,素敵なバーディー(NO NO BIRDY),素敵なバーディー(NO NO BIRDY),j-pop,311333,0,90.458,35,9,-5.956,False,4,0.355,0.775,0.448,0.184,0,0.0935,0.0674
+62871,3HKENICtez4Mz0tnUqpFIP,Michael Bublé,It's Time,Save the Last Dance for Me,j-pop,218613,1,133.952,57,4,-9.121,False,4,0.745,0.45,0.807,0.288,0,0.0354,0.0538
+62872,3qlwQbFZnuIaw9SgBYni2x,櫻坂46,BAN (Special Edition),Microscope,j-pop,229866,1,130.001,37,0,-2.082,False,4,0.647,0.857,0.534,0.313,0,0.0527,0.2
+62873,2rQsg6LF9Ylm31vtYCjQvd,EXILE,EXTREME BEST,Carry On,j-pop,290066,1,115.99,36,9,-4.348,False,4,0.729,0.78,0.816,0.0336,0.00331,0.0305,0.319
+62874,1P3P9GZwKJvB6pm7HOkJss,Nükhet Duru,Onno Tunç Şarkıları,Seninle,j-pop,335533,0,141.609,36,7,-8.388,False,4,0.581,0.564,0.634,0.19,3.83E-6,0.0335,0.331
+62875,6jepRGVhLYqVZOf8qtRnoC,Yumi Matsutoya,40周年記念ベストアルバム 日本の恋と、ユーミンと。,わき役でいいから,j-pop,269482,1,111.217,36,5,-8.023,False,4,0.719,0.517,0.622,0.243,1.37E-6,0.0269,0.172
+62876,4e9zzuMk0A2PmL2OUMkLDB,Hinatazaka46,君しか勝たん (Special Edition),声の足跡,j-pop,287000,1,129.995,37,8,-2.22,False,4,0.602,0.777,0.584,0.0408,0,0.028,0.0836
+62877,3KVI0WQZpi7J91dY2Zk8Im,サザンオールスターズ,世に万葉の花が咲くなり,CHRISTMAS TIME FOREVER,j-pop,259680,1,202.086,36,7,-5.451,False,4,0.361,0.69,0.328,0.485,2.97E-4,0.0797,0.117
+62878,5g3W1KDIaY5l83Z34fhinl,ケプラ,デイズ オブ ユース,おねだり,j-pop,231599,1,125.092,36,2,-4.245,False,4,0.59,0.589,0.534,0.00209,0,0.0309,0.0715
+62879,683p6Ov3orc4ICLOKi1Yn6,UVERworld,THE ONE,Don’t Think.Feel,j-pop,226173,0,97.484,36,4,-3.598,False,4,0.549,0.947,0.592,3.37E-4,0,0.152,0.252
+62880,63MV3du87rHqgjQ7uCLNUg,Mr.Children,REFLECTION{Drip},斜陽,j-pop,228533,0,128.176,35,4,-4.866,False,4,0.467,0.859,0.663,8.37E-4,0,0.0348,0.341
+62881,7B2bxY9Zbqpa1YW8KzdJHp,Hinatazaka46,ソンナコトナイヨ (Special Edition),君のため何ができるだろう,j-pop,297880,1,141.999,37,10,-3.472,False,4,0.553,0.89,0.513,0.389,0,0.0437,0.315
+62882,77A6OIwplinl9nIAP6Fi1T,Creep Hyp,吹き零れる程のI、哀、愛,マルコ,j-pop,223919,1,94.953,36,7,-5.299,False,4,0.623,0.66,0.602,0.0513,0,0.0275,0.0949
+62883,3N14sR0jCqraUtHsZ4uWe6,EXILE,SUNSHINE,約束 〜promises〜,j-pop,278120,1,152.059,36,0,-6.683,False,4,0.367,0.648,0.382,0.321,0,0.0719,0.104
+62884,6O4bcP0E4z0nq5WxLN8ski,UNISON SQUARE GARDEN,Populus Populus,場違いハミングバード,j-pop,288933,0,145.947,36,2,-2.362,False,4,0.523,0.934,0.726,0.0238,0,0.104,0.207
+62885,2Y51hgeUpf5DgH4X8NgJUn,櫻坂46,五月雨よ (Special Edition),I'm in,j-pop,301773,1,138.971,37,3,-3.57,False,4,0.642,0.97,0.553,0.215,0,0.0698,0.259
+62886,2VFWQZPcKZeyd30TcoXJvb,Mr.Children,Kind of Love,All by myself,j-pop,271640,1,113.006,35,7,-8.956,False,4,0.664,0.881,0.923,0.0219,3.82E-6,0.0405,0.141
+62887,0zmOnwMT92MMZxfE04TbKt,ONE OK ROCK,Luxury Disease,Vandalize,j-pop,194695,1,133.965,58,10,-4.538,True,4,0.569,0.917,0.582,0.00458,0,0.0575,0.221
+62888,2KXN1Ms7rkb92cEswuDeMH,DREAMS COME TRUE,THE LOVE ROCKS,JET!!!,j-pop,296293,1,119.625,35,2,-5.027,False,4,0.787,0.812,0.529,0.0122,0,0.038,0.0768
+62889,0P6Sri9zqvYC7Eswgmfeul,THE RAMPAGE from EXILE TRIBE,REBOOT,BOND OF TRUST,j-pop,252666,0,107.977,36,11,-3.592,False,4,0.677,0.912,0.614,0.216,0,0.0361,0.16
+62890,0mR71znbALcPjJUJXZfgHs,Didi Kempot,The Best of Didi Kempot,Cidro Janji,j-pop,326724,0,125.948,37,5,-10.357,False,4,0.679,0.488,0.792,0.432,0.0557,0.0313,0.191
+62891,2BHwWqwuwcC5Zk6dpThXph,Cornelis Vreeswijk,Tio vackra visor och personliga Person,Deirdres samba,j-pop,181800,1,100.481,38,0,-17.159,False,4,0.624,0.296,0.854,0.93,0.108,0.0585,0.128
+62892,6VR67hW1E1qUevxEAhBm9f,BOØWY,"""GIGS"" CASE OF BOφWY COMPLETE (Live From ""Gigs"" Case Of Boowy / 1987)","FUNNY BOY - FROM ""GIGS"" CASE OF BOOWY",j-pop,256213,0,162.823,36,9,-2.955,False,4,0.233,0.962,0.405,0.00852,2.32E-4,0.0825,0.507
+62893,387MQzCz2bbzc6PeM79MmK,MALIQ & D'Essentials,Musik Pop,Semesta,j-pop,285752,1,173.837,38,2,-7.223,False,4,0.391,0.721,0.478,0.333,5.39E-5,0.0473,0.121
+62894,5RV4zgdvrUwm5b4Zzt9rNs,Gündoğarken,Bir Yaz Daha Bitiyor,Sarmaş Dolaş,j-pop,197600,0,202.34,37,10,-5.472,False,4,0.326,0.789,0.684,0.129,0,0.0982,0.116
+62895,5lD350W4kZqNhjni7y4SbP,Gündoğarken,İstanbul Atina İstanbul,Gördüğüme Sevindim,j-pop,209760,0,151.158,37,9,-10.841,False,4,0.491,0.411,0.351,0.791,2.04E-6,0.03,0.259
+62896,5H2RIq9BmVHWqoPIhR385G,Tulus,Langsung Dari Konser Monokrom Jakarta (Live),Pembuka - Live,j-pop,212069,1,101.615,37,0,-9.378,False,4,0.636,0.599,0.653,0.00885,0.933,0.0282,0.14
+62897,0rUPzRvt6Pyl00OveAAqVU,Eva Dahlgren,En blekt blondins ballader,Vem tänder stjärnorna,j-pop,240746,1,161.741,37,2,-9.778,False,4,0.517,0.603,0.477,0.26,4.34E-4,0.0467,0.124
+62898,7iDDlE7hd3j6MhPHktza8o,C.V. Jørgensen,Tidens Tern,Sæsonen er slut,j-pop,273200,1,124.984,38,7,-8.651,False,4,0.51,0.651,0.596,0.553,2.28E-6,0.0348,0.107
+62899,3ZxYktDahEzqvcRPiRje2l,Erasmo Carlos;Rita Lee,Fiesta temática 70s,Minha Fama De Mau,j-pop,189840,1,144.967,0,9,-3.65,False,4,0.564,0.913,0.962,0.505,7.15E-6,0.182,0.221
+62900,4YgEwanzISFU4xa27saTux,YUZU,Land,Reason,j-pop,304320,1,122.527,47,7,-3.128,False,4,0.363,0.819,0.468,0.0591,0,0.0634,0.0988
+62901,0Z51sIImtvHFIVomgeS1R7,SPYAIR,轍~Wadachi~,サクラミツツキ,j-pop,217226,1,179.036,49,8,-4.07,False,4,0.315,0.907,0.332,2.9E-4,0.00255,0.0575,0.184
+62902,6wKmxUeMJAoz2GpMrw95z5,YOASOBI,ハルカ,ハルカ,j-pop,243613,1,100.016,61,1,-5.123,False,4,0.712,0.817,0.679,0.0717,7.21E-6,0.0279,0.146
+62903,7LI2pQoE3fWfOQuds2paXs,Fujii Kaze,LOVE ALL SERVE ALL,へでもねーよ - LASA edit,j-pop,188946,1,175.966,58,0,-5.899,False,4,0.506,0.861,0.647,0.0615,1.89E-5,0.15,0.387
+62904,5pz5S3ZqMPnd8or4IGUVho,Survive Said The Prophet,RED,RED,j-pop,253893,1,107.997,53,5,-4.592,False,4,0.449,0.693,0.423,0.0165,0,0.0351,0.302
+62905,2N4lCwOeFRX7qrbMPRcZ7d,back number,ベルベットの詩,ベルベットの詩,j-pop,254160,1,147.955,73,10,-3.965,False,4,0.495,0.71,0.609,0.00947,0,0.0606,0.0577
+62906,4Dygh4Ef0TFQQOvKbLGbXf,SPYAIR,轍~Wadachi~,I Wanna Be...,j-pop,235013,1,126.038,51,1,-2.114,False,4,0.437,0.869,0.588,4.42E-4,0.00137,0.0566,0.356
+62907,1GSPV6AYG8NrtpgqhWx893,SCANDAL,Queens are trumps -切り札はクイーン-,HARUKAZE,j-pop,277280,1,82.61,52,4,-0.987,False,4,0.459,0.872,0.579,0.0505,0,0.053,0.166
+62908,7AIj86wFWqm7X1TZ2hzHwS,Masaki Suda,虹,虹,j-pop,258733,1,143.961,62,5,-5.049,False,4,0.548,0.6,0.296,0.071,0,0.0297,0.192
+62909,6AJppuCk5EE86paOdDI4yL,Fujii Kaze,HELP EVER HURT NEVER,Tokuninai,j-pop,205253,1,99.035,50,7,-6.613,False,4,0.727,0.563,0.588,0.0374,6.43E-5,0.0272,0.311
+62910,0bBl2jjpCFCgRd60BowZoV,yama,the meaning of life,血流,j-pop,208093,0,136.979,59,10,-3.766,False,4,0.743,0.718,0.897,0.201,0,0.0336,0.319
+62911,0JnOpiUieuk9SdRv7Fkw2P,『ユイカ』,恋泥棒。,恋泥棒。,j-pop,219643,1,109.054,59,11,-6.379,False,4,0.71,0.718,0.813,0.0483,3.26E-6,0.0257,0.0881
+62912,7w1taFiEu8GGQJkzQaEWpx,ヨルシカ,チノカテ,チノカテ,j-pop,248300,1,169.937,66,1,-8.016,False,4,0.698,0.382,0.672,0.629,1.12E-6,0.0491,0.0997
+62913,5SgFX13gtlQfsNUpoPshwD,Masaharu Fukuyama,Good night,Good night,j-pop,354213,1,145.908,35,7,-7.247,False,4,0.522,0.498,0.221,0.0758,1.51E-6,0.0257,0.25
+62914,4eBgSyDDQqKHyxCvkqghs7,STEREO DIVE FOUNDATION,STORYSEEKER,STORYSEEKER,j-pop,232800,1,111.98,47,2,-7.784,False,4,0.573,0.769,0.556,0.0316,0,0.0736,0.187
+62915,5D9MPWdY2hjSeTIGE5n5kv,YOASOBI,THE BOOK,ハルカ,j-pop,243613,1,100.016,62,1,-5.123,False,4,0.712,0.817,0.679,0.0717,7.21E-6,0.0279,0.146
+62916,5EsSmQhV0aw6W9Uce4A6tj,サザンオールスターズ,気分しだいで責めないで,気分しだいで責めないで,j-pop,214133,0,151.898,35,7,-4.134,False,4,0.504,0.907,0.784,0.0246,0,0.26,0.215
+62917,7lCCCIPQW4MNdTaKFTWhny,EXILE,願いの塔,願い,j-pop,249306,1,129.926,35,0,-6.019,False,4,0.499,0.506,0.282,0.331,0,0.0306,0.111
+62918,3K3OgEreGk1pjYaNnOzW0o,B'z,Brotherhood,銀の翼で翔べ,j-pop,235223,0,106.37,36,10,-4.033,False,4,0.418,0.965,0.76,2.6E-5,2.36E-4,0.102,0.083
+62919,6qX3zkcaTiA3ZYfrLJGXVL,Macaroni Empitsu,ハッピーエンドへの期待は,ワルツのレター,j-pop,226216,0,108.001,35,3,-7.488,False,4,0.655,0.734,0.69,0.0818,2.12E-6,0.0342,0.105
+62920,64IW9B6v46KqKD3DadcQ7g,GReeeeN,イカロス,イカロス,j-pop,190360,1,159.932,35,0,-3.391,False,4,0.605,0.941,0.612,0.136,0,0.0869,0.391
+62921,5dOtg9LgnUYyUsIpV1AAlQ,Creep Hyp,吹き零れる程のI、哀、愛,傷つける,j-pop,347864,1,128.078,36,3,-7.272,False,4,0.641,0.382,0.216,0.794,0.00508,0.0286,0.0865
+62922,39fRhvrD5Hy1SYg7OJIk98,19,無限大,すべてへ,j-pop,260403,1,78.049,35,0,-5.143,False,4,0.493,0.776,0.529,2.7E-4,0.00108,0.0289,0.361
+62923,7KrQGQMvVmybKF2KQoUwDz,Kiwini Vaitai,Can We - Single,Can We,j-pop,248780,1,82.035,36,4,-7.076,False,4,0.81,0.697,0.938,0.287,4.65E-4,0.0814,0.0808
+62924,5XM9vDwoi7lxE9tWITzuaf,EXILE,THE MONSTER〜Someday〜,愛すべき未来へ,j-pop,294840,1,139.936,35,7,-7.185,False,4,0.527,0.558,0.311,0.0776,0,0.0286,0.0917
+62925,1XyYs3w2qNU7TFyPxBYgVt,PornoGraffitti,PORNOGRAFFITTI 15th Anniversary “ALL TIME SINGLES”,瞬く星の下で,j-pop,229106,1,134.944,35,2,-3.979,False,4,0.584,0.965,0.564,0.0537,0,0.0802,0.331
+62926,2MKLbFPQ3QDXpQ0KnS06Kl,Norah Jones,Feels Like Home,Those Sweet Words,j-pop,202640,1,103.152,64,2,-10.699,False,4,0.798,0.234,0.403,0.875,6.26E-4,0.0317,0.134
+62927,16z1OIZIs2ljjlpboipspk,Berry Goodman,Spring Spring Spring,さくら,j-pop,283493,1,96.026,36,3,-5.173,False,4,0.667,0.83,0.691,0.229,0,0.0492,0.0873
+62928,0MuNLdcYFEx8NC7ormxtYX,BOØWY,SINGLES,“16”,j-pop,236146,1,99.475,35,4,-5.294,False,4,0.555,0.935,0.376,0.0114,0.00176,0.112,0.214
+62929,4i2mHCOkZi3sZSDekVxwTj,EXILE,Pure / You're my sunshine,Pure,j-pop,246146,1,110.981,36,5,-5.498,False,4,0.711,0.687,0.318,0.351,0,0.027,0.288
+62930,5OQDBVmK02eSIw4s7cpe4B,PornoGraffitti,m-CABI,ジョバイロ,j-pop,262320,0,126.032,35,9,-4.791,False,4,0.711,0.928,0.775,0.179,0,0.0409,0.331
+62931,7DyL3BG336XzjcxAoxH8Gr,Hinatazaka46,ソンナコトナイヨ (Special Edition),好きということは…,j-pop,268560,1,147.969,36,8,-2.908,False,4,0.454,0.892,0.604,0.0628,0,0.0624,0.333
+62932,4q3si6Gm6keb48hg3T7kZT,Mr.Children,It's a wonderful world,渇いたkiss,j-pop,314000,1,89.868,35,2,-7.399,False,4,0.525,0.603,0.507,0.324,2.38E-4,0.0249,0.12
+62933,38nzEcvHjV3iRLAlq6tQJO,neguse.,「ハッピーな暮らし」,秋の終,j-pop,225960,1,185.682,37,8,-3.44,False,4,0.387,0.843,0.625,0.00287,0,0.0523,0.367
+62934,5wmUZFDrHXM5zY1Eyg4Vxq,=LOVE,あの子コンプレックス,僕のヒロイン,j-pop,251493,1,163.998,36,6,-3.204,False,4,0.5,0.943,0.563,0.0292,0,0.0472,0.0349
+62935,2x8BetKgW0IRTnlbKxwTiZ,Bo Sundström,Det kanske händer,Som vanligt,j-pop,174040,1,82.335,36,3,-13.221,False,3,0.483,0.146,0.288,0.853,8.51E-5,0.0329,0.151
+62936,3HSt1ZgyKd8MONJ722o8PT,Bo Kaspers Orkester,Amerika,Vi kommer aldrig att dö,j-pop,264226,0,110.153,37,5,-12.929,False,4,0.664,0.499,0.194,0.0589,8.26E-4,0.0298,0.103
+62937,7h76l7sXK3y6Q5JPKlzmZn,Reginaldo Rossi,A Volta,"Amor, Amor, Amor",j-pop,218333,1,132.646,37,11,-10.51,False,4,0.615,0.772,0.937,0.0542,1.56E-4,0.0325,0.0586
+62938,60zveH6Tphrz31QUcvaxwW,Ronnie Von,Grandes Sucessos - Ronnie Von,Pra Ser Só Minha Mulher,j-pop,245706,0,133.535,37,7,-7.522,False,4,0.453,0.482,0.365,0.786,2.64E-6,0.0417,0.222
+62939,1GXlCfljToRR5x50JFka8V,Jack Jones,pov: you ride on santa's sleigh,Mistletoe And Holly,j-pop,101826,1,98.439,0,6,-10.766,False,1,0.451,0.566,0.847,0.697,0,0.0382,0.119
+62940,2AyPaezdUdF96eyMvjm4vw,Mike Mohede,Kemenanganku,Tetap Setia,j-pop,273573,1,125.927,37,5,-6.115,False,4,0.347,0.515,0.278,0.555,0,0.0279,0.139
+62941,3y3RNToEkYGLmYjyIdj2CE,Luiz Ayrao,20 Super Sucessos: Luiz Ayrão,Nossa Canção,j-pop,158854,1,184.085,37,9,-5.557,False,4,0.411,0.577,0.357,0.65,0,0.0543,0.153
+62942,75dye5trvFJ5ypUCDoKAXs,Jack Jones,pov: you ride on santa's sleigh,Do You Hear What I Hear?,j-pop,179066,1,96.632,0,3,-12.157,False,4,0.304,0.34,0.308,0.88,4.0E-5,0.0298,0.223
+62943,1Y8ReIsiVuLav4zKxW2FLy,Jack Jones,pov: you have a holly jolly christmas,Mistletoe And Holly,j-pop,101826,1,98.439,0,6,-10.766,False,1,0.451,0.566,0.847,0.697,0,0.0382,0.119
+62944,6Bs7CYLm10SUlJNqTSy8hc,Jack Jones,Classic Christmas Music 2022,Do You Hear What I Hear?,j-pop,179066,1,96.632,0,3,-12.157,False,4,0.304,0.34,0.308,0.88,4.0E-5,0.0298,0.223
+62945,5ed6ezVcZb4tqkdh3ZWDLM,Jack Jones,The Greatest Jazz Mix,Wives And Lovers,j-pop,149920,0,129.251,0,5,-10.818,False,3,0.485,0.511,0.531,0.597,0,0.0318,0.169
+62946,3InPpeohu4RjhY3VP7EWGA,Stefan Sundström,Fisk i en skål,Har någon sett Sabina?,j-pop,257186,0,108.694,36,11,-4.253,False,4,0.487,0.856,0.433,0.00519,1.64E-4,0.0316,0.179
+62947,5m0IZCKuQ1ea4wCnpWr0ne,Jack Jones,World's Best Christmas Playlist,Mistletoe And Holly,j-pop,101826,1,98.439,0,6,-10.766,False,1,0.451,0.566,0.847,0.697,0,0.0382,0.119
+62948,7zjfRgoJpaGbWNoJkITe4g,Jack Jones,Weihnachtssongs,Mistletoe And Holly,j-pop,101826,1,98.439,0,6,-10.766,False,1,0.451,0.566,0.847,0.697,0,0.0382,0.119
+62949,1gqzfRT3W1VFfVAh6N7BrU,Jack Jones,Fiesta temática 60s,Mistletoe And Holly,j-pop,101826,1,98.439,0,6,-10.766,False,1,0.451,0.566,0.847,0.697,0,0.0382,0.119
+62950,4wUQvovMEkByMvZNCecZ9v,Junko Yagami,黄昏のBAY CITY,黄昏のBAY CITY,j-pop,250373,0,115.099,60,9,-5.462,False,4,0.775,0.837,0.842,0.5,0.00235,0.0343,0.298
+62951,3oZ1DkKe2ZcvPh5Ffv6L0c,yama,a.m.3:21,a.m.3:21,j-pop,208409,0,110.169,54,5,-5.006,False,4,0.634,0.736,0.752,0.295,1.1E-4,0.109,0.215
+62952,0NlM3asfhPzhDwm5frXquS,Vaundy,strobo,life hack,j-pop,226443,0,90.981,62,11,-5.987,False,4,0.711,0.655,0.759,0.0233,4.5E-4,0.047,0.115
+62953,1gtbPEFs1FsPgX0daraCdP,OHAYO;Shake Pepper;Yvngboi P,FTL Mixtape vol.2 (mixed by Thlive - DJMIX),GAL - Mixed,j-pop,146629,1,156.307,49,1,-12.285,True,4,0.826,0.453,0.807,0.00439,0,0.336,0.372
+62954,2KP76NyUIH8XNvWa84lRPi,BURNOUT SYNDROMES,ヒカリアレ,ヒカリアレ,j-pop,244800,1,177.948,47,7,-1.734,False,4,0.311,0.944,0.398,0.0116,0,0.14,0.383
+62955,3Gj9gaVfc3HHyqcIFaSa70,Yuuri,インフィニティ,インフィニティ,j-pop,245853,1,177.999,54,2,-5.193,False,4,0.555,0.66,0.786,0.228,0,0.0531,0.215
+62956,0cEill2tVJ38caZlb3LyFy,Fujii Kaze,damn,damn,j-pop,259237,1,129.984,54,7,-7.993,False,4,0.71,0.758,0.695,0.00348,5.87E-5,0.0331,0.0999
+62957,02cIqYTYys4M1RBFiBKIEt,Rie fu,Rie fu,Life is Like a Boat,j-pop,300306,1,100.258,49,11,-8.471,False,4,0.666,0.371,0.468,0.502,4.55E-5,0.0274,0.211
+62958,10zz9RZt9DnqcxNWksRNrx,Vaundy,strobo,怪獣の花唄,j-pop,224806,1,150.015,71,2,-3.498,False,4,0.425,0.939,0.638,0.00361,0,0.054,0.331
+62959,5DBOBP2zmNUXSOzb7Syywd,Tommy heavenly6,Heavy Starry Heavenly,Pray,j-pop,271106,1,178.05,50,11,-3.663,False,4,0.392,0.956,0.541,9.72E-5,0.0278,0.0939,0.145
+62960,08v1j4Hmy6uSiwXOnM5otQ,RADWIMPS,Your Name. (Deluxe Edition / Original Motion Picture Soundtrack),Zenzenzense - English Version,j-pop,279026,1,189.591,40,11,-3.872,False,4,0.356,0.888,0.642,2.73E-4,0,0.114,0.0675
+62961,4SDeatb7hVoFT8WAv0ZmMQ,AmPm;Michael Kaneko,Best Part Of Us,Best Part Of Us,j-pop,241040,0,113.989,36,10,-7.966,False,4,0.76,0.679,0.598,0.142,0.0814,0.0354,0.101
+62962,5xeoLspgsX1SuJmhqz0HHy,Yumi Matsutoya,OLIVE,最後の春休み,j-pop,282243,0,79.677,35,11,-8.893,False,4,0.518,0.412,0.295,0.6,0.00123,0.0285,0.0993
+62963,080sJ3SvQBXeGO6q1oIF6z,Shota Shimizu,ALL SINGLES BEST,I miss you -refrain-,j-pop,329346,1,97.994,36,0,-4.621,False,4,0.588,0.666,0.585,0.234,0,0.0251,0.317
+62964,2s2fORtcrwKwsmC4jNc8mJ,MAN WITH A MISSION,The World's On Fire,Seven Deadly Sins,j-pop,207000,0,142.887,56,8,-1.199,False,3,0.368,0.967,0.345,0.00497,0,0.15,0.223
+62965,5G0NPSOTLepHxUhEMlVjWj,SPYAIR,Rockin' the World,サムライハート(Some Like It Hot!!),j-pop,191493,1,113.02,57,3,-2.069,False,4,0.603,0.961,0.549,0.00319,6.09E-6,0.0636,0.0477
+62966,3tKggonCKJgCG7nroEH2np,Michael Bublé,I'll Never Not Love You,I'll Never Not Love You,j-pop,218390,1,144.363,60,11,-5.045,False,4,0.492,0.791,0.585,0.00816,1.87E-5,0.0703,0.11
+62967,7r9v0CLTunOwlbvdOFFgZo,Fujii Kaze,HELP EVER HURT NEVER,Tsumi No Kaori,j-pop,214200,0,154.963,50,11,-5.745,False,4,0.517,0.861,0.842,0.0466,0,0.0644,0.31
+62968,2EtscG8xGvOITpTS3O9DuF,KOBUKURO,ALL SINGLES BEST 2,流星,j-pop,307660,1,153.855,35,11,-5.037,False,4,0.376,0.551,0.256,0.698,1.01E-6,0.0292,0.324
+62969,2vk8PCaUuAZ63dsi1lqkn0,Big Star,#1 Record (Remastered),Thirteen,j-pop,154480,0,117.116,54,0,-10.296,False,4,0.456,0.344,0.359,0.565,9.19E-6,0.0298,0.114
+62970,2UHNvd8SjNGoEI6jXa2afx,櫻坂46,流れ弾 (Special Edition),On my way,j-pop,228573,1,137.931,36,9,-3.898,False,4,0.633,0.893,0.675,0.0562,0,0.0544,0.124
+62971,2cpXGHCXMVYenUo7va9arE,EXILE,EXTREME BEST,時の描片 〜トキノカケラ〜,j-pop,297133,1,102.983,35,7,-4.441,False,4,0.686,0.781,0.752,0.146,0,0.0272,0.0593
+62972,4HUmuIdScp4K9yjaCk73pD,Yura Yunita,YURA,Kataji,j-pop,222537,0,99.948,36,10,-4.771,False,4,0.872,0.581,0.691,0.289,7.72E-6,0.0593,0.0787
+62973,3P3rZBtohKIs5fFlz0Od3N,サザンオールスターズ,NUDE MAN,Oh!クラウディア,j-pop,207507,1,138.109,35,7,-8.124,False,4,0.509,0.552,0.349,0.591,0,0.0323,0.262
+62974,6VTqsood8U4PU4l8vIkcB8,Dohzi-T,誓い feat. YU-A,願い feat.YU-A <acoustic ver.>,j-pop,325933,1,168.735,35,2,-6.69,False,4,0.607,0.613,0.587,0.727,0,0.0852,0.332
+62975,60tUVMP03Vdo8ObbDFmuEu,Mr.Children,EVERYTHING,CHILDREN'S WORLD,j-pop,307640,1,139.907,35,9,-8.289,False,4,0.516,0.879,0.886,0.00789,7.35E-5,0.0339,0.305
+62976,3DzIir8DHaAK2ZXF0UWfJi,櫻坂46,Nobody's fault (Special Edition),Plastic regret,j-pop,221853,1,127.963,36,2,-3.687,False,4,0.711,0.893,0.855,0.428,0,0.0323,0.385
+62977,4hHXrRknhUT8omL1QSXcg9,TUBE,BEST of TUBEst ~All Time Best~,ガラスのメモリーズ,j-pop,255146,0,111.71,35,4,-3.923,False,4,0.598,0.891,0.573,0.571,0,0.0533,0.31
+62978,3BbBUezZTVqAIzoyyvxDrG,Berry Goodman,SING SING SING 6,Hello,j-pop,242946,1,94.985,36,8,-7.577,False,4,0.72,0.64,0.581,0.42,0,0.0461,0.117
+62979,6qSn3UidshFbbzxhvId2wf,Creep Hyp,イト,君が猫で僕が犬,j-pop,224906,1,105.99,35,0,-4.952,False,4,0.726,0.738,0.916,0.23,1.11E-4,0.0243,0.311
+62980,1Io7OqoTHDgM6BBf0o749L,YUKI,"Single Collection ""five-star""",メランコリニスタ,j-pop,264653,1,114.839,35,1,-4.446,False,4,0.76,0.842,0.625,0.229,0.0139,0.0421,0.358
+62981,169n0UZ3Ffun6EIBO4i2i3,My Hair is Bad,時代をあつめて,悪口たち,j-pop,153360,1,137.861,36,10,-3.798,False,4,0.669,0.888,0.842,0.0116,0,0.0502,0.247
+62982,1JWkD69eUsGG27nD9rzHyZ,Ello,Ello,Kisah Kita T'lah Usai,j-pop,278173,1,144.072,36,11,-7.416,False,4,0.501,0.45,0.282,0.264,1.03E-5,0.0266,0.104
+62983,0iUVV85Q1PAenDqkwfbycd,Lisa Ekdahl,Stop! In the Name of Love,Stop! In the Name of Love,j-pop,229480,0,107.969,36,7,-12.156,False,4,0.729,0.229,0.364,0.949,0.0669,0.0317,0.131
+62984,7i5IbgNkFA4JwfT4OAgdgD,9mm Parabellum Bullet,TOKYO - HALLOWEEN -,Vampiregirl,j-pop,191786,0,159.829,0,11,-3.702,False,4,0.378,0.934,0.602,0.0013,0.0149,0.107,0.322
+62985,1A42o35sy8P3UQgm6ArWGD,the shes gone,MORE,君のパレード,j-pop,212560,1,133.071,36,8,-4.491,False,4,0.536,0.836,0.664,0.0225,0,0.0388,0.115
+62986,5W3ih1h8VhaLDIvwgMIRvQ,GLAY;EXILE,EXTREME BEST,SCREAM,j-pop,327120,1,108.043,35,7,-3.962,False,4,0.596,0.927,0.588,0.0294,0,0.0546,0.0708
+62987,2YPTVl6YYkjN3iE4WLvx3t,Novelbright,SKYWALK,Count on me,j-pop,218173,1,169.825,36,5,-0.874,False,4,0.326,0.951,0.599,0.0225,0,0.0676,0.46
+62988,6PIfn2tJ1dhDBojV60T95E,9mm Parabellum Bullet,Halloween Hits,Vampiregirl,j-pop,191786,0,159.829,1,11,-3.702,False,4,0.378,0.934,0.602,0.0013,0.0149,0.107,0.322
+62989,1eoQsc67QBYVC4Pw84Lqk8,9mm Parabellum Bullet,Rock & Halloween,Vampiregirl,j-pop,191786,0,159.829,1,11,-3.702,False,4,0.378,0.934,0.602,0.0013,0.0149,0.107,0.322
+62990,0GyQ8MCMcla38fjfBZ5y7Y,9mm Parabellum Bullet,Helloween Party,Vampiregirl,j-pop,191786,0,159.829,1,11,-3.702,False,4,0.378,0.934,0.602,0.0013,0.0149,0.107,0.322
+62991,1YfTEptpSZ3lCZDZcuqjEE,Asu Maralman,Yalanmış - Yalnızlık,Yalanmış,j-pop,181280,0,102.909,37,0,-4.463,False,4,0.578,0.737,0.734,0.621,0,0.0342,0.69
+62992,3PocaVmCRctSQDbnz8gFSF,Glenn Fredly,Kacau Galau (Together Whatever Sessions Live),Medley: Sedih Tak Berujung / Akhir Cerita Cinta (Live) - Together Whatever Sessions Live,j-pop,605100,1,124.21,36,2,-11.87,False,4,0.329,0.41,0.141,0.0136,7.02E-5,0.0488,0.147
+62993,59OXtvGZaRujmtNZnLOlO7,Tulus,Langsung Dari Konser Monokrom Jakarta (Live),Langit Abu - Abu - Live,j-pop,267990,1,77.735,37,2,-13.925,False,1,0.256,0.204,0.323,0.814,0,0.0843,0.702
+62994,7cVX0XbrMraZTkYdrUXpaP,Erasmo Carlos;Marisa Monte,"Convida, Volume II",Tema de não quero ver você triste,j-pop,187960,1,97.98,38,2,-11.333,False,4,0.647,0.39,0.318,0.804,7.74E-6,0.0353,0.0808
+62995,4j7CuBuHghewN8vWynNXTE,Bo Kaspers Orkester,Kaos,Det smartaste jag gjort,j-pop,247400,1,90.366,36,10,-10.563,False,4,0.51,0.499,0.312,0.397,0.00565,0.0299,0.107
+62996,70tjkOzaNVqijwbGN8ensk,Marie Fredriksson,Den Sjunde Vågen,Mot okända hav,j-pop,233813,1,144.851,36,8,-10.707,False,4,0.362,0.212,0.138,0.922,0.00238,0.0319,0.139
+62997,4A3tO9Xd36KJX2gu7ctSww,Reynaldo Armas,18 Excepcionales Exitos,Mi Credo,j-pop,243293,1,91.042,37,0,-9.346,False,3,0.67,0.545,0.886,0.622,0,0.0371,0.311
+62998,3IgRrYHxRKCpwt25lU0Yca,Paulo Sérgio,Bis Jovem Guarda - Paulo Sergio,No Dia Em Que Parti,j-pop,142360,1,133.017,37,2,-5.651,False,4,0.604,0.582,0.749,0.524,0,0.0491,0.262
+62999,1UhjmZcKXhl7PYtYrHKwRO,Madeleine Peyroux,Careless Love,Careless Love,j-pop,231786,1,108.244,36,1,-9.912,False,4,0.701,0.419,0.327,0.828,0.0368,0.0397,0.112

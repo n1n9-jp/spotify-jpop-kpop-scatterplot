@@ -1,0 +1,21 @@
+
+.ui.header {
+    margin-top: 0rem !important;
+}
+
+.ui.segment {
+    padding: 0 0;
+}
+
+.caption {
+    color: gray;
+}
+
+form .item {
+    float: left;
+    margin-right: 2.0em;
+}
+
+form .item input {
+    margin-right: 0.5em;
+}
